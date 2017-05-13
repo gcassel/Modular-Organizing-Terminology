@@ -1,5 +1,5 @@
 # Modular-Organization-Terminology
-This is a work-in-progress set of cross-referenced specifications for modular information, organization, communication and collaboration [technology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technology). 
+This is a work-in-progress set of cross-referenced specifications for modular information, organization, communication and collaboration [technology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technology.md). 
 
  These specifications are meant to enable reasonably flexible use of each term, without imparting unnecessary strict definition, and to facilitate the grassroots development of general standards for modular terminology.
 
