@@ -5,4 +5,4 @@ This is a work-in-progress set of cross-referenced specifications for modular in
 
 This document supports an action, process and systems based philosophy of science and language.  As a personal work of intentionally human-centered design, this document integrates descriptions of physical, mental and social experiences and concepts within an intentionally minimal terminology for mental content.  One of the key goals of this document is to facilitate more effective and consistent descriptions of the apparent relationships between physical, mental and social experiences.
 
-***to be continued***
+***Note: this repository will be edited quite frequently as internal hyperlinks are develped.***
