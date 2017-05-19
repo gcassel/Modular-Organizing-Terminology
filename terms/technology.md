@@ -1,4 +1,4 @@
-Technology is an expansive term which describes tools, techniques, and systems of tools and techniques.  
+Technology is an expansive term which describes [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md), [techniques](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technique.md), and [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) of tools and techniques.  
 
 Technology enables agents to perform intentional processes, including functions which create or enhance fitness within the context of desired goals.
 
