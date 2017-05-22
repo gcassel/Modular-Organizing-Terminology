@@ -10,4 +10,4 @@ Fluid forms often last briefly.  For example, an identifiably shaped gust (four 
 
 Solid forms may also last briefly.  For example, a snowflake may melt a few seconds after landing on a warm surface.  However, solid forms may last long periods in the absence of intensely or persistently creative/destructive energy.  For example, a mountain may endure (while slowly eroding) for millions of years.   
 
-*Note*:  **Forms often function as elements** in models (or overviews) with lower levels of detail.  For instance, snowflakes and mountains often function as conceptual elements, despite being clearly identifiable as (complex) forms.
+*Note*:  **Forms often function as elements** in larger models (or overviews) with lower levels of detail.  For instance, snowflakes and mountains often function as conceptual elements, despite being clearly identifiable as (complex) forms.
