@@ -1,8 +1,8 @@
 # Modular-Organization-Terminology
-This is a work-in-progress set of cross-referenced specifications for modular information, organization, communication and collaboration [technology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technology.md). 
+This is a work-in-progress set of cross-referenced terms for modular information, organization, communication and collaboration [technology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technology.md). 
 
-These specifications are meant to enable reasonably flexible use of each term, without imparting unnecessary strict definition, and to facilitate the grassroots development of non-coercive *protocols* and *standards* for modular information, organization, communication and collaboration.
+The hypertextually-related descriptions here are meant to enable reasonably flexible use of each term, without prescribing excessive strictness or precision, and to help facilitate the grassroots development of non-coercive *recipes* and *standards* for modular information, organization, communication and collaboration.
 
-This document supports an action, process and systems based philosophy of science and language.  As a personal work of intentionally human-centered design, this document integrates descriptions of physical, mental and social experiences and concepts within an intentionally minimal terminology for mental content.  One of the key goals of this document is to facilitate more effective and consistent descriptions of the apparent relationships between physical, mental and social experiences.
+The terms and descriptions here support an action, process and systems based philosophy of science and language.  As a personal work of intentionally human-centered design, this repository integrates descriptions of physical, mental and social *experiences and concepts* within an intentionally minimal terminology for physical content.  One of the key goals of this document is to facilitate more effective and consistent descriptions of apparent relationships between physical, mental and social experiences.
 
 ***Note: this repository will be edited quite frequently as internal hyperlinks are developed.***
