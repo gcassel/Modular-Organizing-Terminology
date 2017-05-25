@@ -1,0 +1,1 @@
+An output is an [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) or [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which emerges from a process or [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).
