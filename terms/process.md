@@ -1,0 +1,5 @@
+A process is an [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) with one or more identified [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md).  
+ 
+Processes may occur once, recurrently or continually.  
+ 
+Identified processes often function as [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).  Functional processes are often engineered to identify all important inputs and outputs.
