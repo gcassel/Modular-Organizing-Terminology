@@ -1,4 +1,4 @@
-A form is an arrangement or configuration of one or more elements.
+A form is an *arrangement* or *configuration* of one or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
 
 Forms are often simple, compound or complex.
 
