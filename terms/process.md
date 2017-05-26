@@ -1,4 +1,4 @@
-A process is an [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) with one or more identified [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md).  
+A process is an *interaction* with identifiable inputs, [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) and [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md).  
  
 Processes may occur once, recurrently or continually.  
  
