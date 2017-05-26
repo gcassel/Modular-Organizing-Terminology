@@ -1,8 +1,8 @@
-A form is an *arrangement* or *configuration* of one or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
+A form is a *set* or *network* of one or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
 
-Forms are often simple, compound or complex.
+Forms are often *simple*, *compound* or *complex*.
 
-Forms are always reasonably stable (per identifiable parameters) within identifiable contexts.  For instance, physical contexts have both temporal and spatial scale, within which forms can be identified by contextually relevant observers and/or sensors.  
+Forms are always reasonably stable (per identifiable parameters) within identifiable contexts.  For instance, physical contexts have both temporal and spatial scale, within which forms can be identified by potential observers and/or sensors.  
 
 Forms may be fluid or solid.  
 
