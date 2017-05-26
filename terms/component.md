@@ -1,0 +1,1 @@
+A component is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which performs an identifiable function in a [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).
