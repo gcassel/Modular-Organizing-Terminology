@@ -2,4 +2,4 @@ A specification is a strict description of a [type](https://github.com/gcassel/M
 
 Specifications do *not* try to describe or define all potential properties of a type.  They tend to focus upon what *must* and/or *must not* be present in each instance of the type.
 
-Specifications can be created by anyone for any reason.  See also standard.
+Specifications can be created by anyone for any reason.  See also [standard](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/standard.md).
