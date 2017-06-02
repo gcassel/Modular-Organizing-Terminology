@@ -1,1 +1,1 @@
-An agent is an individual or group which possesses [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agency.md) within an identifiable context.
+An agent is an individual or group which possesses [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agency.md) within an identifiable [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
