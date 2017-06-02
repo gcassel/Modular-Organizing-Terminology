@@ -4,4 +4,4 @@ The specifications of modules *must* indicate *required* [properties](https://gi
 
 Crucially, the (explicitly or implicitly defined) *interfaces* of modules enable them to be removed and replaced by other components which match their required specifications.
  
-People often reserve the use of “modular” specifically for *physical* [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md) and, by extension, the design of systems of modular tools.  However, agents often (either consciously or unconsciously) use at least somewhat modular creative techniques pursuit of complex [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md).
+People often reserve the use of “modular” specifically for *physical* [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md) and, by extension, the design of systems of modular tools.  However, agents often (either consciously or unconsciously) use at least somewhat modular creative techniques in pursuit of complex [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md).
