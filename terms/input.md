@@ -1,0 +1,3 @@
+An input is a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) or [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which is *added* to a set or a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md).
+
+Processes require specific types of inputs to create [interactions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) and [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md).  Processes may allow (or even *recommend*) the addition of non-required elements.
