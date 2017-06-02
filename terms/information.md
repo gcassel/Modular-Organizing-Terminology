@@ -1,0 +1,3 @@
+Information consists of [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) and [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *are present* or *hold meaning* within one or more identifiable [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+*Note: My much longer description of "information" elsewhere is gradually being updated.  It's difficult to create a root definition which sufficiently suits **physical, mental** and **social** information.*
