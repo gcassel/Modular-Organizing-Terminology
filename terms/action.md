@@ -6,7 +6,7 @@ Action can often be perceived as gradual change over time.  However, action may 
 
 Discretely identified actions are often perceived to be reactions to causes outside of the reacting form(s) or element(s).  This is especially common when the perceived causes are [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) who make conscious choices to perform actions.  (Such consciously chosen actions are often referred to as acts.) 
 
-Most actions are clearly part of interactions.  However, we rarely bother to fully describe interactions, partly for these important reasons:  
+Most actions can be clearly identified within the context of [interactions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md).  However, we rarely bother to *fully* describe interactions, partly for these important reasons:  
 
 1. Agents, and many other complex systems, are closely related to regulation and repair systems which enable them to create significant action without deeply influencing their identifiable properties.  (These regulating and repair systems may sometimes be distinguished as subsystems or as external support systems.)
 
