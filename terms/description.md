@@ -1,0 +1,3 @@
+Description is the [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [communication](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communication.md) which [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) attaches one or more perceived [properties](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md) to [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) and/or [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).  
+
+Description is *indicative* and is often, but not necessarily, *declarative*.
