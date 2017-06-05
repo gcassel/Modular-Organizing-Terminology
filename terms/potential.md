@@ -1,3 +1,3 @@
-A potential [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) or [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) is one which seems clearly possible or in one or more related contexts, regardless of whether it is or isn’t [actual](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/actual.md) in a specific context.
- 
-For instance, an element which is potential right *now* may become actual in the *future*.
+A potential [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) or [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) is one which seems clearly possible or present in one or more [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) which are clearly related to the *current* context.
+
+[Active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) forms and elements are always members of any (accurate, inclusive) set of potentials.  However, many potentials aren't active.  (For instance, an element which is potential right *now* may, or may not, become active in the *future*.)
