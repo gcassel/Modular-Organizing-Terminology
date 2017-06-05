@@ -1,3 +1,3 @@
-A property is a trait or behavior which is *potentially* or *actually* exhibited by a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) or [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md). 
+A property is a trait or behavior which is [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md)* or [actively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) exhibited by a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) or [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md). 
  
-Most properties are clearly determined *relatively* by *interactions* within identifiable contexts.
+Properties can be perceived, and described, according to influential [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) between forms and elements.
