@@ -1,12 +1,12 @@
-A form is a clearly identifiable *set* or [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of one or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
+A form is a clearly identifiable *set or [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md)* of one or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which remains reasonably stable within an identifiable context.
 
 --*Note: "Structure" is a closely related term.  However, a structure is most accurately described as a (common) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of form.  "Structure" will receive its own entry.*-- 
 
 Forms are often *simple*, *compound* or *complex*.
 
-Forms are always reasonably stable (per identifiable parameters) within identifiable contexts.  For instance, physical contexts have both temporal and spatial scale, within which forms can be identified by potential observers and/or sensors.  
+Forms are always reasonably stable (per identifiable parameters) within identifiable contexts, but those contexts may be defined physically or conceptually.  For instance, physical contexts have both temporal and spatial scale, within which forms can be identified by potential observers and/or sensors.  
 
-Forms may be fluid or solid.  
+Physical forms may be fluid or solid, and conceptual forms may have analogies to the strong bonds which establish physical "solidity".
 
 Fluid forms often last briefly.  For example, an identifiably shaped gust (four dimensional waveform) of wind may last a few seconds.  However, fluid forms also may persist indefinitely if sustained by persistent inputs of energy.  For example, a stretch of rapids on a river, or an oceanic whirlpool, may last for decades or centuries.  
 
