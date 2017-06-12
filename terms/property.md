@@ -2,6 +2,6 @@ A property is a trait or behavior which is [potentially](https://github.com/gcas
 
 In many cases, identified properties are believed to be active in most if not all possible contexts for the forms and/or elements which they've been applied to.  However, only the most fundamental and *definitive* properties may approach such "universality".   
 
-Empirical properties are perceived through recurrent association of perceived forms and elements.  They can't be indisputably "proven", but they may (in some cases) be consistently agreed upon by all agents within an clearly identifiable context.  (For instance, almost all of us seem to predictably perceive weight as a property of physical matter within a field of gravitational force.)
+Many properties of verbal and visual language, including all representations, are definitive/tautological.  By contrast, claims of empirical properties are developed uncertainly and subjectively, through recurrent association of perceived forms and elements.  Those claims can't be indisputably "proven", but they may (in some cases) be consistently agreed upon by all agents within an clearly identifiable context.  (For instance, almost all of us seem to predictably perceive weight as a property of physical matter within a field of gravitational force.)
  
 Properties can be perceived, and described, according to significantly influential [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) between forms and elements.
