@@ -1,14 +1,12 @@
-Action is *identifiable change* in organizational [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) and/or [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md), such as [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) and [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  
+Action is identifiable *[change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) over time*. 
 
-Action can often be perceived as gradual change over time.  However, action may sometimes be perceived as a sudden shift between discrete states within existing forms and elements.  Action may also be perceived as the creative emergence or destruction of forms or elements.
+*Important note*:  Specific agents and/or resources may or may *not* be identified as *exclusive or contributing **causes*** of actions.  *I will add an entry for "cause".*
 
-*An action* is a discretely identified change.  Gradually occurring change may be discretely identified by indicating qualitative parameters.  (For instance, many physical and chemical reactions will asymptotically approach a state which is practically identical to dynamic equilibrium.)
+Change over time-- i.e., action-- may be perceived gradually and indistinctly, *or* it may be perceived as a discrete "quantum" shift between the *presence or absence* of forms, elements or [properties](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md).   Gradual, indistinct action can be described by establishing periods of time during which identifiable action occurred. 
 
-Discretely identified actions are often perceived to be reactions to causes outside of the reacting form(s) or element(s).  This is especially common when the perceived causes are [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) who make conscious choices to perform actions.  (Such consciously chosen actions are often referred to as acts.) 
+Most actions can be clearly identified within a context of [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md).  However, we rarely bother to thoroughly describe interactions, partly for these practical reasons:  
 
-Most actions can be clearly identified within the context of [interactions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md).  However, we rarely bother to *fully* describe interactions, partly for these important reasons:  
-
-1. Agents, and many other complex systems, are closely related to regulation and repair systems which enable them to create significant action without deeply influencing their identifiable properties.  (These regulating and repair systems may sometimes be distinguished as subsystems or as external support systems.)
+1. Agents, and many other complex systems, are closely related to regulation and repair systems which enable them to create significant action without deeply influencing their identifiable properties.  (These regulating and repair systems may sometimes be distinguished as *subsystems* or as external *support systems*.)
 
 2. Many interactions occur between elements of such vastly different scales that it seems practically impossible, and unimportant, to distinguish significant changes in all of the acting elements.  
 
@@ -18,4 +16,4 @@ Likewise, it’s practically impossible to determine the constant but subtle (ti
 
 On a closely related note, many abundant and easily accessed resources, such as oxygen for respiration, are generally taken for granted (and ignored) by most if not all agents within a specific context.
 
-Most actions can be clearly described with types including *transformation, creation, transportation, transmission* and *transfer*.
+Actions can be clearly described with [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) including *transformation, creation, destruction, emergence, transportation, transmission* and *transfer*.   (Entries to be added.)
