@@ -1,8 +1,8 @@
-Action is identifiable *[change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) over time*. 
+Action is *influence* which identifiably *creates, destroys, [changes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md)* and/or *sustains* [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) and/or [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).  
 
-*Important note*:  Specific agents and/or resources may or may *not* be identified as *exclusive or contributing **causes*** of actions.  *I will add an entry for "cause".*
+*Important note*:  Specific agents and/or resources may or may *not* be identified as *exclusive or contributing **causes*** of action.  *I will add an entry for "cause".*
 
-Change over time-- i.e., action-- may be perceived gradually and indistinctly, *or* it may be perceived as a discrete "quantum" shift between the *presence or absence* of forms, elements or [properties](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md).   Gradual, indistinct action can be described by establishing periods of time during which identifiable action occurred. 
+Action may be perceived gradually and indistinctly, *or* it may be perceived through a discrete "quantum" shift between the *presence or absence* of forms, elements or [properties](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md).   Gradual, indistinct action can be described by establishing periods of time during which identifiable action occurred. 
 
 Most actions can be clearly identified within a context of [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md).  However, we rarely bother to thoroughly describe interactions, partly for these practical reasons:  
 
