@@ -1,0 +1,3 @@
+*To design* is the [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) of creating and [describing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/description.md) [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) and/or [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) to support identifiable [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md).
+
+*A design* is a model which is identifiably associated with one or more goals.
