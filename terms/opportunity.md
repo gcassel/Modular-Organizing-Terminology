@@ -1,0 +1,1 @@
+Opportunity is the [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) to [act](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) without being [coerced](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coercion.md).
