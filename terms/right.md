@@ -1,5 +1,5 @@
 A right is an *agreement* by a *group [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* to ensure that a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of agent, or [role](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md), will have the [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agency.md) to *use* (and in some cases, potentially damage or consume) an identified [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) or type of resource.  
 
-This intentionally broad definition of 'right' can include, for instance, the right for members or guests to participate in community-supported [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) of any type.
+This intentionally broad definition of 'right' can include, for instance, the right for members or guests to participate in [community](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md)-supported [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) of any type.
  
-Rights may be perceived informally or may be formally specified.
+Rights may be perceived unofficially or may be officially specified.
