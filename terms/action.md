@@ -1,4 +1,4 @@
-Action is *influence* which identifiably *creates, destroys, [changes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md)* and/or *sustains* [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) and/or [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) *over time*.
+Action is *influence* which [creates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md), *destroys, [changes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md)* and/or *sustains* [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) and/or [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) *over an identifiable interval of time*.
 
 *Important note*:  Specific agents and/or resources may or may *not* be identified as *exclusive or contributing **causes*** of action.  *I will add an entry for "cause".*
 
