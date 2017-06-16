@@ -1,0 +1,1 @@
+A concept is an *idea* about a [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md), in contrast to ideas about [instances](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) or personal *experiences*.
