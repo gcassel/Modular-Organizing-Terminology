@@ -1,0 +1,5 @@
+Conflict is *tension* or *pressure* created by one or more incompatible [motivations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/motivation.md), [intentions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md), [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) or [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md).  
+
+For example, a simple and common type of conflict is when one [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) has a specific goal, and another agent intends to prevent the realization of that goal.   
+ 
+Conflicts vary greatly in intensity and persistence.  They often result in [coercion](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coercion.md), *violence* or unintentional *harm*, and may motivate conflict resolution and mediation actions.
