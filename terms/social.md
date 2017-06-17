@@ -1,0 +1,5 @@
+"Social" is an adjectival [property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md) applied to [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) and [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which are identifiably [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to *[interactions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) between [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.  
+
+The broad domain of social interactions and relationships includes many forms and elements which can be described as *cultural*, *economic* and/or *political*.
+ 
+Social forms and elements contrast with personal forms and elements. The common term “personal relationship” technically refers to interpersonal (social) relationships between specific agents.
