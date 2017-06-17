@@ -1,4 +1,6 @@
-A form is an identifiable and reasonably stable [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A form is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *[emerges](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) from* the *[relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* between *other* elements.   
+
+This basic term can be applied to the vast majority of *perceived* elements.
 
 --*Note: "Structure" is a closely related term.  However, a structure is most accurately described as a (common) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of form.  "Structure" will receive its own entry.*-- 
 
