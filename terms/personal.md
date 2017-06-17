@@ -1,0 +1,3 @@
+"Personal" is an adjectival [property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md) applied to [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) and [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which are specific to *individual* [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md). 
+
+"Personal" contrasts directly with the term [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md), and by extension with *cultural, economic and political*.
