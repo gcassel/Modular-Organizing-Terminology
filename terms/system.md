@@ -6,4 +6,4 @@ Some systems may be identified mainly by a network of physical [elements](https:
 
 Systems are generally determined by feedback loops, reinforcement, and often amplification (but sometimes degeneration, implosion or explosion) of inputs.   *Robust* systems have strong positive feedback.  *Resilient* systems have strong positive feedback in some ways, are less defined in others, and are strongly receptive to external forces.
 
-Systems may be physical, conceptual or social, and may emerge naturally or be intentionally planned. 
+Systems may be *physical, [conceptual](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) or [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md)*, and may emerge *naturally* or be [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md). 
