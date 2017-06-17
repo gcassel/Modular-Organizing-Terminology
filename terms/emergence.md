@@ -1,0 +1,2 @@
+Emergence is the [creation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) (and [properties](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md)) from [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) between *simpler* elements.
+ 
