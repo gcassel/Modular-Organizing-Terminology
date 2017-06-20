@@ -1,0 +1,1 @@
+Politics is [decision](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decision.md)-making [culture](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/culture.md) .
