@@ -4,7 +4,7 @@ Action is *influence* which [creates](https://github.com/gcassel/Modular-Organiz
 
 Action may be perceived gradually and indistinctly, *or* it may be perceived through a discrete "quantum" shift between the *presence or absence* of forms, elements or [properties](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md).   Gradual, indistinct action can be described by establishing periods of time during which identifiable action occurred. 
 
-Most actions can be clearly identified within a context of [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md).  However, we rarely bother to thoroughly describe interactions, partly for these practical reasons:  
+Most actions and [reactions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/reaction.md) can be clearly identified within a context of [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md).  However, we rarely bother to thoroughly describe interactions, partly for these practical reasons:  
 
 1. Agents, and many other complex systems, are closely related to regulation and repair systems which enable them to create significant action without deeply influencing their identifiable properties.  (These regulating and repair systems may sometimes be distinguished as *subsystems* or as external *support systems*.)
 
