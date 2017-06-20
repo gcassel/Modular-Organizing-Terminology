@@ -1,0 +1,1 @@
+A parameter is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which [describes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/description.md) an [intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) *limit* for a *variable* element.
