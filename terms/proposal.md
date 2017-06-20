@@ -1,0 +1,1 @@
+A proposal is an *offer* to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md) an [agreement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agreement.md).
