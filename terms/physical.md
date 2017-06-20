@@ -1,0 +1,2 @@
+Physical is an adjectival [property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which [describe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/description.md) *sensory* [input](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md).
+ 
