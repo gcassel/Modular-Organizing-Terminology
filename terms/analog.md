@@ -1,0 +1,1 @@
+Analog is a [property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md) of [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) which *varies* *continuously* within a [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md).
