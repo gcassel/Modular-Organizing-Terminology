@@ -1,0 +1,1 @@
+Dimension is a [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md) which *varies* by *intervals*.  
