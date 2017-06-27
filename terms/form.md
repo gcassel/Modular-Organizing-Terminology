@@ -1,10 +1,10 @@
-A form is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *[emerges](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) from* the *[relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* between *other* elements.   
+A form is a [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *[emerges](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) from* *[relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* between *other* elements.   
 
 This basic term can be applied to the vast majority of *perceived* elements.  Depending on [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) and the *level of detail* of [description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/description.md), a specific [instance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) or [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) may be described as an element *or* a form.
 
 --*Note: "Structure" is a closely related term.  However, a structure is most accurately described as a (common) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of form.  "Structure" will receive its own entry.*-- 
 
-Forms are often *simple*, *compound* or *complex*.
+Formal relationships may be [sets](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) or [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).
 
 Forms are always reasonably stable (per identifiable parameters) within identifiable contexts, but those contexts may be defined physically or conceptually.  For instance, physical contexts have both temporal and spatial scale, within which forms can be identified by potential observers and/or sensors.  
 
