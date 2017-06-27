@@ -1,3 +1,3 @@
 A plan is a future [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) or set of actions which is currently *expected* and *supported* by one or more identifiable [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  Plans support one or more [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md).
  
-Plans may (or may not be) flexibly adaptive to changing conditions.  See [to be added] *decision* and *commitment*.
+Plans may (or may not be) flexibly adaptive to changing conditions.  See also [decision](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decision.md) and *commitment* (to be added).
