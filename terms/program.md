@@ -1,0 +1,1 @@
+A program is a [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of *parallel* and/or *sequential* [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md). 
