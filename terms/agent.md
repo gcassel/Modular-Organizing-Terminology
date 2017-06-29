@@ -1,1 +1,3 @@
 An agent is an individual or a *group* which possesses [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agency.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+Note: Each agent should possess a *unique* *identity* within each [specific](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/specific.md) context.  However, the identity merely *represents* the agent, just as a *map* merely represents a *territory*, *domain* or context.
