@@ -1,2 +1,2 @@
-An ingredient is a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which predictably *provides* one or more [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) which *consume* or *transform* it.
+An ingredient is a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which predictably *provides* one or more [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) to a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) which *consumes* or *transforms* it.
 
