@@ -1,1 +1,1 @@
-A signal is a *field* of *energy* which *transfers* [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md).
+A signal is a *field* of *energy* which *transfers* [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) via a [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of *signs*.
