@@ -2,4 +2,6 @@ A type is a general [specification](https://github.com/gcassel/Modular-Organizat
 
 Types complement [instances](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md).
 
-Types may be developed *complexly* at different *levels* of organization.  For instance, a type on one level may be a *subordinate* type or *subtype* in a broader organizational context.
+Types may be specified by [describing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/description.md) their [reported](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/report.md) or [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [properties](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md). 
+
+Types may develop *complexly* at different [scales](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scale.md) of [emergent](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/emergence.md) organization, or they may *be complexly [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md)*. For instance, a type on one scale of organization may be a *subordinate* type or *subtype* in a larger context.
