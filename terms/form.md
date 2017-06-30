@@ -4,7 +4,7 @@ This basic term can be applied to the vast majority of *perceived* elements.  De
 
 --*Note: "Structure" is a closely related term.  However, a structure is most accurately described as a (common) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of form.  "Structure" will receive its own entry.*-- 
 
-Formal relationships may be [sets](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) or [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).
+Forms may be [sets](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) or [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).
 
 Forms are always reasonably stable (per identifiable parameters) within [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) contexts, but those contexts may be [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) [physically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) or [conceptually](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md).  For instance, physical contexts have both temporal and spatial [scale](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scale.md), within which forms can be identified by potential observer [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) and/or sensing [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md).  
 
