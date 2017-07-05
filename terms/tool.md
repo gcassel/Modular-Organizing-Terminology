@@ -1,3 +1,3 @@
-A tool is an [input](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) to a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) which does not *consume* or *transform* it.
+A tool is a [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) or [recommended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommendation.md) [input](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) to a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) which does not *consume* or *transform* that input.
 
 [Physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) tools are subject to *deterioration*.
