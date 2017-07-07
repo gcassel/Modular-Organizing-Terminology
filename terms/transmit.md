@@ -1,0 +1,3 @@
+*To transmit* is to *send* a [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) from one [address](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/address.md) to another address in a [communications](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communication.md) [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).
+
+Transmission usually *reproduces* a signal instead of *removing* it from the sending address.
