@@ -1,0 +1,1 @@
+Transaction is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which [transfers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transfer.md) one or more [rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md).
