@@ -1,0 +1,1 @@
+Transportation is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which changes the [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) location of an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
