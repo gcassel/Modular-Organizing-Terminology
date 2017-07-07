@@ -1,0 +1,1 @@
+*To receive* is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which *accepts* *portable* [rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md) from a *different* [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
