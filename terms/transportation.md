@@ -1,1 +1,0 @@
-Transportation is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which [physically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) *moves* [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
