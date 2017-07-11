@@ -1,0 +1,1 @@
+A parent group is a [group agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md) which *[governs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/governance.md) a [subgroup](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subgroup.md)*.
