@@ -1,4 +1,4 @@
-Change is [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) difference in an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) or [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) in two or more [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).  
+Change is [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) difference in an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) *or* [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) in two or more [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).  
 
 Change frequently refers to difference over an [interval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md) of *time*.
 
