@@ -2,6 +2,6 @@
 
 See also [source](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/source.md) and [destination](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/destination.md).
 
-[Transmission](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) and [transfer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transfer.md) are [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) *[types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of transportation.*
+[Transmission](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) and [transfer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transfer.md) are [subtypes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subtype.md) of transportation.
 
 
