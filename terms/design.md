@@ -1,3 +1,5 @@
 *To design* is the [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) of [creating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) --and, often, [describing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/description.md)--[elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 *A design* is a *model* [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md) by an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) to support one or more specific [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md).
+
+See also [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md).
