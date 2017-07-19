@@ -1,0 +1,1 @@
+To repair is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which *reverses [damage](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/damage.md)*.
