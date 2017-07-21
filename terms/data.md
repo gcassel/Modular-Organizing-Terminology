@@ -1,6 +1,6 @@
-Data is [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) which [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) and/or agents' [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md) have organized according to one or more specific [formats](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/format.md).  
+Data is [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) within a specific [format](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/format.md).  
  
-Data may [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md) any [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of information, but typically reproduces or represents (re-presents) *media* such as written language, visual and/or acoustic information.  
+Data can be any [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of information, but typically is [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md). 
  
 *Digital* data is encoded as units, sequences and sets of *data [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*.  Each type of data element represents an intentionally informative element in a data format.  
 
