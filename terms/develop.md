@@ -1,1 +1,3 @@
 *To develop* is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which *increases the [complexity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complexity.md)* of a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) by (1) adding [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) to it *and/or* (2) by adding complexity *within* its [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) elements.
+
+See also [adapt](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md).
