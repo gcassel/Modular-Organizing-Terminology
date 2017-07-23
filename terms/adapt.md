@@ -1,1 +1,3 @@
 To adapt is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which *[changes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* to be more [useful](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+See also [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md).
