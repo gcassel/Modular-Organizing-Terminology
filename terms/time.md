@@ -1,0 +1,1 @@
+Time is the [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) of [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md).
