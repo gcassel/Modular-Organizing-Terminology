@@ -1,0 +1,1 @@
+To perform is to [act](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) *according* to a *[specified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of action*.
