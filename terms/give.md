@@ -1,1 +1,3 @@
 *To give* is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which [transfers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transfer.md) *portable* [rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md) to a *different* [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
+
+See also the more [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) term [assign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md). 
