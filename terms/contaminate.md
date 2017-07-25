@@ -2,4 +2,4 @@
 
 Contamination often relates to *minor* damage such as [noise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/noise.md). 
 
-See also [corruption](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/corruption.md).
+See also [corrupt](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/corrupt.md).
