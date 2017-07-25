@@ -2,4 +2,4 @@ A list is the *[type](https://github.com/gcassel/Modular-Organization-Terminolog
 
 [Simple](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/simplicity.md) lists have no [intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) internal [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md), *order* or *priority* of terms.  However, most [data](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md) [formats](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/format.md) inevitably *display* simple lists in some type of order.  Such displays may be *default*, *arbitrary* and/or *user-selected*.  
 
-See also *collection* (to be added) and [series](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/series.md).
+See also [series](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/series.md).
