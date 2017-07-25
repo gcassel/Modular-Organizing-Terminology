@@ -1,0 +1,1 @@
+A group member is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) who is a *[member](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/member.md) of a [group agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md)*.
