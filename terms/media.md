@@ -2,4 +2,4 @@ Media is the [set](https://github.com/gcassel/Modular-Organization-Terminology/b
 
 Note: this [description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/description.md) is, [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md), somewhat *more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md)* than the plural of [medium](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/medium.md) would be within the [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) of [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology).
 
-Media frequently represents *written language*, *visual* or *acoustic* information.
+Media often represents *visual* and/or *acoustic* information.  Such visual and acoustic information diversely represents [language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/language.md) and *nonlanguage* information.
