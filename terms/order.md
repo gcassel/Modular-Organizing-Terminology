@@ -1,0 +1,3 @@
+Order is a [formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) [property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md) which [relates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) two or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) by *arranging them along a [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md)*.
+
+Order often relates elements along one or more of the [spacetime](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/spacetime.md) dimensions.
