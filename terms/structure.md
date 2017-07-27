@@ -2,4 +2,4 @@ Structure is the *[networking](https://github.com/gcassel/Modular-Organization-T
 
 "A structure" is a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) network of physical elements*.   
 
-Note: Structure often may imply *[designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) structure* in specific [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md), but it's also used broadly to indicate [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) structures.
+Note: Structure implies *[designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) structure* in some specific [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). However, it's also used broadly to indicate [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) structures.
