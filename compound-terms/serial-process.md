@@ -1,3 +1,3 @@
 A [serial](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/series.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) is a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [member](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/member.md) of a [serial complex process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/serial-complex-process.md)*.
 
-See also [step]((https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/step.md).
+See also [step](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/step.md).
