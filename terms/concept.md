@@ -1,1 +1,1 @@
-A concept is a *[relational](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [idea](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/idea.md)*.
+A concept is an *[idea](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/idea.md) which [relates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* two or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
