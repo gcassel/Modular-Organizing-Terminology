@@ -1,3 +1,5 @@
 *To edit* is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which [changes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) a [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) or [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
 
+"An edit" is a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [instance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) of discretely [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) editing action*.
+
 See also [adapt](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md) and [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md).
