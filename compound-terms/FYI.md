@@ -1,0 +1,5 @@
+FYI or "for your information" is a *[property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md) of any [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md)* which *[invites](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/invite.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) to [receive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/receive.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*. 
+
+An FYI doesn't necessarily make any [requests](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/request.md) of agents who receive the signal.
+
+See also the related term [RFC](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/RFC.md).  
