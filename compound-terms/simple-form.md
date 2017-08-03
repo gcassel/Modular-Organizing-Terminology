@@ -1,0 +1,1 @@
+A *simple form* is a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) with *only one [level](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level.md)* of [organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md).
