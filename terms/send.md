@@ -2,4 +2,4 @@ To send is *to [transport](https://github.com/gcassel/Modular-Organization-Termi
 
 "A sender" is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) who sends a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) element.
 
-See also the [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) (but different) term [source](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/source.md).
+See also the [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) term [source](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/source.md).
