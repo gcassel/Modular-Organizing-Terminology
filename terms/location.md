@@ -2,6 +2,6 @@ Location is a *[property](https://github.com/gcassel/Modular-Organization-Termin
 
 Location(s) may be *strictly* [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) or [specified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) in some [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).  However, **locations may contain  [interval(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md) of any size**, within any number of [relevant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md) dimensions.  For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), a huge three-dimensional *area* of [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) *space* can be identified with the location of the planet Earth.
 
-See also the closely related term [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md).
+See also the stricter term [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md).
 
 Note: This [description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/description.md) is especially abstract, for technical reasons.  It will probably need more examples. 
