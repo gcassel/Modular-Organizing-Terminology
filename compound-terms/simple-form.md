@@ -1,3 +1,3 @@
 A *simple form* is a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) with *only one [level](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level.md)* of [organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md).
 
-Note that simple forms often contain [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
+Simple forms may contain [simple](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/simple.md) or [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
