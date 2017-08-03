@@ -1,1 +1,1 @@
-Transaction is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which includes one or more [transfers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transfer.md).
+Transaction is *[interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) with one or more [transfers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transfer.md)*.
