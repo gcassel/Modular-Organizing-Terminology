@@ -3,4 +3,4 @@ A complex adaptive system is a [complex](https://github.com/gcassel/Modular-Orga
 
 Most *species of organism* are complex adaptive systems.
 
-Some complexly adaptive systems [display](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/display.md) [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agency.md).
+Some complex adaptive systems [display](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/display.md) [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agency.md).
