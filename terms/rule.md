@@ -1,0 +1,1 @@
+A rule is a *[coercive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coercion.md) [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md)*.
