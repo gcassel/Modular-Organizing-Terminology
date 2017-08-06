@@ -1,4 +1,4 @@
-A rule is a *[coercive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coercion.md) [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md)*.
+A rule is a *[coercive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coercion.md) [restriction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restriction.md)*.
 
 *To rule* is to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md) coercive specifications* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
 
