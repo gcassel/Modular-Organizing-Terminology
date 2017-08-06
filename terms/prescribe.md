@@ -1,0 +1,3 @@
+To prescribe is to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md) [coercive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coercion.md) [specifications](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).   
+
+See also [rule](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md).
