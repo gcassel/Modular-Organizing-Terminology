@@ -2,4 +2,4 @@ Description is the *[type](https://github.com/gcassel/Modular-Organization-Termi
 
 Description is *indicative* and is often, but not necessarily, *declarative*.
 
-See also [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md).
+See also [definition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/definition.md) and [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md).
