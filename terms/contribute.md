@@ -1,0 +1,3 @@
+To contribute is to *[intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [transport](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* into a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+See also [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md).
