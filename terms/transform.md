@@ -2,4 +2,6 @@ To transform is to *[importantly](https://github.com/gcassel/Modular-Organizatio
 
 Transformation indicates the *addition, subtraction or re[organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a form.
 
-See also [transmute](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmute.md).  However, most transmutations can be clearly [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) as transformations at a deeper *level of organization*.  Therefore, [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology/) uses "transform" as the [fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/fundamental.md) term.
+See also [transmute](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmute.md).  
+
+Most transmutations can be clearly [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) as transformations at a deeper *level of organization*.  Therefore, [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology/) uses "transform" as the [fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/fundamental.md) term.
