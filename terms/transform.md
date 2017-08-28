@@ -1,4 +1,4 @@
-To transform is to *[importantly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md) [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
+To transform is to *[importantly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md) [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 Transformation indicates the *addition, subtraction or re[organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a form.
 
