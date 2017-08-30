@@ -1,0 +1,5 @@
+To refer is to *[indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) an externally described [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+This is an [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
+
+Important *types of reference* include *quotation*, *paraphrase* and (in digital [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md)) *hyperlink*.
