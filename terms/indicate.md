@@ -1,0 +1,3 @@
+To indicate is to [relate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+		
+This is an [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
