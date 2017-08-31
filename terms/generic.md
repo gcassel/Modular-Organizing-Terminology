@@ -2,4 +2,4 @@ Generic (or general) is a [trait](https://github.com/gcassel/Modular-Organizatio
 
 The term generic often implies that an element may vary in extremely flexibly ways.
 
-See also [specialize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md).
+See also the contrasting and complementary [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) *[specialize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md)*.
