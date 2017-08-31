@@ -2,6 +2,6 @@ Complexity is a [dimensional](https://github.com/gcassel/Modular-Organization-Te
 
 Complexity can be [described](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/description.md) as an un[limit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md)ed positive dimension with the [parameters](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/parameter.md) of zero (for complete chaos) and *infinity*.
 
-Complexity can rarely be [measured](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/measure.md) effectively except in relatively *less-complex* (and artificial) [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+Complexity can rarely be [measured](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/measure.md) effectively except in relatively *less-complex* (and artificial) *[design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 
 See also [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md).
