@@ -1,3 +1,4 @@
-Damage is *destruction* *or [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergent.md) [risk](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md)* to any of the following:
-1. an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) or [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)
-2. any [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md) of an agent or resource.
+Damage is *[dimensional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) decrease* or *destruction* of any of the following:
+1. [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)
+2. [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)
+3. any [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [trait(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of any agents or resources.
