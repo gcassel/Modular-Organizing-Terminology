@@ -1,5 +1,5 @@
 To contend is *[action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) by [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* which *significantly* attempts to *[restrict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restriction.md) or remove* an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) from a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).  
 
-*Contentious* is a [property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md) of elements which are likely to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md) contending action*.
+*Contentious* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of elements which are likely to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md) contending action*.
 
 See also [conflict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/conflict.md).
