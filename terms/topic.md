@@ -1,0 +1,1 @@
+A topic is a *[subject](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subject.md) of [dialogue](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dialogue.md) and/or [research](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/research.md)*.
