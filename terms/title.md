@@ -1,0 +1,1 @@
+A title is the *[name](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/name.md) of a [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [item](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md)*.
