@@ -1,0 +1,3 @@
+*To secure* is to *[protect](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/protect.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) from one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [risks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md)*.
+
+*Secure* is mostly synonymous with *protected*, but is [stricter](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) and more emphatic.  I.e. *secure* tends to [imply](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) *fully protected*. 
