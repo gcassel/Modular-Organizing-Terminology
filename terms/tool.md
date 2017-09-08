@@ -3,3 +3,6 @@ A tool is a [resource](https://github.com/gcassel/Modular-Organization-Terminolo
 [Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) use tools to [perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) or [facilitate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/facilitation.md) many [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md).
 
 [Physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) tools are subject to [degradation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/degrade.md).
+
+**Synonyms:**  
+* *Device* is synonymous with tool.  Devices are usually (but not necessarily) [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) tools which have multiple [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md).
