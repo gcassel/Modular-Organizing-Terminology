@@ -3,4 +3,4 @@ To specialize is to *[adapt](https://github.com/gcassel/Modular-Organization-Ter
 **Synonyms:**  
 
 * The term *customize* is [analogous](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/analog.md) to *the specialization of [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md).*
-* *precise* is often [practically] synonymous with *specialized*
+* *precise* is often [functionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) equivalent to *specialized*
