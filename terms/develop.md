@@ -2,4 +2,4 @@
 
 Development often *increases the [complexity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complexity.md)* of a ([formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)) element by (1) adding [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) *within it* or (2) adding complexity to the elements within it.
 
-See also [adapt](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md).
+**See Also:** [adapt](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md), [detail](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/detail.md)
