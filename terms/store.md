@@ -1,0 +1,3 @@
+*To store* is to *enter [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) into a [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) [addressable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/address.md) [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md)*.
+		
+Storage can be [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md) by *memory* and/or [recording](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/record.md).
