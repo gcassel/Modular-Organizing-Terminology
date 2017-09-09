@@ -3,5 +3,7 @@
 *Direct* is a [relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/relational-trait.md) of all [interactions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) which *do not [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) through intermediate [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*.
 		
 Direct actions often seem to occur quickly or instantly, but can occur over any [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md).  For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), water can directly dissolve many [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [substances](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/substance.md) (even highly resistant ones) over extended periods.
+
+**Synonyms:** *instruct*
 		
-See also [directory](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/directory.md).
+**See Also:** [directory](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/directory.md).
