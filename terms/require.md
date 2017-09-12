@@ -11,3 +11,4 @@ Requirements for [participant](https://github.com/gcassel/Modular-Organization-T
 **Synonyms:**  
 * *need* is a synonym of *require*
 * *necessity* is a synonym of *requirement*
+* *mandatory* is a synonym of *required*
