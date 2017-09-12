@@ -1,6 +1,6 @@
 Recommendation is a [relational](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) indicating that a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) finds a specific element to be *desirable* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
-Recommendations contrast with [requirements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md).
+Recommendations contrast with [requirements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md).
 
 Agents may create recommendations to *[support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) [creative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md) [production](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/production.md)* or to *[govern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/governance.md) [conceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) [risks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md)*.  
 
