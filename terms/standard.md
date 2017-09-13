@@ -2,4 +2,4 @@ A standard is a [specification](https://github.com/gcassel/Modular-Organization-
 
 Standards often include one or more specific [criteria](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/criterion.md).
 
-See also [protocol](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/protocol.md).
+**See Also:** [protocol](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/protocol.md)
