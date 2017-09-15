@@ -2,6 +2,6 @@ Feedback is an *[output](https://github.com/gcassel/Modular-Organization-Termino
 
 **Notes:** 
 
-*Positive feedback* increases the speed of a specific process, potentially at an [explosive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/explosion.md) rate.  *Negative feedback* decreases the speed of a specific process.
+*Positive feedback* increases the speed of a specific process, potentially at an [explosive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/explode.md) rate.  *Negative feedback* decreases the speed of a specific process.
 		
 **See Also:**  [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)
