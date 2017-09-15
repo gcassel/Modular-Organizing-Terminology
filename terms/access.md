@@ -1,1 +1,3 @@
 Access is the [opportunity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/opportunity.md) to *[use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) available [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+**[Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md):** *available*
