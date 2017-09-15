@@ -1,4 +1,4 @@
 Damage is *[dimensional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) decrease* or *destruction* of any of the following:
 1. [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)
-2. [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)
+2. [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) (including [systemic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md))
 3. any [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [trait(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of any agents or resources.
