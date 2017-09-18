@@ -6,4 +6,7 @@ Direct actions often seem to occur quickly or instantly, but can occur over any 
 
 **Synonyms:** *instruct*
 		
-**See Also:** [directory](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/directory.md).
+**See Also:** 
+
+* [directory](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/directory.md)
+* [Instruct](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instruct.md) is a somewhat [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) but [stricter](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
