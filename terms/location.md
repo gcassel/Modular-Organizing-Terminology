@@ -4,4 +4,4 @@ Location(s) may be *strictly* [identified](https://github.com/gcassel/Modular-Or
 
 See also the stricter term [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md).
 
-Note: This [description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/description.md) is especially abstract, for technical reasons.  It will probably need more examples. 
+Note: This [description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) is especially abstract, for technical reasons.  It will probably need more examples. 
