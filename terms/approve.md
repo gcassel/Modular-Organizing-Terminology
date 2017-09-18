@@ -2,4 +2,4 @@ To approve is *to [support](https://github.com/gcassel/Modular-Organization-Term
 
 The term "approve" is often used in *[official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [group agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md) contexts*, such as *[collaborative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaborative.md) [decisions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decision.md)* which must be approved by *multiple [member](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/member.md) agents*.
 
-See also [agreement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agreement.md).  
+**See Also:** [agreement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agreement.md) 
