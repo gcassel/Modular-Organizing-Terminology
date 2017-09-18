@@ -2,6 +2,6 @@ Consent is [intentional](https://github.com/gcassel/Modular-Organization-Termino
 
 Consensual [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) *does not [coerce](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coercion.md)* any [participating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participation.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) to [act](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) or *not act*, nor to relinquish any [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) [agreements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agreement.md).
  
-Consensus does not indicate or imply *unanimous* *approval*.
+**See Also:**  [consensus](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/consensus.md)
  
 
