@@ -1,6 +1,6 @@
 *To state* is *to [indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md)* one or more *[perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 		
-**Notes:**  *State* is more [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) than *indicate*, but most [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) it more often.
+**Notes:**  *State* is more [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) than the closely related term *indicate*.  Most [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) *state* more often than they *indicate*, even in highly questionable contexts.
 		
 **Synonyms:**  *declare*
 
