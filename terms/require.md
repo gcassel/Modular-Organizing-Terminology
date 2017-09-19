@@ -10,6 +10,6 @@ Requirements for [participant](https://github.com/gcassel/Modular-Organization-T
 
 **Synonyms:**  
 * *need* is a synonym of *require*
-*depend* is a *complement* to *require*.  (i.e. a *dependent* element *requires* another specific element)
+* *depend* is a *complement* to *require*.  (i.e. a *dependent* element *requires* another specific element)
 * *necessity* is a synonym of *requirement*
 * *mandatory* is a synonym of *required*
