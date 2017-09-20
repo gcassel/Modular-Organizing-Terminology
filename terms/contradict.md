@@ -1,0 +1,3 @@
+*To contradict* is to *[indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) that [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) is [misinformation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/misinformation.md)*.
+		
+**See Also:**  [contest](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/contest.md), [deny](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/deny.md)
