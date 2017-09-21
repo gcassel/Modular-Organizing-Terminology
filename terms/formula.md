@@ -1,0 +1,3 @@
+*A formula* is a *[representation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md) of an [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) *or* [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.
+
+**See Also:** *[model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md), [recipe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recipe.md)*
