@@ -4,4 +4,4 @@ To send is *to [transport](https://github.com/gcassel/Modular-Organization-Termi
 
 **Notes:**  *Send* is often used in [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [networking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
-**See Also:** the [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) term [source](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/source.md).
+**See Also:** [receive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/receive.md), [source](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/source.md), [destination](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/destination.md)
