@@ -4,4 +4,4 @@ Models [describe](https://github.com/gcassel/Modular-Organization-Terminology/bl
 
 Note: this term is [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) *extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md)*.
 
-**See Also:**  *[formula](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/formula.md)
+**See Also:**  *[formula](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/formula.md)*
