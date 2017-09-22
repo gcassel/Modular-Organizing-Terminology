@@ -9,4 +9,4 @@
 		
 **Related [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md):**  *foundation*, *infrastructure*
 		
-**See Also:**  [understand](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/understand.md)
+**See Also:**  *[understand](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/understand.md)*
