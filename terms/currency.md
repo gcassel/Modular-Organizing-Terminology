@@ -1,0 +1,3 @@
+*A currency* is a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of fungible [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* which *[indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) a [current](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/current.md)*.
+		
+**See Also:** *[money](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/money.md)*
