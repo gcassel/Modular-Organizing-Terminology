@@ -2,3 +2,6 @@ Damage is *[dimensional](https://github.com/gcassel/Modular-Organization-Termino
 1. [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)
 2. [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) (including [systemic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md))
 3. any [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [trait(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of any agents or resources.
+
+**[Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md):**  
+* *Harm* often [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/harm.md) ([direct](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) *or* indirect) *damage to agents*.
