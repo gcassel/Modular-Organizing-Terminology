@@ -1,0 +1,7 @@
+*To fund* is *to [provide](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) to one or more [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* which *[support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) [goal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)*.
+
+**Notes:**  
+
+Funding is [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) associated with *providing [money](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/money.md)*, but that [definition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/definition.md) would be too [strict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) for [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology/).
+
+*Funds* are often [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [linked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) to [budgets](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/budget.md).
