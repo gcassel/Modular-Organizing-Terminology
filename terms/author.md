@@ -1,0 +1,5 @@
+*To author* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
+		
+**Notes:** *Authorship* is [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) associated with *[persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md)*.  
+		
+**See Also:** *[edit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/edit.md)*, *[authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md)*
