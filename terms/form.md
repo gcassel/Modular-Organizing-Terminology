@@ -2,8 +2,6 @@
 
 *A form* is an element which emerges from relationships between other elements.  
 
-**See Also:** [compound](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compound.md), [structure](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/structure.md)
-
 **Notes:**
 
 The [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) *form* can be applied to most [conceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) elements, *including all [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.  
@@ -22,4 +20,6 @@ Solid forms may also last briefly.  For example, a snowflake may melt a few seco
 
 Conceptual forms often may have analogies to physical *solidity* and *fluidity*.
 
-*Note*:  **Forms often *[function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as elements** in larger scale models* (or *overviews*) with lower levels of detail.  For instance, snowflakes and mountains often function as conceptual elements, despite being clearly identifiable as ([complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md)) forms.
+**Forms often *[function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)* as elements** in large-[scope](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scope.md) models (or [overviews](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/overview.md)) with low levels of detail.  For instance, snowflakes and mountains often function as conceptual elements, despite being clearly identifiable as ([complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md)) forms.
+
+**See Also:** *[compound](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compound.md)*, *[structure](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/structure.md)*
