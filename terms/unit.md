@@ -1,3 +1,4 @@
 A unit is an *[element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) of a [specified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)*.
 
-See also [instance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md).  Instances are often units, and units are often instances; however, these terms [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) differently.
+**See Also:** 
+* *[instance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md):*  Instances are often units, and units are often instances.  However, the [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) of *instance* isn't [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to the *[definition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/definition.md) of types*.
