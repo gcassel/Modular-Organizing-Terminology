@@ -4,4 +4,4 @@
  
 **Notes:**  Plans may (or may not) be flexibly [adaptable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md) to [changing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) [states](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md).
 
-**See Also:** *[decision](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decision.md)*, *[commitment](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/commitment.md)*
+**See Also:** *[decision](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decision.md)*, *[commit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/commit.md)*
