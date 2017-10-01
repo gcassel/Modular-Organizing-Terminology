@@ -1,3 +1,0 @@
-A subgroup is a [group agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md) which *is [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/governance.md)* by a [parent group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/parent-group.md).
-
-This is an [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) definition.  See also [subform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subform.md).
