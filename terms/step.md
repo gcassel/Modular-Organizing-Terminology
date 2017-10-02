@@ -1,1 +1,2 @@
-*A step* is *a [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) which occupies a [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md) within a [sequential process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/sequential-process.md)*.
+*A step* is *a [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) which occupies a [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md) within a [sequential process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/sequential-process.md)*
+
