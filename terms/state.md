@@ -10,4 +10,4 @@ Statements may include representations of [perceived](https://github.com/gcassel
 		
 [Useful](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) statements [require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) shared context.  Such context may often be [implied](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) in specific statements.   However, statements often do include [details](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/detail.md) about their [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) context.
 
-**Synonym(s):** *indicate*
+**See Also:** *indicate*
