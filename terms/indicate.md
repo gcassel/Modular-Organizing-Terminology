@@ -2,4 +2,6 @@
 
 **Notes**:  *Indicate* is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) and [basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
 
+*Indications* often [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) [assumptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assume.md).
+
 **See Also:** *[state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md)*
