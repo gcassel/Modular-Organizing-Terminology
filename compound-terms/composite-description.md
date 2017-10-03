@@ -6,4 +6,4 @@ Composite description *adds [detail](https://github.com/gcassel/Modular-Organiza
 		
 **Synonyms:**  
 * *Faceted classification* is a close synonym.
-* The [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) *folksonomy* [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) *[collaborative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaboration.md) composite description*.
+* The [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) *folksonomy* [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md) *[collaborative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaboration.md) composite description*.
