@@ -6,4 +6,4 @@ Status *states*, but it may do so *in*[directly](https://github.com/gcassel/Modu
 
 A status may often describe [qualitative variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/qualitative-variable.md) *and/or* [dimensional variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/dimensional-variable.md).  For example, the status of a pot of water may indicate that it's currently [located](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md) *on a stovetop burner*, and *full of water* which *is boiling* at a temperature of 100 degrees Celsius.
 
-**Synonym(s):**  *condition*
+**Synonym(s):**  *condition*, *conditions*
