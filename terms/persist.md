@@ -1,4 +1,6 @@
-*To persist* is *to last* (or *to remain stable*) either (1) during a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md) or (2) [indefinitely](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indefinite.md) within a specific [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To persist* is *to last* (or to remain stable) *without any specific [temporal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/time.md) [limits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md)* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+**Notes:** The context within which an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) persists *may have many specific limits*.  For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), an ocean may persist indefinitely on a specific planet, but it would not survive the planet's [destruction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/destroy.md).
 
 **Important Synonym:** *endure*
 
