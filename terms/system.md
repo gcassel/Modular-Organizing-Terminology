@@ -1,4 +1,4 @@
-*A system* is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *[support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.  
+*A system* is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)* which *[support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.  
 
 **Notes:**  
 
