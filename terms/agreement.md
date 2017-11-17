@@ -4,7 +4,7 @@
 
 *An agreement* is *a [statement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) which is [mutually](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mutual.md) [approved](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/approve.md)* by *all [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).  
 
-*An [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) agreement* is an agreement which *has been [authorized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authorize.md) by a [governing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/governance.md) agent* in a specific context. 
+*An [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) agreement* is an agreement which *has been [authorized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authorize.md) by a [governing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) agent* in a specific context. 
 
 **Official agreements are [important](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md) in many [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) contexts.**  
 
