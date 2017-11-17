@@ -2,4 +2,4 @@
 		
 *A submission* is a resource which has been offered for such use.
 
-The [act](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) of submission [consents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/consent.md) to the use of a resource by a specific [governing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/governance.md) [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
+The [act](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) of submission [consents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/consent.md) to the use of a resource by a specific [governing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
