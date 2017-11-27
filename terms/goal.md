@@ -1,4 +1,4 @@
-A goal is a *[state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) which is desired* by one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  
+A goal is a *[status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md) which is desired* by one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  
  
 **Notes:**  
 
