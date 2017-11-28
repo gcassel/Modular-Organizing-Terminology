@@ -10,4 +10,4 @@ Some "feed-based" [social](https://github.com/gcassel/Modular-Organization-Termi
 	
 **Related Terms:**  
 		
-*Intersectionalism* is a specialty *social science* term which relates closely to the concept of *intercommunity [identity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identity.md)*.
+*Intersectionalism* is a specialty *social science* term which is [practically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/practice.md) synonymous with *intercommunity [identity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identity.md)*.
