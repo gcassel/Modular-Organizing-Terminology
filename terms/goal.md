@@ -1,4 +1,4 @@
-A goal is a *[status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md) which is desired* by one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  
+A goal is a *[status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md) (or condition) which is desired* by one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  
  
 **Notes:**  
 
@@ -14,4 +14,5 @@ Shared goals may often include creatively co-exploring ideas and shared interest
 
 *  As a noun, *desire* is synonymous with goal. 
 * An *objective* is an [officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) identified goal.
-  
+
+**See Also:**  *[intention](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md)*
