@@ -2,4 +2,6 @@
 
 **Notes:**  [Active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) elements are always [members](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/member.md) of any ([accurate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/accuracy.md) and comprehensive) [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of potential elements for a specific context (such as a [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md) of [time](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/time.md)).  However, many potentials *aren't* present, and present elements aren't always active.  For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), a potential element may be inactive right *now* but become active in the *future*.
 
-**Synonyms:** *possibility*, *probability*
+**Synonym(s):** *possibility*
+
+**[Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md):** *[probability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/probability.md)*
