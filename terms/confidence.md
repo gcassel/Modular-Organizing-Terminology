@@ -4,4 +4,3 @@
 
 **Related [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md):** *certainty, [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md), [probability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/probability.md)*
 
-*Probability and confidence* are *mutually [present](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/present.md) and relevant* in many [communications](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communication.md) contexts.
