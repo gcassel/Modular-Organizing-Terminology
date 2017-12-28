@@ -2,4 +2,4 @@ An *active* (or actual) [element](https://github.com/gcassel/Modular-Organizatio
 
 **Notes:**  
 
-Active elements may or may *not* [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) within any specific [parameters](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/parameter.md) within their active context.
+Active elements may or may *not* [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) within any specific [parameters](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/parameter.md) within their context of potential [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md).
