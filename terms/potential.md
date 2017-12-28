@@ -4,4 +4,6 @@
 
 **Synonym(s):** *possibility*
 
-**[Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md):** *[probability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/probability.md)*
+**[Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md):** *[confidence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/confidence.md), [probability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/probability.md)*
+
+***Confidence and probability* are *mutually [present](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/present.md) and relevant [factors](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/factor.md)* of *[perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) potential* in many [signaling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) contexts.**
