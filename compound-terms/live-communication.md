@@ -1,0 +1,3 @@
+*Live communication* is [communication](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communication.md) in which *[signals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) are [exchanged](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exchange.md) [immediately](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/immediate.md)*.
+		
+**Notes:** Both *[direct](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) "in person" communications* and *[telecommunications](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/telecommunicate.md)* may be *live*.
