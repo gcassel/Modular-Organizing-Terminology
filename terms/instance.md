@@ -6,7 +6,7 @@ An instance is a *[specific](https://github.com/gcassel/Modular-Organization-Ter
 
 Instances of elements may or may *not* match the [descriptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) (or, when applicable, [specifications](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md)) of one or more [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md).
 
-**See Also:* 
+**See Also:** 
 
 * [item](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md)
-* [unit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unit.md):  Instances are often units, and units are often instances.  However, the [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) of *instance* isn't [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to the *[definition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/definition.md) of types*.
+* [unit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unit.md):  Instances are often units, and units are often instances.  However, the [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) of *instance* isn't [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to the *[definition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/definition.md) of types* (which creates *units*).
