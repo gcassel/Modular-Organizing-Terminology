@@ -6,5 +6,5 @@
 
 **Notes:** 
 
-***[Culture](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/culture.md), [economy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/economic.md) and [politics](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/politics.md)* are [subtypes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subtype.md) of social relationship.**
+***[Culture](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/culture.md), [economy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/economy.md) and [politics](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/politics.md)* are [subtypes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subtype.md) of social relationship.**
  
