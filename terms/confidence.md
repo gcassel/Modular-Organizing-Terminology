@@ -1,4 +1,4 @@
-*Confidence* is a *[dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) intensity of [belief](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/believe.md)*.  
+*Confidence* is a *[dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md) intensity of [belief](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/believe.md)*.  
 
 **Notes:**  
 
