@@ -1,1 +1,5 @@
 *To confirm* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) an [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [agreement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agreement.md)* by *[receiving](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/receive.md) the [approval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/approve.md) of all [member agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/member-agent.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+**Notes:**
+
+In many contexts, confirmation may *only* [require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) the approval of one agent.   
