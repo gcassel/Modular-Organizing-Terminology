@@ -12,7 +12,10 @@ Shared goals may often include creatively co-exploring ideas and shared interest
 
 **Synonyms:**  
 
-*  As a noun, *desire* is synonymous with goal. 
+*  *desire*, *target*
+
+**Related Terms:** 
+
 * An *objective* is an [officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) identified goal.
 
 **See Also:**  *[intention](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md)*
