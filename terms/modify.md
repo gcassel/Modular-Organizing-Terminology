@@ -6,12 +6,12 @@
 
 *To [edit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/edit.md)* is a *specific [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)* of *to modify*.
 
-**See Also**
-
-*[adapt](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md)*, *[develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md)*
-
 **Synonym(s)**
 
 *revise*
+
+**See Also**
+
+*[adapt](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md)*, *[develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md)*
 
 
