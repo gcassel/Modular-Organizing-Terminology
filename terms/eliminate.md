@@ -2,4 +2,4 @@
 
 **Related Terms:**   
 
-*delete*, *end*, *remove*
+*delete*, *end*, *remove*, *terminate*
