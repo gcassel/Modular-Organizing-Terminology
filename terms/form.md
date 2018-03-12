@@ -1,8 +1,10 @@
+**Definition**
+
 *To form* is to *[emerge](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) from [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md)* between *other [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*. 
 
 *A form* is an element which emerges from [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) between other elements.  
 
-**Notes:**
+**Notes**
 
 The [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) *form* can be applied to most *[conceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) elements*, including all *[systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.  
 
