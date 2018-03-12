@@ -1,4 +1,4 @@
-*To form* is to *[emerge](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emerge.md) from [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md)* between *other [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*. 
+*To form* is to *[emerge](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) from [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md)* between *other [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*. 
 
 *A form* is an element which emerges from [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) between other elements.  
 
