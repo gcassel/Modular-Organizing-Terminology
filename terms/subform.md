@@ -2,6 +2,6 @@ A subform is a [form](https://github.com/gcassel/Modular-Organization-Terminolog
 
 **Related Terms:**
 
-*subgroup*, *subtopic*
+*subgroup*, *subtopic*, *subgoal*
 
 
