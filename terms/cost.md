@@ -3,3 +3,7 @@ Cost is a *[dimensional](https://github.com/gcassel/Modular-Organization-Termino
 [Potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) actions may be [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) by [describing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) their potential costs (or [risks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md)). [Reports](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/report.md) of *past* actions may describe cost(s) which were [experienced](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/experience.md) or directly [measured](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/measure.md).
 
 See also the complementary term [benefit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/benefit.md).
+
+**Related Term(s):**
+
+*Weakness* often [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) cost(s) in analytical contexts.
