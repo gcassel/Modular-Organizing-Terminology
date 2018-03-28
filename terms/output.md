@@ -5,3 +5,7 @@ An output is an [action](https://github.com/gcassel/Modular-Organization-Termino
 Outputs often *exit* from [subsystems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subsystem.md) to be *[used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) as [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md)* in a [parent system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/parent-system.md).   
 
 [Information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) can be easily [replicated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replicate.md) and [transmitted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) outside of a system without ever *existing* that system.
+
+**Related Terms**
+
+*outcome*
