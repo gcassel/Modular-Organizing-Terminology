@@ -2,4 +2,10 @@ To adapt is to *[change](https://github.com/gcassel/Modular-Organization-Termino
 
 Elements may be adapted to increase their fitness in [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) *or* [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) contexts.
 
-See also [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md).
+**Synonym(s)**
+
+*adjust*
+
+**Related Terms**
+
+*[develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md)*
