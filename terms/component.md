@@ -12,7 +12,7 @@ A *motor* performs the function of providing power to move a vehicle.
 
 A *paragraph* performs the function of developing a [conceptual](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) element (or "point") in an essay.
 
-A [peer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/peer.md) performs one or more specific functions in a [p2p](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/P2P.md) [networking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) system.
+A *[peer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/peer.md)* performs one or more specific functions in a [p2p](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/P2P.md) [networking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) system.
 
 **See Also** 
 
