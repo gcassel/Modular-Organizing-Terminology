@@ -2,9 +2,9 @@
 
 *To modify* is to *[transform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transform.md) a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
-**Synonym(s)**
+**Synonyms**
 
-*revise*
+*revise*, *alter*
 
 **Subtype(s)**
 
