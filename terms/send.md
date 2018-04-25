@@ -2,7 +2,9 @@ To send is *to [transport](https://github.com/gcassel/Modular-Organization-Termi
 
 "A sender" is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) who sends a specific resource.
 
-**Notes:**  *Send* is often used in [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [networking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+**Notes:**  
+
+*Send* is often used in [communications](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communication.md) and [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) in *[signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [networking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 
 **See Also:** 
 
