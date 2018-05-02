@@ -6,6 +6,6 @@
 
 **Synonym:** ***fundamental* is a synonym of *basic***
 		
-**Related [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md):**  *foundation*, *infrastructure*
+**Related [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md):**  *foundation*, *infrastructure*, *ground*
 		
 **See Also:**  *[understand](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/understand.md)*
