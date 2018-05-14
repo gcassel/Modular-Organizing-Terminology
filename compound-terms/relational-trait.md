@@ -1,3 +1,8 @@
 A relational trait is a *[trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* between two or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
 
-Relational traits may be *directional* or *mutually shared* by elements which [act](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) "like [peers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/peer.md)."   *(Note: This concept will be further developed.)
+**Notes**
+
+Relational traits may be *directionally* described (relating *subjects* to *objects*).   By contrast, they are *omnidirectional* (*[mutually](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mutual.md) [shared](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/common.md)*) when elements *[act](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) as [peers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/peer.md)* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
+
+**Related Terms**
+*[predicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predicate.md)*
