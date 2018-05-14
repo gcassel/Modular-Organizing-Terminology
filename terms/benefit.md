@@ -2,4 +2,6 @@
 
 **Synonyms:** *help*, *strengthen*
 
-**See Also:** the complementary [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) [cost](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/cost.md).
+**See Also**
+
+*[Cost](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/cost.md)* is a complementary [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
