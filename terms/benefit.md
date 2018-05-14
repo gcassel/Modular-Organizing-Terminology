@@ -2,7 +2,7 @@
 
 **Synonyms:** 
 
-*help*, *strengthen*
+*strengthen*, *help*
 
 **Related Terms**
 
