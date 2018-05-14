@@ -4,6 +4,6 @@ Cost is a *[dimensional](https://github.com/gcassel/Modular-Organization-Termino
 
 See also the complementary term [benefit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/benefit.md).
 
-**Related Term(s):**
+**Synonym(s)**
 
-*Weakness* often [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) cost(s) in analytical contexts.
+*weakness* 
