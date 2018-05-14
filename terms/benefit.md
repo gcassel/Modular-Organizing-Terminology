@@ -2,6 +2,8 @@
 
 **Synonyms:** *help*, *strengthen*
 
-**See Also**
+**Related Terms**
 
 *[Cost](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/cost.md)* is a complementary [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
+
+*[Opportunity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/opportunity.md)* may be considered a [subtype](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subtype.md) of benefit.
