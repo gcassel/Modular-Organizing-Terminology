@@ -3,3 +3,6 @@ To determine is to *[identify](https://github.com/gcassel/Modular-Organization-T
 More precisely (and literally): To determine either implicitly or explicitly *identifies [termina](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/terminus.md)* for *[potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) elements*.   
 
 Note: To determine may or may *not* create [significant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) [decisions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decision.md). 
+
+**Related Terms**
+*[recognize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recognize.md)*
