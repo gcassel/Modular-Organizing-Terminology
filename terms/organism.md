@@ -1,0 +1,5 @@
+An *organism* is a *semi-[autonomous](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/autonomy.md) living [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)* which is [able](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/ability.md) to [persistently](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) survive, independently of [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) living systems, within a *[significantly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) [range](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/range.md) of [statuses](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md)*.
+
+**Notes**
+
+*This is a placeholder definition for structural purposes.* 
