@@ -1,5 +1,9 @@
-Coercion is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which [threatens](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/threat.md) with [restrictive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restriction.md) [intentions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md). 
+**Definition**
+
+*To coerce* is *to [threaten](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/threat.md) with [restrictive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restriction.md) [intentions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md)*. 
  
+**Notes**
+
 There are two [general](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of coercion which can occur separately or together: *institutional coercion* and *interpersonal coercion*. 
 
 Institutional coercion includes cases when people are coerced by any [group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) [rules](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md) which call for [automatic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/automate.md) [punishment](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/punishment.md).  Institutional coercion differs from *groupthink*, including moblike behavior.
