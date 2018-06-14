@@ -1,4 +1,4 @@
-# Modular-Organization-Terminology
+# Modular-Organizing-Terminology
 **Description:** This is a [developing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) [base](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [terminology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/terminology.md) for [modularly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/modular.md) [specified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md), [organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md) and [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [technologies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technology.md). 
 
 **General [Goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md):**
