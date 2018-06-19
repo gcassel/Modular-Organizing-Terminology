@@ -10,4 +10,4 @@ Group agents, including many *[governing](https://github.com/gcassel/Modular-Org
 
 *collective*
 
-*[organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md)* as a noun
+*[organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md)* (as a [group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md), instead of a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md))
