@@ -4,4 +4,4 @@ A premise is a *[concept](https://github.com/gcassel/Modular-Organization-Termin
 
 #### Notes
 
-Premises may or may not [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md) the [beliefs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/belief.md) of any specific [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  See also [assume](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assume.md).
+Premises may or may not [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) the [beliefs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/belief.md) of any specific [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  See also [assume](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assume.md).
