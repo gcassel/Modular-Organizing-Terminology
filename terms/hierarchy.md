@@ -1,1 +1,1 @@
-A hierarchy is a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which *contains* one or more levels of [subform(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subform.md).
+A hierarchy is a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which *contains* one or more levels of [substructure](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/substructure.md).
