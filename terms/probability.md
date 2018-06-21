@@ -4,7 +4,7 @@
 
 #### Notes
 
-*(extended tangential draft)* 
+*(tangential draft)* 
 
 Probability may [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) [variability](https://github.com/gcassel/Modular-Organization-Terminology/new/master/terms/variable.md) which seems *practically [arbitrary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/arbitrary.md)* **or** *highly predictable* at any [specific](https://github.com/gcassel/Modular-Organization-Terminology/new/master/terms/specific.md) [level of organization](https://github.com/gcassel/Modular-Organization-Terminology/new/master/compound-terms/level-of-organization.md) or [level of detail](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-detail.md). 
 
