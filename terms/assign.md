@@ -10,4 +10,4 @@ For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/m
 
 **Related Terms**
 
-*allocate*:  *To allocate* is to assign an element which is [scarce](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scarce.md) or [unique](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organize.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*[allocate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/allocate.md)*  
