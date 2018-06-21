@@ -1,6 +1,8 @@
-*To state* is *to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md) a [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md)*.
+#### Definition
+
+*To state* is *to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) a [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md)*.
 		
-**Notes:**  
+#### Notes
 
 *State* complements the other *[basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [indicative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)* of *[ask](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/ask.md)* and *[instruct](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instruct.md)*.
 
