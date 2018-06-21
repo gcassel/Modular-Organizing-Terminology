@@ -1,6 +1,6 @@
 #### Definition
 
-*To contradict* is to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a [statement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md)* which *is in[compatible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compatible.md)* with one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) statements.
+*To contradict* is to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a [statement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md)* which *is in[compatible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compatible.md)* with [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md).
 
 #### Specialized Definition
 
