@@ -1,11 +1,17 @@
+#### Definition
+
 A sequence is a *[set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *have an [ordered](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/order.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
 
-**Notes:** *Sequence* is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md).
+#### Notes
 
-**[Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Concepts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md):**  Some [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) may [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) *series* as a synonym for *sequence*.  The [precise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [meaning](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mean.md) of *series* is:  *a set of [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) elements which meet the [requirements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) of a specific sequence*.
+*Sequence* is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md).
 
-**See Also:**  
+#### [Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Concepts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md)
 
-* *[list](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/list.md)*: *Lists* often [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md) sequences.
+Some [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) may [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) *[series](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/series.md)* as a synonym for *sequence*. (This is inaccurate, but may be roughly useful.)
+
+#### See Also
+
+* *[list](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/list.md)*: *Lists* often [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) sequences.
 * *[sequential process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/sequential-process.md)*
 
