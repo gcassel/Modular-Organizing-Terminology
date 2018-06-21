@@ -1,6 +1,6 @@
 **Definition**
 
-*To include* is *to [add](https://github.com/gcassel/Modular-Organization-Terminology/new/master/terms/add.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) ([potential](https://github.com/gcassel/Modular-Organization-Terminology/new/master/terms/potential.md) **or** [active](https://github.com/gcassel/Modular-Organization-Terminology/new/master/terms/active.md)) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* to a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To include* is *to [add](https://github.com/gcassel/Modular-Organization-Terminology/new/master/terms/add.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) ([potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) **or** [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md)) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* to a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 		
 **Specialized Meaning**
 
