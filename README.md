@@ -10,9 +10,7 @@ I ([Greg Cassel](mailto:greg.cass1@gmail.com)) [intend](https://github.com/gcass
 
 #### [Specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) Objectives
 
-I will use this [repository's](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/repository.md) [hyperlinked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hyperlink.md) [descriptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) to standardize terminology in my models and related [documents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/document.md).  
-
-**[P2P Modular Organizing Architecture](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing)** illustrates some relationships between MOT and specific organizing models.
+I will use this [repository's](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/repository.md) [hyperlinked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hyperlink.md) [descriptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) to standardize terminology in my models and related [documents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/document.md).  (**[P2P Modular Organizing Architecture](https://docs.google.com/drawings/d/1KZpc4_98IrJ0cjcFpkL5TcBug63fsTrT6i5eL2j5z80/edit?usp=sharing)** illustrates many relationships between MOT and specific organizing models.)
 
 Additionally, I'll be working with other people to import mutually useful MOT terms into one or more [collectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md) [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) repositories.
 
