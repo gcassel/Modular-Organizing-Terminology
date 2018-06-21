@@ -1,6 +1,8 @@
-**Definitions:**
+**Definition**
 
-*Organization* is the *[emergence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) and/or [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md)* of [form(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md). 
+*To organize* is *to [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) one or more [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).*
+
+**Specialized Definition**
 
 *An organization* is *a [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) form* including one or more [personal agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/personal-agent.md) and [group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md).
 
