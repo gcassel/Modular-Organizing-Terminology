@@ -1,8 +1,8 @@
-**Definition:**
+#### Definition
 
-An identity (or ID) is a *[sign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sign.md) which [uniquely](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md)* a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identifiable.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a *[formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+An identity (or ID) is a *[sign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sign.md) which [uniquely](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md)* a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identifiable.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a *[formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 
-**Notes:** 
+#### Notes
 
 Identities often represent *[agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) or [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* in [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) contexts, including [signaling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).
 
@@ -10,6 +10,6 @@ Each ID must be a *specific [set](https://github.com/gcassel/Modular-Organizatio
 
 Identities are often [names](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/name.md), but they may be any [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of information including *alphanumeric* or *binary* *[strings](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/string.md)*.  
 
-**See Also:**
+#### See Also
 
 *[key](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/key.md)*:  IDs and keys are often [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [linked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md), and **an ID may even [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [effectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) as a key** within a [sufficiently](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/suffice.md) [strict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) context.
