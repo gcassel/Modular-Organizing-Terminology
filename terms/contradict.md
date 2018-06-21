@@ -1,3 +1,9 @@
-*To contradict* is to *[state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) that [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) is [misinformation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/misinformation.md)*.
+#### Definition
+
+*To contradict* is to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a [statement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md)* which *is in[compatible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compatible.md)* with one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) statements.
+
+#### Specialized Definition
+
+In [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md), *to contradict* often [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) or [implies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) that [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) *is [misinformation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/misinformation.md)*.
 		
 **See Also:**  [contest](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/contest.md), [deny](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/deny.md)
