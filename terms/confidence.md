@@ -1,6 +1,8 @@
-*Confidence* is a *[dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md) intensity of [belief](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/believe.md)*.  
+#### Definition
 
-**Notes:**  
+*Confidence* is a *[dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) intensity of [belief](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/believe.md)*.  
+
+#### Notes
 
 The confidence of [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) in [concepts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) and [statements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/statede.md) is [rationally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/true.md) [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to how much [accurate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/accuracy.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) they can [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) in the [relevant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
