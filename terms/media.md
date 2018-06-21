@@ -1,8 +1,10 @@
-*Media* is the [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of all *[representational](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/representation.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
+#### Definition
+
+*Media* is the [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of all *[representational](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
 
 *To mediate* is *to [transport](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) or [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md)* from one [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) to another.   (*Note:  This description needs work, and will probably be established as the base term which "media" derives from in this repository.*)
 
-**Notes:**
+#### Notes
 
 This [description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) is, [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md), somewhat *more [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md)* than the plural of [medium](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/medium.md) would be within the [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) of [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology).  However, this is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) definition which can apply to the vast majority of [data](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md) and information resources.
 
