@@ -1,6 +1,6 @@
 #### Definition
 
-*To map* is *to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) the [distribution](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distribute.md) of [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md)*.
+*To map* is *to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) the [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) [distribution](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distribute.md) of [variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md)*.
 
 #### Notes
 
