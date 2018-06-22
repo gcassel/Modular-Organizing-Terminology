@@ -1,4 +1,8 @@
+#### Definition
+
 *A variable* is a *[type](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/type.md) of [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which could [potentially](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/potential.md) *contain [instances](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/instance.md) which differ [importantly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md)* within the [active](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/active.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).   
+
+##### Notes
 
 Frequently, variables are [identified](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/identify.md) within the context of *[change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) over a [specific](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/specific.md) [interval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md) of [time](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/time.md)*.   
 
