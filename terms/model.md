@@ -8,7 +8,8 @@
 
 Models often represent [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) *or* [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
 
-This term is [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) *extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md)*.
+Models often [include](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/include.md) [constant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/constant.md) *and* [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) elements.
+
 
 #### See Also 
 
