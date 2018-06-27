@@ -1,6 +1,6 @@
 #### Definition
 
-A group agent is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) which *[represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) two or more [personal agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/personal-agent.md)* within an [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A group agent is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) which *[represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md), or *may represent*, two or more [personal agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/personal-agent.md)* within an [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
