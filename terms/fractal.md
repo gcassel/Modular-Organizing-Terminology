@@ -1,0 +1,3 @@
+#### Definition
+
+*Fractal* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which *are [self-similar](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/self-similar.md) at multiple [scales](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scale.md) and/or [levels of organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organization.md).*    
