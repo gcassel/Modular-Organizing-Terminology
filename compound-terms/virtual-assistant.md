@@ -1,0 +1,9 @@
+#### Definition
+
+A *virtual assistant* is *a [software](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/software.md) [program](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/program.md) which can [help](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/facilitate.md) an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* to [perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [roles](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md).  
+
+#### Notes
+
+Virtual assistants can be distinguished from other software programs which *are [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md)* by a specific role.   
+
+For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) may need to use a specific software program to [communicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communication.md) with other agents in a specific [digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).   However, that agent may use a virtual assistant to help them communicate more effectively and efficiently.   (The virtual assistant may or may not [interact](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interact.md) directly with other, required programs.)  
