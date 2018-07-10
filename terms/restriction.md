@@ -14,4 +14,4 @@ The [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/m
 
 #### Related Term(s)
 
-*prohibition*:  prohibition is complete restriction (and intolerance) within a specific context.
+*prohibition*:  prohibition is *complete restriction* (and intolerance) within a specific context.
