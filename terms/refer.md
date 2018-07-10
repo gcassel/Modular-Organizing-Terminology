@@ -10,4 +10,4 @@ This is an [intentionally](https://github.com/gcassel/Modular-Organization-Termi
 
 * *[quotation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/quote.md)* 
 * *[paraphrase](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/paraphrase.md)*
-* *[hyperlink](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hyperlink.md)*.
+* *[hyperlink](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hyperlink.md)*
