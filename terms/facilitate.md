@@ -8,4 +8,4 @@ Facilitation is a crucial [skill](https://github.com/gcassel/Modular-Organizatio
 
 #### Synonym(s)
 
-*assist* 
+*assist*, *help*
