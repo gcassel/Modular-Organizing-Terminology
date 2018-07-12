@@ -6,6 +6,6 @@
 
 *Authorship* is [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [associated](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/associate.md) with *[persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md)*.  
 		
-See Also
+#### See Also
 
 *[edit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/edit.md)*, *[authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md)*
