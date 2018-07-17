@@ -6,10 +6,15 @@
 
 #### Notes
 
-Models often represent [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) *or* [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
-
 Models often [include](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/include.md) [constant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/constant.md) *and* [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) elements.
 
+Models often represent [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) *or* [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md). 
+
+#### Generic Example
+
+A model may represent a [probability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/probability.md) which no one designed and no one [desires](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md), but which nonetheless seems to be an [important](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md) element of [shared](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/common.md) [experience](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/experience.md).  
+
+* *specific example: risk of fatal injury while driving at various speeds*
 
 #### See Also 
 
