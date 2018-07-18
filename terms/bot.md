@@ -1,6 +1,10 @@
 #### Definition
 
-*A bot* is a [software](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/software.md) [program](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/program.md) which *can [perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) a [role](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md) which has been [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) for [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.
+*A bot* is a [software](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/software.md) [program](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/program.md) which *[performs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) [automated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/automate.md) [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) on a multi-[agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [computing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compute.md) [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).*
+
+#### Specialized Definition
+
+Bots may often *[perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) [roles](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md) which have been [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) for [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.
 
 #### Notes
 		
