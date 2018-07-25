@@ -1,0 +1,3 @@
+#### Definition
+
+*To analyze* is *to [factor](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/factor.md) and/or [evaluate](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/evaluate.md)* [perceived](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perceive.md) *[elements](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/element.md) and [relationships](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/relationship.md)* within a perceived [form](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/form.md).
