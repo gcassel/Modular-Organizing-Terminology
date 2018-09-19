@@ -16,3 +16,7 @@ Traits are conceived and [described](https://github.com/gcassel/Modular-Organiza
 
 *[property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md)*, *[attribute](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/attribute.md)*: These are crucially useful *types of trait* (in different design [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)).
 
+#### Synonyms
+
+*characteristic*
+
