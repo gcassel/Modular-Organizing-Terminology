@@ -1,0 +1,1 @@
+*A guide* is a *[set](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/set.md) of [guidelines](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/guideline.md)*.
