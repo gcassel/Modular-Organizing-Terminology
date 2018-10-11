@@ -1,0 +1,3 @@
+#### Definition
+
+*Fungible* is a [trait](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/trait.md) of any [resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md) which *can be [transferred](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/transfer.md) in [mutually](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/mutual.md) [exchangeable](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/exchange.md) [units](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/unit.md).*
