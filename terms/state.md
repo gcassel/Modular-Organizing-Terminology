@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
 *To state* is *to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) a [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md)*.
+
+*A statement* is *a representation of a concept*.
 		
 #### Notes
 
