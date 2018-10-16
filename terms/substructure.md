@@ -10,8 +10,8 @@ A substructure *may or may not* be [governed](https://github.com/gcassel/Modular
 
 *infrastructure*
 
-#### Related Terms
+#### Specialized Forms
 
-*subgroup*, *subtopic*, *subgoal*, *[supporting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) form*
+*subtask*, *subgroup*, *subtopic*, *subgoal*, *[supporting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) form*
 
 
