@@ -1,6 +1,6 @@
 #### Definition
 
-A substructure is a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which *is [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md)* by an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A substructure is a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which *is [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) or [recommended](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/recommend.md)* in an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
