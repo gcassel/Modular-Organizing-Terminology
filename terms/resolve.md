@@ -1,6 +1,6 @@
 #### Definition
 
-*To resolve* is *to complete or to [eliminate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/eliminate.md) a [problem](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/problem.md).*
+*To resolve* is *to [complete](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complete.md) or [eliminate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/eliminate.md) a [problem](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/problem.md)*.
 
 #### Notes
 
