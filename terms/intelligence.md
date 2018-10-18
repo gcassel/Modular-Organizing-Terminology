@@ -1,0 +1,3 @@
+#### Definition
+
+*Intelligence* is the *[dimension](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/dimension.md) of [ability](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/ability.md)* to *[develop](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md) [adaptive](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/adapt.md) [skill](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/skill.md)* within a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md).
