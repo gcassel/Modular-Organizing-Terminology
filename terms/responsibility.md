@@ -6,7 +6,7 @@ Responsibility is *[interacting](https://github.com/gcassel/Modular-Organization
 
 In [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md), *responsibility* often [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) than an agent's *[performance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) of a specific [role](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md)* is *[fundamentally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [important](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md)* to *[sustain](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sustain.md) a specific relationship or [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
 
-Responsibility often [identifies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) interacting relationships *between [participants](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participate.md)* or *between participants and resources* within specific contexts.
+Responsibility often [identifies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) relationships *between [participants](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participate.md)* or *between participants and resources* within specific contexts.
 
 #### Notes
 
