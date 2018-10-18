@@ -1,4 +1,8 @@
+#### Definition
+
 A role is a *[type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* which [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) can have with *agents or [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*, including [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md), [communities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md) and [group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md).  
+
+#### Notes
 
 Each role [identifies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) one or more *[rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md), [requirements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) and/or [responsibilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/responsibility.md)*.  
  
