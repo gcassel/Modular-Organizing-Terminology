@@ -2,7 +2,7 @@
 
 *To direct* is to *[provide](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md)* for a *[specific](https://github.cob.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)*.  
 
-*A direction* is *required information for the performance of a specific action.* 
+*A direction* is *required information for the [performance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) of a specific action.* 
 
 *Direct* is a [relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/relational-trait.md) of all [interactions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) which *do not [require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) intermediate [action(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)*.
 		
