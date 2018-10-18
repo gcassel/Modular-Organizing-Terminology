@@ -1,6 +1,8 @@
+#### Definition
+
 A goal is a *[status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md) (or condition) which is desired* by one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  
  
-**Notes:**  
+#### Notes  
 
 Each goal can be [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) with [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which *[creates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md), [maintains](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/maintain.md), [governs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/governance.md), [transforms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transform.md), [eliminates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/eliminate.md) or [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [damages](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/damage.md)* one or more [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md), [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) and agents. Thus, goals always relate to [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) with [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) and [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md).  However, major goals often requires unpredictable creative [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md), which makes it [practically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/practice.md) impossible to accomplish them [automatically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/automate.md) via specific [plans](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md).
 
@@ -10,12 +12,14 @@ Individuals often engage in the solitary pursuit of [personal](https://github.co
  
 Shared goals may often include creatively co-exploring ideas and shared interests *without* attempting to reach mutually shared conclusions or (more [formally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)) creating [group decisions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-decision.md).  Such non-conclusive exploration is the [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) nature of a ‘discussion [forum](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/forum.md)’, and of many other social [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) and [communities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md).
 
-**Synonyms:**  
+#### Synonyms
 
 *  *desire*, *target*
 
-**Related Terms:** 
+#### Specialized Form(s)
 
-* An *objective* is an [officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) identified goal.
+*[objective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/objective.md)*
 
-**See Also:**  *[intention](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md)*
+#### See Also
+
+*[intention](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md)*
