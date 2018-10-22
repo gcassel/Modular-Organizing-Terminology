@@ -8,5 +8,5 @@ This [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/mas
 
 **Related Terms:**  
 
-*[permission](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/permission.md)*, *[authorize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authorize.md)*
+*[permission](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/permit.md)*, *[authorize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authorize.md)*
  
