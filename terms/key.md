@@ -1,6 +1,6 @@
 #### Definition
 
-A key is a [tool](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md) which *[enables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/enable.md) [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) to a [restricted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restriction.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
+A key is a [tool](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md) which *[enables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/enable.md) [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) to a [restricted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
 
 #### [Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) Meaning
 
