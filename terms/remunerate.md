@@ -1,5 +1,11 @@
-To remunerate is to *compensate for [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [planned](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md) [action(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)*.
+#### Definition
 
-**Notes:** [Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often *[exchange](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exchange.md) [work](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/work.md) for remuneration*.
+*To remunerate* is *to [compensate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compensate.md) for [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [planned](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md) [action(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)*, either before or after they happen.
 
-**[Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Concepts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md):**  *pay*
+#### Notes
+
+[Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often *[exchange](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exchange.md) [work](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/work.md) for remuneration*.
+
+#### [Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Concepts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md)
+
+*[pay](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/pay.md*
