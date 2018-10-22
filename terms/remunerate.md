@@ -8,4 +8,4 @@
 
 #### [Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Concepts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md)
 
-*[pay](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/pay.md*
+*[pay](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/pay.md)*
