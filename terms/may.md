@@ -1,0 +1,3 @@
+#### Definition
+
+*May* is a *[trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)* which *is [permitted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/permit.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*. 
