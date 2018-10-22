@@ -1,11 +1,13 @@
+#### Definition
+
 *To receive* is to *add a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md).
 
-**Notes:**
+#### Notes
 
 *Reception* often [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) *[intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) reception* by an *[agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* who *[governs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) a receiving [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
 
-*Receiving* often additionally indicates the reception of *non-scarce [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md)*.  However, it's also often associated with the reception of resources which are inherently scarce and/or [restricted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restriction.md).  For instance, [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often receive *[rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md) to [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md)* restricted resources. 
+*Receiving* often additionally indicates the reception of *non-scarce [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md)*.  However, it's also often associated with the reception of resources which are inherently scarce and/or [restricted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md).  For instance, [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often receive *[rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md) to [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md)* restricted resources. 
 
-**See Also:** 
+#### See Also 
 
 *[send](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/send.md), [source](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/source.md), [destination](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/destination.md)*
