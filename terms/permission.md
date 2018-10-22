@@ -1,3 +1,7 @@
-Permission is a [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) which *[identifies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) [consent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/consent.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+#### Definition
 
-Permission doesn't necessarily imply [intention](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) or [recommendation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommendation.md).
+*To permit* is *to [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [consent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/consent.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+#### Notes
+
+Permission doesn't [necessarily](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) [imply](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) *[intention](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md)* or *[recommendation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommendation.md)*.
