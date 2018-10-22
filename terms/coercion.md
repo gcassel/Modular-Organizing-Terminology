@@ -1,8 +1,8 @@
-**Definition**
+#### Definition
 
-*To coerce* is *to [threaten](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/threat.md) with [restrictive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restriction.md) [intentions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md)*. 
+*To coerce* is *to [threaten](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/threat.md) with [restrictive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md) [intentions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md)*. 
  
-**Notes**
+#### Notes
 
 There are two [general](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of coercion which can occur separately or together: *institutional coercion* and *interpersonal coercion*. 
 
