@@ -1,0 +1,3 @@
+#### Definition
+
+*Fraud* is *[action](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/action.md) which [falsely](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/false.md) [requests](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/request.md) [significant](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/significance.md) [investment](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/invest.md)*, either [intentionally](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/intend.md) or through gross [neglect](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/neglect.md).
