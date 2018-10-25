@@ -4,4 +4,4 @@ Peers are [agents](https://github.com/gcassel/Modular-Organization-Terminology/b
 
 #### Specialized Form  
 
-*[Member agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/member-agent.md)* is a more [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) concept, and often [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) in [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) contexts.
+*[Member agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/member-agent.md)* is a more [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) term which may be [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) in [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) contexts.
