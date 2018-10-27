@@ -1,10 +1,16 @@
-*Social* is a [relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/relational-trait.md) which [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) that a [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) *contains [interactions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) and/or [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) between [persons](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/person.md)*.  
+#### Definition
 
-**Synonym(s):** *interpersonal*
+*Social* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *contain [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) and/or [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) between [persons](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/person.md)*.  
 
-**Antonym(s):** *[personal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal.md)*
+#### Synonym(s)
 
-**Notes:** 
+** *interpersonal*
 
-***[Culture](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/culture.md), [economy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/economy.md) and [politics](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/politics.md)* are [subtypes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subtype.md) of social relationship.**
+#### Antonym(s)
+
+*[personal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal.md)*
+
+#### Notes 
+
+*[Culture](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/culture.md), [economy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/economy.md) and [politics](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/politics.md)* are [subtypes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subtype.md) of social relationship.
  
