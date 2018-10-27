@@ -4,7 +4,7 @@
 
 #### Synonym(s)
 
-** *interpersonal*
+*interpersonal*
 
 #### Antonym(s)
 
