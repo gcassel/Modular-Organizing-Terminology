@@ -1,4 +1,4 @@
-#### Definition
+#### Definitions
 
 *To design* is *to [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md), [modify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/modify.md) or [eliminate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/eliminate.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
