@@ -9,4 +9,5 @@ More precisely (and literally): To determine either implicitly or explicitly *id
 To determine may or may *not* create [significant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) [decisions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decide.md). 
 
 **Related Terms**
+
 *[recognize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recognize.md)*
