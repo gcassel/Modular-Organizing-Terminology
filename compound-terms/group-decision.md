@@ -1,6 +1,8 @@
-A *group decision* is a *[decision](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decision.md) which [emerges](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) from a [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [signals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) by different [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*. 
+#### Definition
 
-**Notes:**   
+A *group decision* is a *[decision](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decide.md) which [emerges](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) from a [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [signals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) by different [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*. 
+
+#### Notes
 
 [Group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md) often [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) *group decisions* to *[commit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/commit.md) [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) shared [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* to [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md), [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) and [plans](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md).  
 
