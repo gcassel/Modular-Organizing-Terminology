@@ -1,6 +1,6 @@
 #### Definition
 
-*To commit* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a [personally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal.md) or [socially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [significant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) [investment](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/investment.md)*.
+*To commit* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a [personally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal.md) or [socially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [significant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) [investment](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/invest.md)*.
 
 #### Notes
 
