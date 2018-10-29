@@ -1,6 +1,6 @@
 #### Definition
 
-*To suggest* is to [recommend](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommendation.md) for an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) to *[consider](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/attend.md) [performing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) or [supporting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)*.  
+*To suggest* is *to [recommend](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md) that an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [consider](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/attend.md) [performing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md), or [supporting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md), a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)*.  
 
 #### Notes
 
