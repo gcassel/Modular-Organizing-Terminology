@@ -1,6 +1,6 @@
 **Definition**
 
-*To consult* is to *[request](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/request.md) [decision](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decision.md)-making advice without [delegating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/delegate.md) [authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md)*.
+*To consult* is to *[request](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/request.md) [decision](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decide.md)-making [advice](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/advise.md) without [delegating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/delegate.md) [authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md)*.
 
 **Notes**  
 
