@@ -8,4 +8,4 @@ To approve is *to [support](https://github.com/gcassel/Modular-Organization-Term
 
 #### See Also
 
-*[agreement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agreement.md)*, *[confirm](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/confirm.md)*
+*[agree](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agree.md)*, *[confirm](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/confirm.md)*
