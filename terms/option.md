@@ -4,7 +4,7 @@
 
 #### Notes
 
-[Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) may often [agree](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agreement.md) *or* disagree on which options are [valid](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md) in a specific [formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) context.
+[Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) may often [agree](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agree.md) *or* disagree on which options are [valid](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md) in a specific [formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) context.
 
 #### Related Terms
 
