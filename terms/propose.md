@@ -1,6 +1,6 @@
 #### Definition
 
-*To propose* is *to [offer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/offer.md) to [share](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/common.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
+*To propose* is *to [offer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/offer.md) to [share](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/common.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) or [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
 
 #### Notes
 
