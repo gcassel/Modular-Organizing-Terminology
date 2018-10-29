@@ -1,3 +1,7 @@
-Dialogue is a *[sequence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md) of [interactive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) [signals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md)* between two or more [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) which has a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) (but [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [complicated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complicate.md)) [topic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/topic.md).
+#### Definition
 
-**Synonyms:** *discussion*, *conversation*
+Dialogue is a *[sequence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md) of [signals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md)* between two or more [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) which has a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [topic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/topic.md).
+
+#### Synonyms
+
+*discussion*, *conversation*
