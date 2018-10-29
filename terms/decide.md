@@ -8,4 +8,4 @@ While [persons](https://github.com/gcassel/Modular-Organization-Terminology/blob
 
 #### See Also
 
-*[budget](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/budget.md)*, *[investment](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/investment.md)*
+*[budget](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/budget.md)*, *[invest](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/invest.md)*
