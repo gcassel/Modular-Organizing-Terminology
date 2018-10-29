@@ -1,6 +1,6 @@
 #### Definition
 
-*A guideline* is a *[socially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [supported](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) [recommendation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommendation.md)*.
+*A guideline* is a *[socially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [supported](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) [recommendation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md)*.
 
 #### Notes
 
