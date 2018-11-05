@@ -1,8 +1,8 @@
-**Definition:** 
+#### Definition
 
 An element is a *[component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) or [conceptual](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)* of a *[form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
-**Notes:** 
+#### Notes
 
 An element may be [uniquely](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) in a specific form, *or* it may be identified as an *[instance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) or [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type)* of *[substance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/substance.md), concept or [experience](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/experience.md)*. 
 
