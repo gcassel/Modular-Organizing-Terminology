@@ -1,6 +1,8 @@
+#### Definition
+
 *A system* is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)* which *[support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.  
 
-**Notes:**  
+#### Notes
 
 *System* is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) which applies to many or most [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) including *organisms* and many [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).
 
@@ -12,4 +14,6 @@ Systems are generally determined by [relationships](https://github.com/gcassel/M
 
 Some systems may be [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) mainly by networks of [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).  For instance, a toaster is a system which has been created by networking physical [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) which match [specifications](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) for systemic [function(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md).
 
-**See Also:** *[complex adaptive system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/complex-adaptive-system.md)*
+#### See Also
+
+*[complex adaptive system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/complex-adaptive-system.md)*
