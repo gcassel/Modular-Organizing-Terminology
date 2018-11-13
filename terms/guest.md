@@ -1,6 +1,8 @@
+#### Definition
+
 A *guest* is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) who (1) *[uses](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* but (2) *does not [participate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participate.md) in [governing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md)* that [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) resource.
 	
-**Notes:**  
+#### Notes
   
 *Guest* is a [fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) for *[developing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) [communities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md)* which govern specific resources and [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) reach out to share those resources with non-governing agents.
   
