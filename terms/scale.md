@@ -1,6 +1,6 @@
 #### Definitions
 
-*To scale* is *to [repeat](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/repeat.md) or [replicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replicate.md) with increasing size or additional [levels of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organizing.md)*.
+*To scale* is *to [repeat](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/repeat.md) or [replicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replicate.md) with increasing size or added [levels of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organizing.md)*.
 
 *A scale* is a *[designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) of [measurement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/measure.md).*
 
