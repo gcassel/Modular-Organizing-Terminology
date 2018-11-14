@@ -1,6 +1,6 @@
 #### Definition
 
-*Politics* is [culture](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/culture.md) which is [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to the [decisions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decide.md) and/or [authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md) of [group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md).
+*Politics* is [culture](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/culture.md) which is *[related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to the [decisions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decide.md) and/or [authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md) of [group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md)*.
 
 #### Notes
 
