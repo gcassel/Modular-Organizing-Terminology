@@ -1,6 +1,6 @@
 #### Definition
 
-*To instruct* is *to [describe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) a [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)*.
+*To instruct* is *to [sufficiently](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/suffice.md) [describe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) a [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)*.
 	
 #### Notes  
 
