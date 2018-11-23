@@ -1,8 +1,8 @@
-**Definition:**
+#### Definition
 
 A context is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *[functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as the [foundation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md)* of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md), such as [dialogue](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dialogue.md) and [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md).
 
-**Notes:**  
+#### Notes
 
 Contexts may be [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) or unofficial, and unofficial contexts may be un[stated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) or even un[intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md).
 
@@ -13,6 +13,10 @@ Contexts may be [physical](https://github.com/gcassel/Modular-Organization-Termi
 
 Contexts can be verbally and/or visually [described](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md).  Official design contexts may be [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [specified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md).
 
-**See Also:** 
+#### See Also
 
 *[scale](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scale.md), [scope](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scope.md), [level of organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organization.md)*, *[level of detail](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-detail.md)*
+
+#### Related Terms
+
+*domain*
