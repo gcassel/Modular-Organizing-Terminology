@@ -1,6 +1,6 @@
 #### Definition
 
-An event is *an [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) during a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [interval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md)*.
+An event is *an [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) during a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md)*.
  
 #### Notes
 
