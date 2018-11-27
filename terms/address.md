@@ -1,10 +1,12 @@
+#### Definition
+
 An *address* is a *[media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [item](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md)* which *[identifies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) a [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md)*.
 
-**Notes:**  
+#### Notes
 
 Addresses identify *[potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [sources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/source.md) and [destinations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/destination.md)* for *[acts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) of [transportation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md)*.  Addresses don't usually provide sufficient [directions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) to determine complete [paths](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/path.md).
 
-Addresses are often [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to *[physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md)* and/or *physical locations*.  However, addresses are *not* physical tools or locations.  ***Addresses are media items***.
+Addresses are often [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to *[physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md)* and/or *physical locations*.  However, addresses are *not* physical tools or locations.  ***Addresses are media items***.
 
 Each *[persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) address* must be [uniquely](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) identified within each *persistent [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md)*.
 
