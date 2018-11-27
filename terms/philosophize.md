@@ -1,6 +1,6 @@
 #### Definition
 
-*To philosophize* is *to [theorize](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/theorize.md) about [forces](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/force.md) and [relationships](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/relationship.md) which [experience](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/experience.md) is [based](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) on*.
+*To philosophize* is *to [theorize](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/theorize.md) about [forces](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/force.md) and [relationships](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/relate.md) which [experience](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/experience.md) is [based](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) on*.
 
 #### Related Terms
 
