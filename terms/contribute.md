@@ -6,4 +6,4 @@ A *contributor* is an [agent](https://github.com/gcassel/Modular-Organizing-Term
 
 #### Notes
 
-*Contributors* aren't always clearly [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to *[creators](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md)*.  (Agents often contribute elements which other agents created or [developed](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md).)
+*Contributors* aren't always clearly [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to *[creators](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md)*.  (Agents often contribute elements which other agents created or [developed](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md).)
