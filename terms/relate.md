@@ -1,8 +1,8 @@
 #### Definitions
 
-*Relationship* is *[grouping](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) and/or [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md)* as a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
+*To relate* is *to [link](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) or [group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) elements.*
 
-*To relate* is *to group or [link](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) elements.*
+*Relationship* is *grouping and/or [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md)* as a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
 
 #### Notes
 
