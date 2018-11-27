@@ -4,4 +4,4 @@
 
 #### Notes
 
-This definition can be applied to biological or data cells, but it's still a work in progress (especially in its relationship to other terms).
+This definition can be applied to biological or data cells, but it's still a work in progress.
