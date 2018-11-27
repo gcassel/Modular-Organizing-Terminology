@@ -1,6 +1,6 @@
 #### Definition
 
-*To evaluate* is *to [assign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) an [organizational](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md) [value](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md)* to a *[relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) between two [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To evaluate* is *to [assign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) an [organizational](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md) [value](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md)* to a *[relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) between two [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
