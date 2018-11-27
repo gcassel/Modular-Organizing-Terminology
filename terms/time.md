@@ -12,4 +12,6 @@ The [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/mast
 
 Because the distance between quickly interacting elements is normally disregarded, the [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) *time* is much more commonly [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) than the more *[socially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md)* and *[accurate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/accurate.md)* term *spacetime*.
 
-**[Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md):**  [temporary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/temporary.md), *temporal*
+#### Related Terms
+
+[temporary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/temporary.md), *temporal*
