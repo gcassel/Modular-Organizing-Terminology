@@ -8,6 +8,6 @@ Open licenses [function](https://github.com/gcassel/Modular-Organizing-Terminolo
 
 Open licenses mitigate intellectual property law by *[directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [authorizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md)* one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which might otherwise  be subject to legal restrictions.
 
-#### [Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)
+#### Related Terms
 
 *Open source* is a common [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) for openly licensed [development](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) of [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md), [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) for [software](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/software.md) tools.
