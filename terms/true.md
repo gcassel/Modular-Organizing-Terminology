@@ -1,8 +1,10 @@
+#### Definition
+
 *True* is a *[relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/relational-trait.md)* of a [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) which *is [valid](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 		
-**Notes:**   
+#### Notes
 
-The [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of *truth* may be [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) as a *[qualitative variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/qualitative-variable.md)* or a *[dimensional variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/dimensional-variable.md)* in varying contexts.  For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), an indication may be identified as simply *true or [false](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/false.md)* depending on whether or not *all elements in the indication have valid [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* within a specific context.   [Alternatively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/option.md), the *presence/absence* of truth may be identified as a [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) from 1-0 / 100%-0%.
+The [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of *truth* may be [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) as a *[qualitative variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/qualitative-variable.md)* or a *[dimensional variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/dimensional-variable.md)* in varying contexts.  For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), an indication may be identified as simply *true or [false](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/false.md)* depending on whether or not *all elements in the indication have valid [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* within a specific context.   [Alternatively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/option.md), the *presence/absence* of truth may be identified as a [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) from 1-0 / 100%-0%.
 
 Truth can [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) be well-[defined](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) in contexts of pure [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md).  In *[modelling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md) [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*, however, the concept of truth is *[fundamentally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [complicated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complicate.md):*
 
@@ -13,6 +15,10 @@ Additionally, whether or not an indication or [description](https://github.com/g
 		
 Truth is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) concept.  This entry could especially benefit from further [development](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) and examples.
 		
-**Antonyms:**  *false*
+#### Antonym
 
-**Related [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md):** *certain*
+*[false](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/false.md)*
+
+#### Related Terms
+
+*certain*
