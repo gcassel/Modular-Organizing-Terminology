@@ -14,4 +14,4 @@ Private actions can sometimes [create](https://github.com/gcassel/Modular-Organi
 
 #### See Also
 
-* *[Secret](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/secret.md)* is a [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) but more [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
+* *[Secret](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/secret.md)* is a [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) but more [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
