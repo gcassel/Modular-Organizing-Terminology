@@ -4,7 +4,7 @@ A sign is an [element](https://github.com/gcassel/Modular-Organization-Terminolo
 
 #### Notes
 
-Signs are [fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) to [language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/language.md) and to much [communication](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communication.md).
+Signs are [fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) to [language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/language.md) and to much [communication](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communicate.md).
 
 ### Related Terms 
 
