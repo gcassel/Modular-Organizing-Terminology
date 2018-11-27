@@ -10,4 +10,4 @@ Currents are often [especially](https://github.com/gcassel/Modular-Organization-
 		
 #### Notes
 
-*Current descriptions* at least indirectly *[indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) active currents* within a [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).  
+*Current descriptions* at least indirectly *[indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) active currents* within a [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).  
