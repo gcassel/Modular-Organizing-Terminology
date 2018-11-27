@@ -1,6 +1,6 @@
 #### Definition
 
-A network is a *[set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which are all *[directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) *or* indirectly [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* to each other element within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A network is a *[set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which are all *[directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) *or* indirectly [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* to each other element within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
