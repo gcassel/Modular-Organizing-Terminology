@@ -6,7 +6,7 @@ Scope can be [described](https://github.com/gcassel/Modular-Organization-Termino
 
 #### Notes
 
-Scope may be [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) as the the proportional [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) (or ratio) of the *magnitude of an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* to *the magnitude of a [context](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/context.md)* which it's considered within.  
+Scope may be [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) as the the proportional [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) (or ratio) of the *magnitude of an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* to *the magnitude of a [context](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/context.md)* which it's considered within.  
 
 Importantly, scope often indicates the relative size of an *[active](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/active.md) context* to a *[potential](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/potential.md) context*.
 
