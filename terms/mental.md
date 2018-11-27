@@ -4,4 +4,4 @@ Mental is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/
 
 #### Notes
 
-Mental [content](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/content.md) is often *[physically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) represented* in [acts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) of [communication](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communication.md).
+Mental [content](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/content.md) is often *[physically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) represented* in [acts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) of [communication](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communicate.md).
