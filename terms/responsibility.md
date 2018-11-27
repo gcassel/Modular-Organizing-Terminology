@@ -1,6 +1,6 @@
 #### Definition
 
-Responsibility is *[interacting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) between [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) and specific [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*.  
+Responsibility is *[interacting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) between [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) and specific [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*.  
 
 #### [Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [Meaning](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mean.md)
 
