@@ -4,4 +4,4 @@ Importance is a [dimension](https://github.com/gcassel/Modular-Organization-Term
 
 #### See Also
 
-[significance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md):  *Importance [relates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to function* as *significance relates to [indication](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md)*.
+[significance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md):  *Importance [relates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to function* as *significance relates to [indication](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md)*.
