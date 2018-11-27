@@ -13,6 +13,6 @@ Useful instructions [require](https://github.com/gcassel/Modular-Organization-Te
 #### See Also
 
 * [command](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/command.md) is a [subtype](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subtype.md) of *instruct*
-* [plan](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md) is closely [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to *instruct*
+* [plan](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md) is closely [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to *instruct*
 
 *[recipe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recipe.md), [protocol](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/protocol.md), [guideline](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/guideline.md), [rule](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md)*
