@@ -8,4 +8,4 @@
 		
 #### Related Terms
 
-*[view](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/view.md)*, *[read](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/read.md)*
+*[view](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/view-right.md)*, *[read](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/read.md)*
