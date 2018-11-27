@@ -1,6 +1,6 @@
 #### Definition
 
-*To link* is to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) between [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To link* is to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) between [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
