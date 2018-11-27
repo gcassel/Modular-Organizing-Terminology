@@ -1,6 +1,6 @@
 #### Definition
 
-*To claim* is *to [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) the presence of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* in a specific [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
+*To claim* is *to [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) the presence of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* in a specific [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
 		
 #### Notes
 
