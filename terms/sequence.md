@@ -6,7 +6,7 @@ A sequence is a *[set](https://github.com/gcassel/Modular-Organization-Terminolo
 
 *Sequence* is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md).
 
-#### [Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Concepts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md)
+#### Related Concepts
 
 Some [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) may [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) *[series](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/series.md)* as a synonym for *sequence*. (This is inaccurate, but may be roughly useful.)
 
