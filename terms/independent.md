@@ -1,5 +1,7 @@
+#### Definition
+
 *Independent* is a [relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/relational-trait.md) which [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) that an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) *does not [depend](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/depend.md)* on one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
-**[Related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [Concepts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md):**  
+#### Related Terms 
 
 *To liberate* is *to make an element independent* of another element in a specific context.
