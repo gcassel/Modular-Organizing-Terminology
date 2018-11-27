@@ -1,6 +1,6 @@
 #### Definition
 
-*To telecommunicate* is *to [communicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communication.md) in[directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) by [transmitting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) one or more electronic [signals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md)* via a *signalling [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md)*.  
+*To telecommunicate* is *to [communicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communicate.md) in[directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) by [transmitting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) one or more electronic [signals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md)* via a *signalling [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md)*.  
 
 #### Notes
 
