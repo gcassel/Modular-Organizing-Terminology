@@ -4,6 +4,10 @@
 
 Creativity occurs through both [emergence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) *and* [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md).
 
-#### Synonym(s)
+#### Synonyms
 
 *make*
+
+#### Related Terms
+
+*[develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md)*
