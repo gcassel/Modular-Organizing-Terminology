@@ -6,4 +6,4 @@ By contrast, the common terms “personal relationship” and "personal business
 
 #### Notes
 
-Personal elements often are [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) to social elements.
+Personal elements often are [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to social elements.
