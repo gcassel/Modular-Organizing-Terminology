@@ -4,4 +4,4 @@
 
 #### Notes
 
-Citations may be used to represent media [relationships](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/relationship.md) such as [paraphrasing](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/paraphrase.md) and [quoting](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/quote.md). 
+Citations may be used to represent media [relationships](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/relate.md) such as [paraphrasing](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/paraphrase.md) and [quoting](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/quote.md). 
