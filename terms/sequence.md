@@ -1,6 +1,6 @@
 #### Definition
 
-A sequence is a *[set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *have an [ordered](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/order.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
+A sequence is a *[set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *have an [ordered](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/order.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
 
 #### Notes
 
