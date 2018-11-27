@@ -1,6 +1,6 @@
 #### Definition
 
-Language includes all *[networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) [signs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sign.md)* which *can be [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md)* to [communicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communicate.md) within any [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+Language includes all *[networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [signs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sign.md)* which *can be [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md)* to [communicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communicate.md) within any [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
