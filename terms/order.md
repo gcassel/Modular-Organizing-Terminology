@@ -5,3 +5,7 @@
 #### Notes
 
 Order often relates elements along one or more of the [spacetime](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/spacetime.md) dimensions, or [numerically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/quantity.md).
+
+#### Synonym(s)
+
+*arrange*
