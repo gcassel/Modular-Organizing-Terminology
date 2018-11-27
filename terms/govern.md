@@ -8,4 +8,4 @@ In [political](https://github.com/gcassel/Modular-Organization-Terminology/blob/
 
 #### See Also 
 
-*[manage](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/manage.md)*: a closely [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relationship.md) but more [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) 
+*[manage](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/manage.md)*
