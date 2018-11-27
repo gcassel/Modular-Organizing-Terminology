@@ -12,4 +12,4 @@ Peers may be [persons](https://github.com/gcassel/Modular-Organizing-Terminology
 
 #### Related Terms
 
-*[C2C](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/C2C.md)*
+*[c2c](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/C2C.md)*
