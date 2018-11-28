@@ -10,6 +10,8 @@
 
 Peers may be [persons](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/person.md) *or* [collectives](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/group-agent.md); therefore, p2p relationships may relate persons and/or collectives.
 
+In [formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md), **p2p activity and organizing can be [defined](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) by [roles](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md) which are *[shared](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/common.md) by every [participant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participate.md)* at a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [level of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organizing.md)**.
+
 #### Related Terms
 
 *[c2c](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/C2C.md)*
