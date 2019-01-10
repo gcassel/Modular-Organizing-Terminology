@@ -6,6 +6,10 @@
 
 Consent-oriented activity [requires](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/require.md) *[inclusive](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/include.md) [communication](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/communicate.md)*.
 
+#### Related Terms
+
+*rough consensus*
+
 #### See Also
 
 *[consent-based](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/consent-based.md)*
