@@ -5,3 +5,7 @@
 #### Notes
 
 Consent-based activity [requires](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/require.md) *[inclusive](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/include.md) [communication](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/communicate.md)*, and in unclear cases might require *[official](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) [approval](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/approve.md)* by all participants.
+
+#### See Also
+
+*[consent-oriented](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/consent-oriented]*
