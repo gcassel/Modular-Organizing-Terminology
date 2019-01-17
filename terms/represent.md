@@ -12,4 +12,4 @@ Representation often [translates](https://github.com/gcassel/Modular-Organizatio
 
 #### Related Terms
 
-*[model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md)* and *[map](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/map.md)* are *[basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)* of *represent*.
+*[Model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md)* and *[map](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/map.md)* are *[basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)* of *represent*.
