@@ -8,4 +8,4 @@ Equity can be easy to [measure](https://github.com/gcassel/Modular-Organization-
 		
 #### Specialized Meaning
 
-In [monetary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/money.md) [investment](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/invest.md), *equity* often [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) *[ownership](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/own.md) shares*.
+In [monetary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/money.md) [investment](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/invest.md), *equity* often [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) *[ownership](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/own.md) [units](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unit.md) (or "shares")*.
