@@ -14,7 +14,7 @@
 		
 #### Related [Terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md)
 
-*foundation*, *infrastructure*, *ground*, *primary*, *main*
+*foundation*, *infrastructure*, *ground*, *primary*, *main*, *constitutional*
 		
 #### See Also
 
