@@ -1,6 +1,6 @@
 #### Definition
 
-A computer is an *electronic [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) which [computes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compute.md)*.
+A computer is a *[machine](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/machine.md) which [computes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compute.md)*.
 
 #### Notes
 
