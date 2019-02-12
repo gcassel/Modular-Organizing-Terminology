@@ -4,6 +4,8 @@
 
 *Agreement* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/relational-trait.md) which [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) that *two or more [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [agree](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agree.md) on a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md)*.
 
+#### Specialized Definition
+
 *An [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) agreement* is *a [statement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) which is [mutually](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mutual.md) [approved](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/approve.md)* by *all [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).  
 
 #### Notes 
