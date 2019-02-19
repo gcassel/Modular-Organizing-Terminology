@@ -8,6 +8,8 @@ Complexity can create [predictable](https://github.com/gcassel/Modular-Organizin
 
 Complexity can be [described](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) as an un[limit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md)ed positive dimension with the [parameters](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/parameter.md) of zero (for complete chaos) and *infinity*.
 
+Complexity via variety can arise through a relatively small number of complex relationships; i.e., only two elements [interact](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md), but they interact quite differently depending on each element's current [status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md) and/or the [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) in which the interaction occurs.
+
 Complexity can rarely be [measured](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/measure.md) effectively except in relatively *less-complex* (and artificial) *[design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 
 #### See Also
