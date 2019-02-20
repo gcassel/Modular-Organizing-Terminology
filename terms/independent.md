@@ -5,3 +5,5 @@
 #### Related Terms 
 
 *To liberate* is *to make an element independent* of another element in a specific context.
+
+*[autonomy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/autonomy.md)* is the *independence of [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) in a specific [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) context*
