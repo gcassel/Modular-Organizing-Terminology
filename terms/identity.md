@@ -2,9 +2,13 @@
 
 An identity (or ID) is a *[sign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sign.md) which [uniquely](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md)* a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identifiable.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a *[formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 
+#### Specialized Definition
+
+A *[user](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/use.md) ID* or *[participant](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/participate.md) ID* is *an identity which represents an [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) in a [social](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/social.md) context.*
+
 #### Notes
 
-Identities often represent *[agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) or [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* in [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) contexts, including [signaling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).
+Identities often represent *agents or [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* in social contexts, including [signaling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).
 
 Each ID must be a *specific [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md)*.  Such information may be visual or verbal, but can be (and often is) represented as [digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) [data](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md).
 
