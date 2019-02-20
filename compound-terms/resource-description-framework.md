@@ -1,6 +1,8 @@
+#### Definition
+
 A *resource description framework* ( or *RDF*) is a *[data](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md) [framework](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/framework.md)* which *[formally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) [links](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) to [descriptive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md)  [linked data](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/linked-data.md)* (often [metadata](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/metadata.md)).
 
-**Notes:**  
+#### Notes
 
 An RDF can [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as a [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md), and [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) as a [community](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md) [standard](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/standard.md).
 
