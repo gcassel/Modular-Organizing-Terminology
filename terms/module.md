@@ -2,7 +2,7 @@
 
 A *module* is a *[component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md)* which *can be [replaced](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replace.md)* by any *[valid](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md) [alternative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/alternative.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [systemic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).  
 
-*Modular* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of systems which use modules.
+*Modular* is *a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of systems which use modules as [primary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) components*.
  
 #### Notes
 
