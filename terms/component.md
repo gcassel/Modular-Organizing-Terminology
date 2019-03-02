@@ -1,6 +1,6 @@
 #### Definition
 
-A component is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *[performs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) in a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) or [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.
+A component is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *[performs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) in a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*, such as a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) or [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).
 
 #### Notes
 
