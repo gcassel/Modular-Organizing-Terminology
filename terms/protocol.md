@@ -2,6 +2,10 @@
 
 A *protocol* is a *[signaling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [standard](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/standard.md)*.
 
+#### Specialized Definition
+
+*Protocol* often [especially](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specialize.md) means a standard [procedure](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/sequential-process.md) for a *complex sequential signaling process*, such a repeated exchange of signals of [predictable](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/predict.md) [types](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/type.md).
+
 #### Notes
 
 Protocols [include](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/include.md) *[guidelines](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/guideline.md) and/or [rules](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/rule.md)*. 
