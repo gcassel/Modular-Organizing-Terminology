@@ -4,7 +4,7 @@
 
 #### Notes
 
-*System* is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) which applies to many or most [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) including *organisms* and many [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).
+*System* is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) which applies to many or most [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) including [organisms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organism.md) and many [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).
 
 Systems may be *[physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md), [conceptual](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) or [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md)*, and may [emerge](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) or be [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) by [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md). 
 
