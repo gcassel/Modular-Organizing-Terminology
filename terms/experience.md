@@ -1,6 +1,6 @@
 #### Definition
 
-*To experience* is *to [perceive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md)* within a [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) of *self-[identification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) with an [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* (such as an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)).
+*To experience* is *to [perceive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md)* within a [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) of *self-[identification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) with a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*, such as an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
 
 #### Notes
 
