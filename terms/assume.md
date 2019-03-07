@@ -1,6 +1,6 @@
 #### Definition
 
-*To assume* is to *accept a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md)  [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*. 
+*To assume* is to *accept the [validity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md)  [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*. 
 
 #### Notes
 
