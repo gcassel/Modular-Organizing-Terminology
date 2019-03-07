@@ -1,6 +1,6 @@
 #### Definition
 
-*A system* is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)* which *[predictably](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) [supports](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.  
+*A system* is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) which [predictably](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) [supports](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.  
 
 #### Notes
 
