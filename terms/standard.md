@@ -1,6 +1,6 @@
 #### Definition
 
-A standard is a [premise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/premise.md) or a [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) which one or more [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) uses to *[coordinate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coordinate.md) [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A standard is a [premise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/premise.md) or a [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) which [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) use to *[coordinate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coordinate.md) [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
