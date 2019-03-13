@@ -1,6 +1,6 @@
 #### Definition
 
-A *prerequisite* is an [element](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/element.md) which *is [required](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/require.md) for a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/action.md) or [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md).*
+A *prerequisite* is an [element](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/element.md) which *is [required](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/require.md) before [performing](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/action.md) or [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md).*
 
 #### Notes
 
