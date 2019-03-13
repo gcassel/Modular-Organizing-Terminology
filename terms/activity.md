@@ -2,7 +2,6 @@
 
 *Activity* is *a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)*.  
 
-Likewise, *an activity* is a *type of action* or (more accurately) a *type of [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md)*.  
 
 #### Notes
 
