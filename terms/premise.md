@@ -1,6 +1,6 @@
 #### Definition
 
-A premise is a *[concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) which is [officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) accepted within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+A premise is a *[concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) which [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as a [basis](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) for [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)*.
 
 #### Notes
 
