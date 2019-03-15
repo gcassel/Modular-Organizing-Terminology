@@ -1,6 +1,6 @@
 #### Definition
 
-Action is [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) which *[changes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) over a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md) (an [interval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md) of [time](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/time.md))*.
+Action is [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) which *[changes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) over a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md) (an [interval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md) of [time](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/time.md))*.
 
 #### Notes 
 
