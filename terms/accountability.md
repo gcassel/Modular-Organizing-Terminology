@@ -1,0 +1,3 @@
+#### Definition
+
+*Accountability* is *[responsibility](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/responsibility.md) for [performance](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) which can be [effectively](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/effective.md) [evaluated](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/evaluate.md)* in a [relevant](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/relevant.md) [social](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md).
