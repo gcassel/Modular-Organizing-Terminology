@@ -1,3 +1,7 @@
 #### Definition
 
 *A commons fund* is *a [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/commons-fund.md) [reserve](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/reserve.md) of [resources](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md)* which is [openly](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/open.md) [accessible](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/access.md), to a [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) or undefined limit, to one or more *[specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [types](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/type.md) of [participant](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/participate.md)* to [support](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/support.md) a specific type of [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md).
+
+#### Notes
+
+*Commons fund* is closely [associated](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/associate.md) with the modern business practice of *petty cash funding*.  However, a commons fund can use resources other than [money](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/money.md).
