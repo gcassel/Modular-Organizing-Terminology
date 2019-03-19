@@ -1,6 +1,6 @@
 #### Definition
 
-Transfer is [transportation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) which *transports [portable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/portable.md) [rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md) and/or [responsibilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/responsibility.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To transfer* is *to [transport](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) [portable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/portable.md) [rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md) and/or [responsibilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/responsibility.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
