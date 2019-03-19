@@ -3,5 +3,3 @@ Portable is a [trait](https://github.com/gcassel/Modular-Organization-Terminolog
 **Notes:**  
 
 Portable elements are *[compatible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compatible.md) with all [sources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/source.md) and [destinations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/destination.md)* within the context of their portability.
-
-*Portability* may indicate 
