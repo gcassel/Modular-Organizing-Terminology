@@ -1,6 +1,6 @@
 #### Definitions
 
-*To give* is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which *[creates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md)* for a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) to [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) a specific [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md). 
+*To give* is *to [transfer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transfer.md) or [share](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/share.md) [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) to a specific [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*. 
 
 *A gift* is *a resource which is freely given* without creating [direct](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [responsibilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/responsibility.md) for the recipient.
 
