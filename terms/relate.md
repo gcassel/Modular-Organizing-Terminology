@@ -2,7 +2,7 @@
 
 *To relate* is *to [link](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) or [group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) elements.*
 
-*Relationship* is *grouping and/or [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md)* as a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
+*Relationship* is *grouping and/or [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) as a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
 
 #### Notes
 
