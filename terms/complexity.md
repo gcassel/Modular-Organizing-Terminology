@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
-Complexity is a [compound](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compound.md) [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/dimension.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) *variety*, *frequency* and *amplitude* of *[grouping](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) and/or [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md)* within a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
+*Complexity* is a [compound](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compound.md) [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/dimension.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) *variety*, *frequency* and *amplitude* of *[grouping](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) and/or [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md)* within a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
+
+*Complex* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of forms which have *high complexity*.
 
 #### Notes
 
