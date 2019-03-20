@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
 *Clarity* is a [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) how *[efficiently](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/efficient.md) [understandable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/understand.md)* a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) is for a specific *[type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [participant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participant.md)* in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
+
+*Clear* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of signals which *have high clarity*.
 		
 #### Notes
 
