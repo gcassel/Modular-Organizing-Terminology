@@ -1,0 +1,3 @@
+#### Definitions
+
+*To account* is *to [document](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/document.md) one or more [changes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) in the active [status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md) of [variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
