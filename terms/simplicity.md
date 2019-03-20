@@ -4,7 +4,7 @@ Simplicity is a [dimension](https://github.com/gcassel/Modular-Organizing-Termin
 
 #### Notes
 
-Most elements are [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md); however, a perfectly simple element isn't a form at all.  (It may however be part of forms.)
+Most elements are [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md); however, a perfectly simple element isn't a form at all.  (It could however be part of one or more forms.)
 
 #### Related Terms
 
