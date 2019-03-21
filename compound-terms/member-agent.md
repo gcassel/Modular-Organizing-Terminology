@@ -1,6 +1,6 @@
 #### Definition
 
-A *member agent* is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) who is a *[peer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/peer.md) [member](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/member.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agreement](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agree.md)*.
+A *member agent* is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) who is a *[governing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) [peer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/peer.md) [member](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/member.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agreement](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agree.md)*.
 
 #### Notes
 
