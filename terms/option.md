@@ -8,4 +8,4 @@
 
 #### Related Terms
 
-*alternative*, *discretionary*
+*[alternative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/alternative.md)*, *discretionary*
