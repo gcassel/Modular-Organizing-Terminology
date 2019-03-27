@@ -1,0 +1,3 @@
+#### Definition
+
+*To prohibit* is *to completely and [coercively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coercion.md) [restrict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* within a specific [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
