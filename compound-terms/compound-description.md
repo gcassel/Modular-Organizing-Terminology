@@ -13,4 +13,4 @@ Well-[developed](https://github.com/gcassel/Modular-Organization-Terminology/blo
 #### Synonyms
 
 * *Faceted classification* is a close synonym.
-* The [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) *folksonomy* [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) *[collaborative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaboration.md) compound description*.
+* The [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) *folksonomy* [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) *[collaborative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaborate.md) compound description*.
