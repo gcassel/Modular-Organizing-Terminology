@@ -8,7 +8,7 @@ The goal of *coordination* may be to [govern](https://github.com/gcassel/Modular
  
 Coordination often occurs un[officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md).  However, [group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md) may [assign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) coordination [roles](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md) to *[subgroup agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/subgroup-agent.md)* or to [personal agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal-agent.md).  
 
-A coordination [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) (or any *other* function) which is assigned to a subgroup agent often becomes [collaborative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaboration.md) work *within* that subgroup.
+A coordination [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) (or any *other* function) which is assigned to a subgroup agent often becomes [collaborative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaborate.md) work *within* that subgroup.
 
 #### Related Terms
 
