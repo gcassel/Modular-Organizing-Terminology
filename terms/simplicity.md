@@ -1,6 +1,8 @@
 #### Definition
 
-Simplicity is a [dimension](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/dimension.md) which is the *inverse of [complexity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complexity.md)*.   Thus, a *simple [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) contains relatively few or no internal [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* at the current [descriptive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) [level of detail](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-detail.md).
+*Simplicity* is a [dimension](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/dimension.md) which is the *inverse of [complexity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complexity.md)*.   
+
+*Simple* is a [trait](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/trait.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which have high simplicity within a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
