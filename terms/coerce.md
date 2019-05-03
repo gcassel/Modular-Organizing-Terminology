@@ -1,6 +1,6 @@
 #### Definition
 
-*To coerce* is *to [threaten](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/threat.md) with [restrictive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md) [intentions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md)*. 
+*To coerce* is *to [threaten](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/threat.md) with [restrictive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md) [intentions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md)*. 
  
 #### Notes
 
