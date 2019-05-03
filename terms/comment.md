@@ -1,6 +1,6 @@
 #### Definition
 
-*To comment* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a [statement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md)* which is *[intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To comment* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a [statement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md)* which is *[intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Specialized Meaning
 
