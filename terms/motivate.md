@@ -6,4 +6,4 @@
  
 #### Notes
 
-One or more motivations is closely [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to each [intention](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md).  However, motivations often remain *indefinitely unconscious*.
+One or more motivations is closely [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to each [intention](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md).  However, motivations often remain *indefinitely unconscious*.
