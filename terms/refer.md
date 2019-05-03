@@ -4,7 +4,7 @@ To refer is to *[indicate](https://github.com/gcassel/Modular-Organization-Termi
 
 #### Notes
 
-This is an [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) and [flexible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
+This is an [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) and [flexible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
 
 #### [Basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [Types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of Reference
 
