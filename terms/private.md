@@ -1,6 +1,6 @@
 #### Definition
 
-Private is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of *[resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [restrict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md) [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) to*.
+Private is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of *[resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [restrict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md) [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) to*.
 
 #### Examples
 
