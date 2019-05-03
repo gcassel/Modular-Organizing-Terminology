@@ -1,6 +1,6 @@
 #### Definition
 
-Sortition is *[intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [arbitrary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/arbitrary.md) [selection](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/select.md)*.
+Sortition is *[intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [arbitrary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/arbitrary.md) [selection](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/select.md)*.
 		
 #### Notes
 
