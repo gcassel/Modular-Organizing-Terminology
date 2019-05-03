@@ -1,6 +1,6 @@
 #### Definitions
 
-*To punish* is *to [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [damage](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/damage.md)* one or more agents because of [belief(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/believe.md) about their *past actions*.
+*To punish* is *to [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [damage](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/damage.md)* one or more agents because of [belief(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/believe.md) about their *past actions*.
 
 #### Notes
 
