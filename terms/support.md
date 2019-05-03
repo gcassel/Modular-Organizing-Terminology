@@ -4,4 +4,4 @@
 
 #### Notes
 
-This term is [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) *extremely* [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md).
+This term is [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) *extremely* [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md).
