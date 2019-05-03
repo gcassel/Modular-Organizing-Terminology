@@ -4,4 +4,4 @@ A term is a verbal [sign](https://github.com/gcassel/Modular-Organization-Termin
 
 #### Notes
 
-This is an [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
+This is an [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
