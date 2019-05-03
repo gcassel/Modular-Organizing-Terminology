@@ -1,6 +1,6 @@
 #### Definition
 
-*A goal* is *a [status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md), [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which is desired by one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.  
+*A goal* is *a [status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md), [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which is [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) by one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.  
  
 #### Notes  
 
@@ -19,7 +19,3 @@ Shared goals may often include creatively co-exploring ideas and shared interest
 #### Specialized Form(s)
 
 *[objective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/objective.md)*
-
-#### See Also
-
-*[intention](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md)*
