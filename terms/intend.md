@@ -4,7 +4,7 @@
  
 #### Notes
 
-*Intentional actions* are actions by agents who seem to be (or to *have been*) *consciously [motivated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/motivation.md)* by one or more specific intentions. 
+*Intentional actions* are actions by agents who seem to be (or to *have been*) *consciously [motivated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/motivate.md)* by one or more specific intentions. 
  
 Note: conscious motivations aren’t necessarily the only, nor [primary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md), motivations for specific actions.
 
