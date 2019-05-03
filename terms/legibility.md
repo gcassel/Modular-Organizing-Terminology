@@ -4,7 +4,7 @@
 
 #### Notes
 
-*Legible* signals tend to have low *signal-to-[noise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/noise.md)* ratios. More [importantly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md), it's easy for [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [users](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) to distinguish the signal from the noise by using one or more *[pattern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/pattern.md) [recognition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recognize.md) [techniques](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technique.md)*.
+*Legible* signals tend to have low *signal-to-[noise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/noise.md)* ratios. More [importantly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md), it's easy for [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [users](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) to distinguish the signal from the noise by using one or more *[pattern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/pattern.md) [recognition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recognize.md) [techniques](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technique.md)*.
 		
 #### Related Terms
 
