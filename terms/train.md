@@ -1,6 +1,6 @@
 #### Definition
 
-*To train* is to *[intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intention.md) [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [skill](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/skill.md)*.
+*To train* is to *[intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [skill](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/skill.md)*.
 
 #### [Potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [Traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of Training
 
