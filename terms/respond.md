@@ -1,6 +1,6 @@
 #### Definition
 
-*To respond* is *to [signal](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/signal.md)* because of a *[specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [motivating](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/motivation.md) signal.*
+*To respond* is *to [signal](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/signal.md)* because of a *[specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [motivating](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/motivate.md) signal.*
 
 #### Notes
 
