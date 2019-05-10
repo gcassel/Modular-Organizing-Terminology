@@ -1,0 +1,3 @@
+#### Definition
+
+*To monitor* is *to [consistently](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/consistent.md) [perceive](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perceive.md) and [evaluate](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/evaluate.md) a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md)* according to a specific [standard](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/standard.md).
