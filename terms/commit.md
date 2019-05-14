@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
 *To commit* is *to [significantly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) [invest](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/invest.md)*.
+
+*A commitment* is *a significant investment*.
 
 #### Notes
 
