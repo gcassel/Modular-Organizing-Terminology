@@ -1,6 +1,6 @@
 #### Definition
 
-*A section* is *a [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) [component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) of a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
+*A section* is *a [region](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/region.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
 
 #### Notes
 
