@@ -1,6 +1,6 @@
 #### Definition
 
-*To recommend* is *to [suggest](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/suggest.md) that a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) is [desirable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)* within a specific [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
+*To recommend* is *to [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) that a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) is [desirable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)* within a specific [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
 
 #### Notes
 
