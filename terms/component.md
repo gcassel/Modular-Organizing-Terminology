@@ -1,6 +1,6 @@
 #### Definition
 
-A component is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which
+A component is a [node](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/node.md) which
 *[performs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) in a [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.
 
 #### Notes
