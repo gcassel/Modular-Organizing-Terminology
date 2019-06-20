@@ -4,6 +4,8 @@
 
 #### Notes
 
-Guidelines are sometimes [defined](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) in [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [communities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md) and [collectives](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/group-agent.md).
+Guidelines can be [personal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal.md) or [collective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md).  Collective guidelines can [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) for an entire collective or for any [team](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/team.md) which the collective [delegates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/delegate.md) [authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md) to. 
+
+Guidelines are sometimes [defined](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) in [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [communities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md) and collectives.
 
 *Guidelines* are often [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) along with *[rules](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md)*, just as *recommendations* are often used along with *[requirements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md)*.
