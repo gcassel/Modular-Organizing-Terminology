@@ -1,0 +1,3 @@
+#### Definition
+
+*Symmetry* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of any *[set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which are centered upon a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md) in a specific [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).  
