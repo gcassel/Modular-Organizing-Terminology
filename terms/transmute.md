@@ -8,6 +8,6 @@ The transmutation of an element may indicate the *addition, subtraction or trans
 
 #### See Also
 
-*[transform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transform.md)*  
+*[modify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/modify.md), [transform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transform.md)*  
 
 
