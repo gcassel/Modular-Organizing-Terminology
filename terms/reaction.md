@@ -1,6 +1,6 @@
 #### Definition
 
-Reaction is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which is *caused by other [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) action(s)*.
+Reaction is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) which is *caused by other [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) action(s)*.
  
 #### Notes
 
