@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
-Action is [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) which *[changes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) over a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md) (an [interval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md) of [time](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/time.md))*.
+*To act* is *to [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* during a specific [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md).
+
+*Action* is *change in one or more specific elements* during a specific period.
 
 #### Notes 
 
