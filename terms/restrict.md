@@ -1,6 +1,6 @@
 #### Definition
 
-*To restrict* is *to [socially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [exclude](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exclude.md)* an *[action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To restrict* is *to [socially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [exclude](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exclude.md)* an *[action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes  
 
