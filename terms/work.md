@@ -1,6 +1,6 @@
 #### Definition
 
-*Work* is *[action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which [supports](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [goal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)*.
+*Work* is *[action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) which [supports](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [goal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)*.
 		
 #### Specialized Definition
 
