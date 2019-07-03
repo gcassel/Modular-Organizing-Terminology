@@ -2,9 +2,11 @@
 
 *To act* is *to [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* during a specific [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md).
 
-*An act* is *a specific change in an element* during a specific period.
+*An act* or *action* is *a specific change in an element* during a specific period.
 
-*Action* is *a [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of all acts of any specific [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)* during a specific period.
+#### Specialized Definition
+
+*Action* can also be defined as *a [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of all acts of any specific [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)* during a specific period.
 
 #### Notes 
 
