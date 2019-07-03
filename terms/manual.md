@@ -1,6 +1,6 @@
 #### Definition
 
-Manual is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which *[require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) action(s) by [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.
+Manual is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) which *[require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) action(s) by [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.
 		
 #### Notes
 
