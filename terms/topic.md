@@ -1,1 +1,3 @@
-A topic is a *[subject](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subject.md) of [dialogue](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dialogue.md)*.
+#### Definition
+
+*A topic* is a *[subject](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subject.md) of [dialogue](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dialogue.md)*.
