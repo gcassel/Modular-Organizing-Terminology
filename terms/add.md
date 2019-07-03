@@ -4,7 +4,7 @@
 
 #### Specialized Meaning
 
-*enter*:  *Enter* often refers to [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) by
+*enter*:  *Enter* often refers to [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) by
  [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) who add elements ([potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) including themselves) to formal contexts.
 
 #### Notes
