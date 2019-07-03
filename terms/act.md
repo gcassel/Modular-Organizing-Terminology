@@ -4,10 +4,6 @@
 
 *An act* or *action* is *a specific change in an element* during a specific period.
 
-#### Specialized Definition
-
-*Action* can also be defined as *a [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of all acts of any specific [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)* during a specific period.
-
 #### Notes 
 
 Actions can be [classified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/class.md) by these [primary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md): 
