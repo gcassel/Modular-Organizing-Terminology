@@ -1,6 +1,6 @@
 #### Definition
 
-Force is the *[element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which [produces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/produce.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [interactive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interactive.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+Force is the *[element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which [produces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/produce.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [interactive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interactive.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 
 #### Notes
 
