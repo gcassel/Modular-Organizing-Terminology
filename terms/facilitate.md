@@ -1,6 +1,6 @@
 #### Definition
 
-*To facilitate* is to *non-[coercively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coerce.md)* make [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) *easier, more [effective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) or more [efficient](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/efficient.md)*.
+*To facilitate* is to *non-[coercively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coerce.md)* make [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) *easier, more [effective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) or more [efficient](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/efficient.md)*.
 
 #### Synonym(s)
 
