@@ -1,6 +1,6 @@
 #### Definition
 
-*To credit* is *to [assign](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/assign.md) [responsibility](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/responsibility.md) for an [action](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/action.md)*.
+*To credit* is *to [assign](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/assign.md) [responsibility](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/responsibility.md) for an [action](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/act.md)*.
 
 #### Notes
 
