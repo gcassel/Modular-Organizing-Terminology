@@ -1,6 +1,6 @@
 #### Definition
 
-A warning is a [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) which *[indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) a [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* between an [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) and a *[damaging](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/damage.md)* action.
+A warning is a [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) which *[indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) a [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* between an [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) and a *[damaging](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/damage.md)* action.
  
 #### Notes
 
