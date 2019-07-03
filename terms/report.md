@@ -1,4 +1,8 @@
-Reports are *[descriptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) by [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) of past [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) or [experiences](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/experience.md)*.  
+#### Definition
+
+Reports are *[descriptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) by [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) of past [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [experiences](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/experience.md)*.  
+
+#### Notes
 
 Reports often describe *[complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) actions* by agents to *fulfill [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)* and to *fulfill the [requirements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) of [roles](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md)*.  
  
