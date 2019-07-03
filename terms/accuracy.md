@@ -4,4 +4,4 @@ Accuracy is a *[dimensional](https://github.com/gcassel/Modular-Organization-Ter
 
 #### [Example(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md)
 
-A description is *more accurate* if (1) it provides *more [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md)* and (2) is *equally or more [true](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/true.md)*.   Likewise, actions become more accurate if they come closer to realizing their intended [goal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)(s).
+A description is *more accurate* if (1) it provides *more [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md)* and (2) is *equally or more [true](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/true.md)*.   Likewise, actions become more accurate if they come closer to realizing their intended [goal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)(s).
