@@ -1,6 +1,6 @@
 #### Definition
 
-Interaction is one or more *[instances](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) of inter[acting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+Interaction is one or more *[instances](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) of inter[acting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
