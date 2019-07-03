@@ -1,6 +1,6 @@
 #### Definition
 
-An *active* (or actual) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) is a *[potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) and [present](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/presence.md)* element which *[functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+An *active* (or actual) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) is a *[potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) and [present](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/presence.md)* element which *[functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md)*.
 
 #### Notes  
 
