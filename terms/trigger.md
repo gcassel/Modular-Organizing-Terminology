@@ -1,6 +1,6 @@
 #### Definition
 
-*To trigger* is *to [activate](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/active.md) an [official](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) [agreement](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agree.md).*
+*To trigger* is *to [activate](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/active.md) a [planned](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/plan.md) [action](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/action.md) in an [official](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) [agreement](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agree.md).*
 
 #### Notes
 
