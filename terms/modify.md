@@ -1,6 +1,6 @@
 #### Definition
 
-*To modify* is to *change one or more [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) or [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To modify* is to *[change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
