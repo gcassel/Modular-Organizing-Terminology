@@ -1,6 +1,6 @@
 #### Definition
 
-To assign is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md) which *[creates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) an [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)*.
+To assign is [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) which *[creates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) an [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)*.
 
 #### Notes
 
