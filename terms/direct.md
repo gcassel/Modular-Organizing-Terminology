@@ -1,6 +1,6 @@
 #### Definitions
 
-*To direct* is to *[provide](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md)* for a *[specific](https://github.cob.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)*.  
+*To direct* is to *[provide](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md)* for a *[specific](https://github.cob.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)*.  
 
 *A direction* is *required information for the [performance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) of a specific action.* 
 
