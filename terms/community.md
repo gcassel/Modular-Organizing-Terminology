@@ -1,6 +1,6 @@
 #### Definition
 
-A community is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* who all *share a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* with a specific [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).  
+A community is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* who all *[share](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/share.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* with a specific [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).  
  
 #### Notes
 
