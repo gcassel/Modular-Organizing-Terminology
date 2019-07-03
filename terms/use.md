@@ -2,7 +2,7 @@
 
 To use is *to [add](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* as *an [input](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) in a [planned](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.
 
-*Useful* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of all [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which *can [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as inputs* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.
+*Useful* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which *can [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as an input* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.
 
 #### Notes
 
