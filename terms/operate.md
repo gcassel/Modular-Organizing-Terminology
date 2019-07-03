@@ -1,6 +1,6 @@
 #### Definition
 
-*To operate* is to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) an [instance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md)* of a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/action.md)*.
+*To operate* is to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) an [instance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md)* of a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)*.
 
 #### Notes
 
