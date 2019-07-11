@@ -1,8 +1,6 @@
-#### Definition
+#### Definitions
 
 *To produce* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)*.
-
-#### Specialized Definition
 
 *A product* is *the resource which has been developed by a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)*.
 
