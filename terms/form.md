@@ -28,9 +28,9 @@ Conceptual forms often may have analogies to physical *solidity* and *fluidity*.
 
 **Forms often *[function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)* as elements** in large-[scope](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scope.md) models (or [overviews](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/overview.md)) with low levels of detail.  For instance, snowflakes and mountains often function as conceptual elements, despite being clearly identifiable as ([complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md)) forms.
 
-#### [Important](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md) Synonym(s) 
+#### Synonyms
 
-*structure*
+*construct*, *structure*
 
 * **[Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) Definition:**  *Structure* often especially means *the [networking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*.
 
