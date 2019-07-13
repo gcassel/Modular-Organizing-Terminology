@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
-*Confidence* is a *[dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) intensity of [belief](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/believe.md)*.  
+*Confidence* is a *[dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) intensity of [belief](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/believe.md)*. 
+
+*Confident* is a *[trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of a [perception](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md)* which *has high confidence*.
 
 #### Notes
 
