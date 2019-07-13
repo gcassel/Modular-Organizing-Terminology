@@ -4,4 +4,4 @@
 
 #### Notes
 
-This term is [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) *extremely* [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md).
+*Support* is [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) *extremely* [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) in [Modular Organizing Terminology](https://github.com/gcassel/Modular-Organizing-Terminology/).  The [specialized](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specialize.md) terms *[function](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/function.md)* and *[serve](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/serve.md)* are based on *support*.
