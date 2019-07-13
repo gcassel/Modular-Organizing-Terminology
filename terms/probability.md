@@ -1,6 +1,6 @@
 #### Definition
 
-*Probability* is *[potential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/potential.md) which can be  [measured](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/measure.md)* on a [scale](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scale.md) from 0 to 1 (or 0% to 100%) [absence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/absence.md) to [presence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/presence.md). 
+*Probability* is *[potential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/potential.md) which can be  [confidently](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/confidence.md) [measured](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/measure.md) or [calculated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/calculate.md)* on a [scale](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scale.md) from 0 to 1 (or 0% to 100%) [absence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/absence.md) to [presence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/presence.md). 
 
 #### Notes
 
