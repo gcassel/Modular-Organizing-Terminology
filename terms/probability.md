@@ -4,7 +4,9 @@
 
 #### Notes
 
-*(tangential draft)* 
+Probability represents confidence of measurement or calculation, in contrast to confidence of belief.  For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) can be extremely confident that a six-sided die role has a 1/6 chance of resulting in "3", *and* be quite unconfident that "3" will be the (rather unlikely) result.
+
+*(tangential extended draft notes below)* 
 
 Probability may [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) [variability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) which seems *practically [arbitrary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/arbitrary.md)* **or** *highly predictable* at any [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [level of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organizing.md) or [level of detail](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-detail.md). 
 
