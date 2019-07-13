@@ -1,6 +1,6 @@
 #### Definition
 
-A *subject* is *a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) element which an [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) has been based on.*
+A *subject* is *a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) element which an [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) has been [based](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) on.*
 
 #### Notes 
 
