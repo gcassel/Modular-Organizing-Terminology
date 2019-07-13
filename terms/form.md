@@ -1,10 +1,10 @@
-**Definition**
+#### Definition
 
 *To form* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *[groups](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) other elements*. 
 
 *A form* is an element which groups other elements.   
 
-**Notes**
+#### Notes
 
 Forms may group [actual](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) *or* [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) elements.
 
@@ -32,7 +32,9 @@ Conceptual forms often may have analogies to physical *solidity* and *fluidity*.
 
 *construct*, *structure*
 
-* **[Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) Definition:**  *Structure* often especially means *the [networking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*.
+#### [Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) Definitions  
+
+*Structure* often especially means *the [networking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*.
 
 Within that [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md), *a structure* is a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) network of physical elements*.   
 
