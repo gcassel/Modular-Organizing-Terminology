@@ -4,4 +4,4 @@
 		
 #### See Also
 
-*[compute](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compute.md)* is a more [generally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [useful](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) 
+*[compute](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compute.md)* is a more [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) and [flexible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md) term
