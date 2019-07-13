@@ -1,8 +1,8 @@
 #### Definitions
 
-*To function* is *to [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) or [optimize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/optimize.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*, such as a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) or [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md). 
+*To function* is *to [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) or [optimize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/optimize.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md), [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md) or [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*. 
 
-*A function* is an [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which is *[required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) or [recommended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md)* to *support or optimize* a specific form.
+*A function* is *an action or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which is [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) or [recommended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md)* to *support or optimize a specific action, activity or system*.
 
 #### Notes 
 
