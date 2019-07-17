@@ -10,4 +10,6 @@ Persistent is often a [useful](https://github.com/gcassel/Modular-Organization-T
 
 #### Related Terms
 
-*[temporary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/temporary.md)*
+* *[temporary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/temporary.md)*
+
+* *permanence*:  [Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) *permanence* in [ways](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) which are [practically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/practice.md) synonymous with *durable* or *persistent*.  However, *permanence* has also often been used for (non-logical) [claims](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/claim.md) about [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) supposedly lasting forever, or existing outside of the *[spacetime](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/spacetime.md) continuum*.    
