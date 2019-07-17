@@ -1,0 +1,7 @@
+#### Definition
+
+*Safe* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which is [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) to be *extremely and indefinitely [secure](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/secure.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+#### Notes
+
+*Safe* is to *secure* as *persistent* is to *durability*.  Safety can be a useful context in [strict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) contexts, such as [developing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) [collectives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md) and [common](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/common.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).
