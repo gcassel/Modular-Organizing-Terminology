@@ -4,4 +4,4 @@
 
 **Related Terms**
 
-*safe*, *safety*, *security*
+*[safe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/safe.md)*, *safety*, *security*
