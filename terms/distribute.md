@@ -1,8 +1,14 @@
+#### Definition
+
 *To distribute* is *to [locate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md) [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) [accurately](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/accuracy.md)* throughout *a [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) locations* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
-**[Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [Form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md):**  A *distribution* is a *[set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [values](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md)* which *[represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) the [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) [instances](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) of a [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)* in a specific context.
+#### Specialized Definitions
+
+A *distribution* is a *[set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [values](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md)* which *[represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) the [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) [instances](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) of a [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)* in a specific context.
+
+*Distributive* is a [trait](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/trait.md) of a [system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md) which *[consistently](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/consistent.md) distributes [roles](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/role.md)*.
 	
-**Notes:** 
+#### Notes
 		
 Elements may be *distributed* according to *[qualitative variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/qualitative-variable.md)* or *[dimensional variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/dimensional-variable.md)*.
 		
