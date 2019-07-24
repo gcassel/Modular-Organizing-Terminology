@@ -1,6 +1,6 @@
 #### Definition
 
-A *protocol* is a *[signaling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [standard](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/standard.md)*.
+A *protocol* is a *[signaling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [standard](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/standard.md) or [plan](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md)*.
 
 #### Specialized Definition
 
