@@ -14,4 +14,4 @@ Agent B *will* receive X compensation every time they give Item 1 to Agent C.
 
 #### See Also
 
-*[may](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/may.md), [should](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/should.md)*
+*[may](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/may.md), [might](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/might.md), [should](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/should.md)*
