@@ -1,0 +1,3 @@
+#### Definition
+
+*To concern* is *to [attend](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/attend.md) to a [perception](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) of [harm](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/harm.md), [risk](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md) and/or unrealized or under-realized [benefit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/benefit.md) or [opportunity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/opportunity.md).*
