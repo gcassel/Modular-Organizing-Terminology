@@ -8,4 +8,4 @@ Organizing is an extremely [generic](https://github.com/gcassel/Modular-Organiza
 
 #### Related Terms
 
-*[group agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md)*:  The term *organization* is frequently used as a synonym for *group agent.*.  Such *organizations* either [officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) or unofficially [govern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) one or more *organizing activities*.
+*[group agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md)*:  The term *organization* is frequently used as a synonym for *group agent* or *collective*.  Such *organizations* either [officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) or unofficially [govern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) one or more *organizing activities*.
