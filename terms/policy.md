@@ -1,0 +1,3 @@
+#### Definition
+
+*A policy* is *a [guideline](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/guideline.md) or [rule](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/rule.md), or a [set](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/set.md) of guidelines and rules*, within a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md).
