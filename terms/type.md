@@ -1,6 +1,6 @@
 #### Definition
 
-A type is a *[description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) of a [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A type is a *[specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) of a [valid](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md) [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
