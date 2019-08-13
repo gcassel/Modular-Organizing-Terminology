@@ -4,4 +4,4 @@
 
 #### Notes
 
-H2h relationships include person-to-person, person-to-collective and collective-to-collective ([c2c](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/c2c.md)) relationships.
+H2h relationships include person-to-person, person-to-[collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md) and collective-to-collective ([c2c](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/c2c.md)) relationships.
