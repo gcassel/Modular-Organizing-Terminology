@@ -8,8 +8,8 @@ People often use group agents to [determine](https://github.com/gcassel/Modular-
 
 Group agents, including many *[governing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*, have been [fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) to the [development](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) of *[social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md), [cultural](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/culture.md), [economic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/economy.md) and [political](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/politics.md)* [forces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) and [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) on most *[levels of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organizing.md)*.
 
-#### Synonyms
+#### Related Terms
 
-*collective*
+*[collective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md)*
 
-*[organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organize.md)* (as a [group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md), instead of a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md))
+*[organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organize.md)*
