@@ -1,6 +1,6 @@
 #### Definition
 
-A *constitution* is *the [primary](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) [governing](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) [agreement](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agree.md) of a [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/group-agent.md)*.
+A *constitution* is *the [primary](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) [governing](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) [agreement](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agree.md) of a [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md)*.
 
 #### Notes
 
