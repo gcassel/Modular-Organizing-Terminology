@@ -8,4 +8,4 @@ This [definition](https://github.com/gcassel/Modular-Organization-Terminology/bl
 
 #### Related Terms
 
-*[collective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md), [community](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md), [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md)*
+*[collective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md), [community](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md), [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md)*
