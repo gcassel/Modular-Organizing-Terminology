@@ -1,6 +1,6 @@
 #### Definition
 
-A *post* is a *[role](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md), or a [set](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/set.md) of roles*, which *is [officially](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) [assigned](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/assign.md) in a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/group-agent.md)*.
+A *post* is a *[role](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md), or a [set](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/set.md) of roles*, which *is [officially](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) [assigned](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/assign.md) in a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md)*.
 
 #### Notes
 
