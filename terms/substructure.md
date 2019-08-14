@@ -4,7 +4,7 @@
 
 #### Notes
 
-A substructure *may or may not* be [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) by the [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) which governs its parent structure.  (See also [subgroup agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/subgroup-agent.md).)
+A substructure *may or may not* be [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) by the [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) which governs its parent structure.  
 
 #### Synonym
 
