@@ -4,4 +4,4 @@
 
 #### Notes
 
-A superstructure may or may not be [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) by the same [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) which governs its parent form.  (See also [parent group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/parent-group.md).)
+A superstructure may or may not be [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) by the same [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) which governs its parent form.  
