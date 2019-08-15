@@ -1,6 +1,6 @@
 #### Definition
 
-*Data* is *[information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [format](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/format.md)*.  
+*Data* is *[information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/language.md) or [format](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/format.md)*.  
  
 #### Notes
 
