@@ -6,7 +6,7 @@
 
 *Media* is the *[category](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which include data*.
 
-*A media item* is *a form which includes data*.
+*A media item* is *an [item](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md) which includes data*.
 
 #### Notes
 
