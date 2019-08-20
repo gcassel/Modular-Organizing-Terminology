@@ -14,4 +14,4 @@ In [formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/mas
 
 #### Related Terms
 
-*[c2c](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/C2C.md)*
+*[c2c](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/c2c.md)*
