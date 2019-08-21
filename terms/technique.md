@@ -12,6 +12,8 @@ Specific techniques often [require](https://github.com/gcassel/Modular-Organizat
 
 *Technical* processes and problems can seem to be *[inherent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/inhere.md) to a specific context*.  However, a technically reliable process can become unreliable if the context changes, and a technically impossible problem can become possible if the context changes.  For example, if it seems technically impossible for a [person](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/person.md) to get to work on time, it can become possible (and successful) if a benefactor loans them a working vehicle.  *(More examples will help here.)*
 
+Note that a problem is *not* [primarily](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) technical if it's [based](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) on an agent [neglecting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/neglect.md) or [violating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/violate.md) [accessible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) [rules](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md).
+
 #### Synonyms
 
 *method*
