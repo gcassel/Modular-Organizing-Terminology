@@ -5,7 +5,7 @@ A tool is a [resource](https://github.com/gcassel/Modular-Organization-Terminolo
 
 #### Notes
 
-Many tools [require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) the [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) of other resources, such as fuel.  Additionally, only [work](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/work.md) when used by [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  However, some tools can work [automatically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/automate.md).
+Many tools [require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) the [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) of other resources, such as fuel.  Additionally, many tools only [work](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/work.md) when used by [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  However, some tools can work [automatically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/automate.md).
 
 [Physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) tools are subject to [degradation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/degrade.md).
 
