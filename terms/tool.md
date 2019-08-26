@@ -1,11 +1,11 @@
 #### Definition
 
-A tool is a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which is a ([required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) *or* [recommended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md)) *[input](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) to a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)* which *does not [consume](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/consume.md) or [fundamentally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [transform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transform.md)* that input.
+A tool is a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which is an *[input](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) to a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) which does not [consume](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/consume.md) or [fundamentally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [transform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transform.md) that resource*.
 
 
 #### Notes
 
-**Tools [perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)** in processes.
+Many tools [require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) the [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) of other resources, such as fuel.  Additionally, only [work](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/work.md) when used by [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).  However, some tools can work [automatically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/automate.md).
 
 [Physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) tools are subject to [degradation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/degrade.md).
 
