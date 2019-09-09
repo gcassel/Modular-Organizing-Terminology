@@ -4,6 +4,8 @@
 
 #### Notes  
 
+*Decision* includes all committed plans to *not act* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).  For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), one [could](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/could.md) conclusively decide to not step out of the way of a speeding train, etcetera.  Whether one is deciding to act or *not* act, decisions have [significant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) [influence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/influence.md) on the future.
+
 While [persons](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/person.md) often seem to *[react](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/reaction.md) unconsciously* to [experience](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/experience.md), they also often make conscious decisions to commit resources to specific actions in the near future.  We also frequently decide to commit resources to [sustain](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sustain.md) goals or plans over the medium to long-term future.  Such goals and plans differ greatly in their [adaptability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md) to [changing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) experience.
 
 #### See Also
