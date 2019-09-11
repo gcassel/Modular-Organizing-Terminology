@@ -1,6 +1,6 @@
 #### Definition
 
-*To simulate* is *to [perform](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) an [experiment](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/experiment.md) on a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) of a [process](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/process.md) or [system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md)*.
+*To simulate* is *to [perform](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) an [experiment](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/experiment.md) on a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) of a [process](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/process.md)*.
 
 #### Notes
 
