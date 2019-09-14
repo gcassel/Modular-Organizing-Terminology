@@ -1,6 +1,6 @@
 #### [Definition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) 
 
-A channel is *a [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) which [enables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/enable.md) [transmission](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md)* between specific *[signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [sources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/source.md) and [destinations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/destination.md)*.
+A channel is *a [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) which [enables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/enable.md) [transmission](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md)* between *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [sources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/source.md) and [destinations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/destination.md)*.
 		
 #### Notes
 
