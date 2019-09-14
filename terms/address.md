@@ -15,4 +15,6 @@ Traditionally, persistent addresses are uniquely identified via *[hierarchically
 
 In *[distributed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distribute.md) networking*, *one address may [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/) more than one source or destination*.   (Note: This paragraph requires further elaboration and [MOT](https://github.com/gcassel/Modular-Organization-Terminology/) linking.)
 
-**See Also:** [channel](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/channel.md), [storage address](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/storage-address.md), [forum](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/forum.md)
+#### See Also
+
+*[channel](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/channel.md), [storage address](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/storage-address.md), [forum](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/forum.md)*
