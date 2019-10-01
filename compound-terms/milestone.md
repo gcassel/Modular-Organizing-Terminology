@@ -4,4 +4,4 @@
 
 #### Notes
 
-This is a placeholder definition which needs some work.
+*Completing* an objective is a milestone, although milestones often focus upon intermediary stages of partial completion.
