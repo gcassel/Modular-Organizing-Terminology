@@ -1,6 +1,6 @@
 #### Definition
 
-*Live communication* is [communication](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communicate.md) in which *[signals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) are [transmitted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) [immediately](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/immediate.md)* from at least one [source](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/source.md) to at least one [destination](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/destination.md).
+*Live communication* is [communication](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communicate.md) in which *[signals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) are [transmitted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) [immediately](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/immediate.md)* from at least one *[sending](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/send.md) [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* to at least one *[receiving](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/receive.md) agent*.
 		
 #### Notes
 
