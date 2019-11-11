@@ -8,3 +8,7 @@
 
 [Depending](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) on context, agents may potentially [complete](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complete.md) an assigned task by [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [performing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) the tasks, by [delegating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/delegate.md) them, or by otherwise satisfactorily [supporting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) the completion of the task.
 
+#### Related Terms
+
+*[function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)*: a function can be defined as one or more potentially recurring tasks.
+
