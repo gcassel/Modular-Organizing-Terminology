@@ -1,6 +1,6 @@
 #### Definition
 
-A *beta* is a [prototype](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/prototype.md) which *is [experimentally](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/experiment.md) [used](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/use.md)* within its [naming](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/name.md) [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md).
+A *beta* is a *[prototype](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/prototype.md)* which *is [experimentally](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/experiment.md) [used](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/use.md)* within its [naming](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/name.md) [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
