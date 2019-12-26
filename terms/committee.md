@@ -4,7 +4,7 @@
 
 #### Notes
 
-Many committees serve indefinitely ongoing collective [functions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/function.md).
+Many committees [serve](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/serve.md) [enduring](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/endure.md) collective [functions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/function.md).
 
 #### Related Terms
 
