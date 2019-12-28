@@ -6,6 +6,8 @@
 
 Templates can be [used](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/use.md) to produce [physical](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/physical.md) resources *or* any type of [media](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/media.md).
 
+#### Related Terms
+
 Templates are often [frameworks](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/framework.md).  However, templates don't [necessarily](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/require.md) *[include](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/include.md) [frames](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/frame.md)*, so they're not always frameworks. 
 
 Frameworks aren't necessarily templates, but they often include templates and can *be* templates.  For example, a *web framework* is a *[developmental](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md) framework* which often includes default or even "boilerplate" code [modules](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/module.md), which are customizable templates.
