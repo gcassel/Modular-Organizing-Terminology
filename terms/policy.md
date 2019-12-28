@@ -5,3 +5,7 @@
 #### Notes
 
 Individuals can have policies; however, most [official](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) policies are [developed](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md) by [collectives](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md).
+
+#### Related Terms
+
+A policy can contain [principles](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/principle.md) and  [protocols](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/protocol.md). 
