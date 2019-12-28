@@ -10,4 +10,6 @@ A framework can [function](https://github.com/gcassel/Modular-Organization-Termi
 
 #### Related Terms
 
-*[template](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/template.md)*
+*[template](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/template.md)*: Templates are often frameworks. However, templates don't necessarily include frames, so they're not always frameworks.  Frameworks aren't necessarily templates, but they often include templates and can be templates. For example, a web framework is a developmental framework which often includes default or even "boilerplate" code modules, which are customizable templates.
+
+*[policy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/policy.md), [protocol](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/protocol.md)*: Policies or protocols are often [primary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) of frameworks.  (Note also that policies often contain protocols.)
