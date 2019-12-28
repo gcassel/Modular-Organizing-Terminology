@@ -7,3 +7,7 @@
 A *framework* functions by *[linking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) frames* which each hold a formal [component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) which can be separately developed.
 
 A framework can [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as the basis of a [recipe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recipe.md).
+
+#### Related Terms
+
+*[template](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/template.md)*
