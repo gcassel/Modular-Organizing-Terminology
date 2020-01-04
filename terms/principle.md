@@ -1,6 +1,6 @@
 #### Definition
 
-*A principle* is *a [belief](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/believe.md) about how to [effectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) [act](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*A principle* is *a [belief](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/believe.md) about how to [effectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) [act](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md), either to [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a specific [goal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) or universally.
 		
 #### Notes 
 		
