@@ -1,6 +1,8 @@
 #### Definition
 
-*To message* is *to [send](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/send.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md)* to an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
+*To message* is *to [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [send](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/send.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md)* to an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
+
+*A message* is *a [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) which has been intentionally sent to a specific [address](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/address.md)*.
 		
 #### Notes
 		
