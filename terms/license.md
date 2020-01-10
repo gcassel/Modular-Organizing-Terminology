@@ -1,6 +1,8 @@
 #### Definition
 
-A license is a *[legal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/law.md) [offer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/offer.md)* to *[give](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/give.md) one or more [provisional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provisional.md) [rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md)* to a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.
+*To license* is to *[give](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/give.md) one or more [provisional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provisional.md) [legal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/law.md) [rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md)* to a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.
+
+*A license* is a *[legal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/law.md) [offer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/offer.md)* to give one or more provisional legal rights to a specific [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of agent.
 
 #### Notes
 
