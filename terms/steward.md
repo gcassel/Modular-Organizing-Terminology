@@ -1,6 +1,6 @@
 #### Definitions
 
-*Steward* is a Position which holds the (sometimes shared) Accountability of *supporting the successful performance of a specific Function or Task*.
+*Steward* is a Position which holds the (sometimes shared) Accountability of *supporting the successful performance of a specific Project*.
 
 #### See Also
 
