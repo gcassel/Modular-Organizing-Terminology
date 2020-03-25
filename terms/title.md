@@ -1,4 +1,4 @@
-A title is the [name](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/name.md) of an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in a [descriptive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) [format](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/format.md).
+A title is the [name](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/name.md) of JustOne Position.
 
 **Examples:**  
 * "Sunset on the Water" may be the title of an *image* in a [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [file](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/file.md) *or* in a [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [representation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) such as a photographic print.
