@@ -6,4 +6,4 @@
 
 Owners may assign Projects to Stewards, and Stewards may assign Facilitators for related activities.
 
-Projects are often [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by the intention to *[create](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/create.md) a specific [product](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/produce.md)*.
+Projects are often [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by ALOEs, Accountabilities, and other written or oral agreements. 
