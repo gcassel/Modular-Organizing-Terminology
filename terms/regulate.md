@@ -1,10 +1,10 @@
 #### Definition
 
-*To regulate* is to *[manage](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/manage.md) a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) according to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [plan](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md)*.
+*To regulate* is to *[manage](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/manage.md) a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) according to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [plan](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/program.md)*.
 
 #### Specialized Definition
 
-In [political](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/politics.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md), *to regulate* means [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) ([governing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md)) managerial [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md).
+In [political](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/politics.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md), *to regulate* means [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [governing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md).
 
 #### Notes
 
