@@ -10,4 +10,4 @@ A collective or [community](https://github.com/gcassel/Modular-Organizing-Termin
 
 #### See Also
 
-*[own](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/own.md)*:  Owners often delegate much or most of their responsibility to stewards.
+*[Owner](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/owner.md)*:  Owners often delegate much or most of their responsibility to stewards.
