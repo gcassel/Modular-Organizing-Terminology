@@ -4,4 +4,4 @@
 
 #### See Also
 
-*[own](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/own.md)*:  Owners often delegate much or most of their responsibility to Stewards.
+*[Owner](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/owner.md)*:  Owners often delegate much or most of their responsibility to Stewards.
