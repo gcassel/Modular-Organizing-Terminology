@@ -1,6 +1,6 @@
 #### Definition
 
-The *Owner* is the person with the ultimate official authority and legal rights regarding a specific resource.  
+The *Owner* is the person with the ultimate official authority and legal rights to (1) use a specific resource and (2) [govern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) others' potential use of that resource.  
 
 #### Notes  
 
