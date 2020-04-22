@@ -6,7 +6,7 @@
 
 #### Known Issue
 
-JOBranch has been copied from the master branch of MOT, and few terms have yet been customized for JOBranch use.  Among other issues, JOBranch terms are often hyperlinked to the master branch instead of internally (as they should be).  The process for updating JOBranch terms is predictable and easy but time-consuming.
+JOBranch has been copied from the master branch of MOT, and **few terms have yet been customized for JOBranch use**.  Among other issues, JOBranch terms are often hyperlinked to the master branch instead of internally (as they should be).  The process for updating JOBranch terms is predictable and easy but time-consuming.
 
 #### General [Objectives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)
 
