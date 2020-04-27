@@ -4,4 +4,6 @@
 
 #### Notes
 
+The goal which defines a specific project is its [mission](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/mission.md).
+
 Projects are often [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by the intention to *[create](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/create.md) a specific [product](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/produce.md)*.
