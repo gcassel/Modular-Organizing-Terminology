@@ -4,7 +4,7 @@
 
 *A message* is *a [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) which has been intentionally sent to a specific [address](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/address.md)*.
 		
-#### Notes
+#### Extended Guidelines
 		
 [Data](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md) is often [transmitted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) in *[intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) separated messages* instead of by *streams* in *open channels*.   Such messages are a [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [item](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md).
 
@@ -12,7 +12,7 @@ For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/m
 		
 [Digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) messages may contain any type(s) of digital data, including inline (contained and labeled) media items and [hyperlinks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hyperlink.md).
 		
-#### See Also
+##### See Also
 
 * [meet](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/meet.md)
 * [store](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/store.md):   All *asynchronous* messaging [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) must store messages at least [temporarily](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/temporary.md), somewhere, so that *intended [receivers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/receive.md)* can receive them.  However, that [necessary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) can be realized by [using](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) deeply different systems of messaging and storage.
