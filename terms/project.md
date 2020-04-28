@@ -7,3 +7,5 @@
 Owners may assign Projects to [Stewards](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/steward.md), and Stewards may assign [Facilitators](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/facilitator.md) for related activities.
 
 Projects can be [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by ALOEs, [Accountabilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/accountability.md), and other written or oral agreements. 
+
+Projects often contain *sub-projects* as needed.
