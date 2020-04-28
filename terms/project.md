@@ -2,7 +2,7 @@
 
 *A Project* is *a [group](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/group.md) of [related](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/relate.md) [activities](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md)* which *the [collective's](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md) Owners officially [support](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/support.md)*.
 
-#### Notes
+#### Extended Guidelines
 
 Owners may assign Projects to Stewards, and Stewards may assign Facilitators for related activities.
 
