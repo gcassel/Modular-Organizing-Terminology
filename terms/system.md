@@ -1,6 +1,6 @@
 #### Definition
 
-*A system* is *a network of specific activities* which is *officially supported by the collective's [Owners](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/owner.md)* to *support the collective's [Mission](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/mission.md)*.
+*A System* is *a network of specific activities* which is *officially supported by the collective's [Owners](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/owner.md)* to *support the collective's [Mission](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/mission.md)*.
 
 #### Extended Guidelines
 
