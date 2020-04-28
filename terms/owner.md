@@ -12,4 +12,4 @@ Traditional ownership may be *shared* between two or more people, either as equa
 
 ##### See Also
 
-*[steward](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/steward.md)*: Owners often delegate much or most of their responsibility to stewards.
+*[Steward](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/steward.md)*: Owners often delegate much or most of their general responsibility to stewards.
