@@ -13,3 +13,5 @@ Traditional ownership may be *shared* between two or more people, either as equa
 ##### See Also
 
 *[Steward](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/steward.md)*: Owners often delegate much or most of their general responsibility to stewards.
+
+*[Facilitator](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/facilitator.md)*: Owners or Stewards may assign Facilitators for specific supported [activities](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/activity.md).
