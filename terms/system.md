@@ -1,10 +1,8 @@
-#### Definitions
+#### Definition
 
-*A system* is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) which [predictably](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) [supports](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.  
+*A system* is *a network of specific activities* which is *officially supported by the collective's [Owners](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/owner.md)* to *support the collective's [Mission](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/mission.md)*.
 
-*Systemic* is *a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) which [significantly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) [influences](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/influence.md) an entire specific system.*
-
-#### Notes
+#### Extended Guidelines
 
 ***System* is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) which applies to many or most [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md), including all [organisms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organism.md) and many [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).**
 
@@ -16,6 +14,6 @@ Systems are [created](https://github.com/gcassel/Modular-Organization-Terminolog
 
 Some systems may be [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) mainly by networks of [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md).  For instance, a toaster is a system which has been created by networking physical components which match [modular](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/module.md) [specifications](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) for systemic [function(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md).
 
-#### See Also
+##### See Also
 
 *[complex adaptive system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/complex-adaptive-system.md)*
