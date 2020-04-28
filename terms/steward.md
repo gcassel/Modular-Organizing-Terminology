@@ -1,6 +1,6 @@
 #### Definitions
 
-*Steward* is a Position which holds (or co-holds) the Accountability for *the health and success of a specific Project*.  
+*Steward* is a Position which holds (or co-holds) the Accountability for *the health and success of a specific [Project](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/project.md)*.  
 
 #### Extended Guidelines
 
