@@ -1,6 +1,6 @@
 #### Definitions
 
-*Steward* is a [Position](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/position.md) which holds (or co-holds) the [Accountability](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/accountability.md) for *the health and success of a specific [Project](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/project.md)*.  
+*Steward* is a [Position](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/position.md) which holds (or co-holds) the [Accountability](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/accountability.md) for *the health and success of a specific [Project](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/project.md)* or of the [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/collective.md) itself.  
 
 #### Extended Guidelines
 
