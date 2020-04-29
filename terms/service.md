@@ -4,4 +4,5 @@
 
 #### Extended Guidelines
 
-*Service* is closely [related](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/relate.md) to *function*; however, note that service is a more [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) term, in addition to its flexibility in representing both inputs and functions.
+Services are inherently associated with specific service providers or compatible types of providers, and thus can’t be directly transferred.
+
