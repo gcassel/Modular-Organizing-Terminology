@@ -4,4 +4,6 @@
 
 #### Notes
 
+Goods are distinguished by *transferability*; by contrast, [services](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/serve.md) can't be transferred.
+
 *Goods* are used as [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) in [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md).
