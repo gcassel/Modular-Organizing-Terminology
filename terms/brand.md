@@ -1,0 +1,3 @@
+#### Definition
+
+A *brand* is *a [set](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/set.md) of [traits](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/trait.md)* which *[create](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/create.md) a [unique](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/unique.md) [identity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/identity.md)* for a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/specific.md) [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/collective.md).
