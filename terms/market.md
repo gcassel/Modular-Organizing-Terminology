@@ -6,4 +6,4 @@ A *market* is *a [location](https://github.com/gcassel/Modular-Organization-Term
 
 #### Related Terms
 
-*Bazaar* may mean general *market*, or may [imply](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) an extremely diverse market.
+*Bazaar* may mean *general market*, or may [imply](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) an extremely diverse market.
