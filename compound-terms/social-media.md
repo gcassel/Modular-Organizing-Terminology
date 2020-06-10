@@ -1,0 +1,3 @@
+#### Definition 
+
+*Social media* is *[media](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/media.md) which is [published](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/publish.md) on a [digital](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/digital.md) [network](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/network.md) which [hyperlinks](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/hyperlink.md) many user-generated [accounts](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/account.md), media contributions and friend or follower lists*.
