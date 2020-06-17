@@ -1,6 +1,6 @@
 #### Definition
 
-*To request* is *to [propose](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/propose.md) to [receive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/receive.md) a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*, or to receive a *[right](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md) to [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md)* that resource.
+*To request* is *to [propose](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/propose.md) to [receive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/receive.md) [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
 
 #### Notes
 
