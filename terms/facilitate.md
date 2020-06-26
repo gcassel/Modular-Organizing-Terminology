@@ -2,10 +2,6 @@
 
 *To facilitate* is to *non-[coercively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coerce.md)* make [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) *easier, more [effective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) or more [efficient](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/efficient.md)*.
 
-#### Synonym(s)
-
-*assist*, *help*
-
 #### Specialized Definition
 
 In *non-coercive [activities](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md)*, including [meetings](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/meeting.md) and [events](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/event.md), *facilitator* is often an [assigned](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/assign.md) or unassigned [personal](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/personal.md) [role](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/role.md).  A facilitator may [organize](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/organize.md) and lead an [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md), but has no [authority](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/authority.md) to coercively [instruct](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/instruct.md) other [participants](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/participate.md).
