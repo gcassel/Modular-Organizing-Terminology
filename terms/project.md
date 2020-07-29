@@ -8,4 +8,6 @@ Owners may assign Projects to [Stewards](https://github.com/gcassel/Modular-Orga
 
 Projects are [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by their own missions, which can be [represented](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBbranch/terms/represent.md) by ALOEs, [Accountabilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/accountability.md), and other written or oral agreements. 
 
+Projects can (and probably should) be directly [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by specific [functions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/function.md) and/or [tasks](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/task.md).
+
 Projects often contain *sub-projects* as needed.
