@@ -6,7 +6,7 @@
 
 Owners may assign Projects to [Stewards](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/steward.md) or to [teams](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/team.md).  Stewards may assign [Facilitators](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/facilitator.md) for related activities.
 
-Projects are [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by their own [missions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/mission.md), which can be [represented](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBbranch/terms/represent.md) by ALOEs, [Accountabilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/JOBranch/terms/accountability.md), and other written or oral agreements. 
+Projects are [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by their own [Missions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/mission.md).  Each Project Mission will be one or more [Functions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBbranch/terms/function.md) and/or [Tasks](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBbranch/terms/task.md).
 
 A Project's mission can and should be directly [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by specific [functions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/function.md) and/or [tasks](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/task.md).
 
