@@ -8,6 +8,6 @@
 
 A collective or [community](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/community.md) steward may be [identified](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/identify.md) and [perceived](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perceive.md) as a *[primary](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) governor of the community*.  This is often a [role](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/role.md) in a *[team](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/team.md) of [peers](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/peer.md)*.
 
-#### See Also
+#### Related Terms
 
 *[own](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/own.md)*:  Owners often delegate much or most of their responsibility to stewards.
