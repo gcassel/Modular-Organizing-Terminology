@@ -2,7 +2,7 @@
 
 A *Minor Decision* is a decision which has a non-reversible cost which is less than our petty cash withdrawal limit.
 
-#### Example
+#### Examples
 
 If our petty cash withdrawal limit is $20, then it would be a Minor Decision to give $18-$19 of sample products to a customer.
 
