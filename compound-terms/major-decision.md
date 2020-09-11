@@ -1,9 +1,10 @@
 #### Definition
 
-A *Major Decision* is a decision which has a non-reversible cost which exceeds the *greater* of the two following numbers:  
+A *Major Decision* is a decision which has a non-reversible cost which exceeds the *greater* of the following numbers:  
 
-1. The General Major Decision Threshold as defined by the CEO.
-2. The Major Decision Threshold defined by a specific [Position](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/position.md) which you hold.
+1. The Major Decision Threshold defined by a specific [Position](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/position.md) which you hold.
+2. The Major Decision Threshold within your specific [Project](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/project.md).
+3. The General Major Decision Threshold as defined by the CEO.
 
 
 #### Examples
