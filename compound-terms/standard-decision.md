@@ -1,6 +1,6 @@
 #### Definition
 
-A *Standard Decision* is a decision which has a non-reversible cost which is equal to or greater than our petty cash withdrawal limit, but less than the cost of a Major Decision.
+A *Standard Decision* is a decision which has an [irreversible](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/irreversible.md) cost which is equal to or greater than our petty cash withdrawal limit, but less than the cost of a Major Decision.
 
 #### Example
 
