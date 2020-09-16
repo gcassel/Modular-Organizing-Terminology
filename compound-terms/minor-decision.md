@@ -1,6 +1,6 @@
 #### Definition
 
-A *Minor Decision* is a decision which has a non-reversible cost which is less than the *greater* of the three following potential petty cash withdrawal limits: 
+A *Minor Decision* is a decision which has an [irreversible](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/irreversible.md) cost which is less than the *greater* of the three following potential petty cash withdrawal limits: 
 
 1. for your [Position](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/position.md)
 2. for your [Project](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/project.md)
