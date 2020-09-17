@@ -2,7 +2,7 @@
 
 A *Minor Decision* is a decision which has *irreversible [costs](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/cost.md)* which are *less than the **greater** of the following limits*:
 
-1. for execution of a well-defined [Accountability](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/accountability.md) which is attached to your [Position](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/position.md)
+1. for execution of a well-defined [Accountability](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/accountability.md) which you hold
 2. the petty cash withdrawal limit for a [Project](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/project.md) which you're a [Member](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/member.md) of, and are validly spending for
 3. the Minor Decision limit as defined for the entire organization
 
