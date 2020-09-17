@@ -1,6 +1,6 @@
 #### Definition
 
-*Irreversible* is a trait of [decisions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/decide.md) which has *[costs](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/cost.md) which either *are inherently irreversible*, or which *will quickly become irreversible* without special unplanned intervention.
+*Irreversible* is a trait of [decisions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/decide.md) which has [costs](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/cost.md) which either *are inherently irreversible*, or which *will quickly become irreversible* without special unplanned intervention.
 
 #### Examples
 
