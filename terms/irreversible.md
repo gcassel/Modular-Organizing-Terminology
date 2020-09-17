@@ -1,7 +1,8 @@
 #### Definition
 
-*Irreversible* is a trait of actions (including decisions) which have *costs* which either *are inherently irreversible* or which *will quickly become irreversible* according to standard or expected operational procedures. 
+*Irreversible* is a trait of [decisions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/decide.md) which has [costs](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/cost.md) which either *are inherently irreversible*, or which *will quickly become irreversible* without special unplanned intervention.
 
-#### Example
+#### Examples
 
 Purchasing an item which can be returned unopened in its packaging material is *not* irreversible, but opening that package is.
+Ruining a company's reputation through careless endangerment of the brand, or of products, is an irreversible decision.
