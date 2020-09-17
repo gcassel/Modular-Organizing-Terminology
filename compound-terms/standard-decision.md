@@ -1,6 +1,6 @@
 #### Definition
 
-A *Standard Decision* is a decision which has *irreversible costs* which are equal to or greater than the limits of a [Minor Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/minor.decision.md), but less than the lower limit of a [Major Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/major-decision.md).
+A *Standard Decision* is a decision which has *irreversible costs* which exceed the limits of a [Minor Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/minor.decision.md), but are less than the lower limit of a [Major Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/major-decision.md).
 
 #### Examples
 
