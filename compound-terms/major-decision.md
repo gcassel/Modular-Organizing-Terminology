@@ -17,4 +17,4 @@ If the General Major Decision Threshold is $200 but your Project has a Major Pro
 
 #### Note
 
-Major Decisions require the use of the [Advice Process](https://docs.google.com/document/d/1yg0doQyp-R2c--CPN-yQVmLE6XrEvacA-27Acm4gPIE/edit?usp=sharing).  If Immediate Action is required, you must call the CEO.
+Major Decisions require the permission of the CEO.
