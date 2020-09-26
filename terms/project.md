@@ -10,4 +10,6 @@ Projects are [defined](https://github.com/gcassel/Modular-Organizing-Terminology
 
 A Project's mission can and should be directly [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by specific [functions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/function.md) and/or [tasks](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/task.md).
 
+A Project requires creative research and development.  A Project has a Mission, but that Mission could (with due permission) change or lead to unexpected ends.
+
 Projects often contain *sub-Projects* as needed.
