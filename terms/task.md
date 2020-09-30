@@ -10,5 +10,5 @@
 
 #### Related Terms
 
-*[function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)*: a function can be defined as one or more potentially recurring tasks.
+*[function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)*: a function can be defined as one or more tasks which *must recur* to support a system.
 
