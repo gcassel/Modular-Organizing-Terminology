@@ -6,4 +6,4 @@ For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/m
 
 #### Synonym
 
-*sequential process*
+*[sequential process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/sequential-process.md)*
