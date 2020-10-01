@@ -6,4 +6,4 @@ For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/m
 
 #### Synonym
 
-*procedure*
+*[procedure](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/procedure.md)*
