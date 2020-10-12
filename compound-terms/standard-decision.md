@@ -1,6 +1,6 @@
 #### Definition
 
-A *Standard Decision* is a decision which has *gross collective costs* which exceed the limits of a [Minor Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/minor-decision.md), but are clearly less than the lower limit of a [Major Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/major-decision.md).
+A *Standard Decision* is a decision which has *gross collective costs* which are not clearly within the limits of a [Minor Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/minor-decision.md) Authorization, but are clearly within the limits of a [Standard Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/standard-decision.md) Authorization.
 
 #### Examples
 
