@@ -1,10 +1,10 @@
 #### Definition
 
-A *Minor Decision* is a decision which has *irreversible [costs](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/cost.md)* which are *less than the **greater** of the following limits*:
+A *Minor Decision* is a decision which has *a gross collective [cost](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/cost.md)* which *clearly does not exceed* the *highest* of any following values:
 
-1. for execution of a well-defined [Accountability](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/accountability.md) which you hold
-2. the petty cash withdrawal limit for a [Project](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/project.md) which (a) you're a [Member](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/member.md) of and (b) are validly spending for
-3. the Minor Decision limit, if defined, in a general organization-wide fund
+1. an applicable Personal Minor Decision Authorization
+2. an applicable Team Minor Decision Authorization
+3. (if implemented) the UFC Minor Decision Authorization 
 
 #### Examples
 
