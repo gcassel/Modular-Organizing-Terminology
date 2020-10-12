@@ -1,4 +1,4 @@
-##### Definition
+#### Definition
 
 When applicable, this must be defined as a specific dollar limit which all Project Stewards support for minor internal decisions which directly support that Project.   
 
