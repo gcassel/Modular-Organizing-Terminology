@@ -4,6 +4,8 @@
 
 #### Extended Guidelines
 
+A sustainably defined Accountability will bundle one or more **Responsibilities and Authorizations**.   Accountabilities, Responsibilities and Authorizations can all be modified by *Personal* or *Project* accountability.  Authorizations can be further defined, whenever necessary, as Minor Decision Authorizations and Standard Decision Authorizations, creating four general categories of Authorizations:  Individual Minor Decision Authorization, Individual Standard Decision Authorization, Project Minor Decision Authorization and Project Major Decision Authorization.  
+
 Most Accountabilities will probably be directly attached to [Projects](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/project.md), because most Missions are directly attached to specific ongoing Projects.
 
 Note that an Accountability system can enable people to create personal Accountabilities, such as lifestyle goals, which indirectly support collective functions and tasks-- and that’s good!  However, we must distinguish between personal Accountabilities and collective Accountabilities.
