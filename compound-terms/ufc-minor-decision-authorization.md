@@ -1,6 +1,6 @@
 #### Definition
 
-The UFC Minor Decision Authorization, if defined, is a specific dollar limit which all official Associates and Contractors are allowed to spend on well-documented minor decisions.
+The UFC Minor Decision Authorization, if defined, is a specific dollar limit which all official Associates and Contractors are allowed to spend on well-documented minor decisions on behalf of UFC or a UFC Project.
 
 #### Notes
 
