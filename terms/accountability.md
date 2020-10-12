@@ -4,7 +4,7 @@
 
 #### Extended Guidelines
 
-Most Accountabilities will probably be directly attached to [Projects](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/project.md), because most Missions are directly attached to specific Projects.
+Most Accountabilities will probably be directly attached to [Projects](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/project.md), because most Missions are directly attached to specific ongoing Projects.
 
 Note that an Accountability system can enable people to create personal Accountabilities, such as lifestyle goals, which indirectly support collective functions and tasks-- and that’s good!  However, we must distinguish between personal Accountabilities and collective Accountabilities.
 
