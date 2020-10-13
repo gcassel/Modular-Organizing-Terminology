@@ -2,9 +2,9 @@
 
 A *Standard Decision* is a decision which (1) is *not* clearly within the limits of a Minor Decision, but (2) *clearly does not exceed* the highest of any following values:
  
-any applicable Personal Standard Decision Authorizations
-any applicable Team Standard Decision Authorizations
-(if implemented) the UFC Standard Decision Authorization
+* any applicable Personal Standard Decision Authorizations
+* any applicable Team Standard Decision Authorizations
+* (if implemented) the UFC Standard Decision Authorization
 
 
 #### Examples
