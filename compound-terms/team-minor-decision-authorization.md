@@ -4,4 +4,6 @@ When applicable, your Team Minor Decision Authorization must be defined as a spe
 
 #### Notes
 
-If a Project uses a petty cash system, then the Team Minor Decision Authorization should be equal to the petty cash withdrawal limit.
+The dollar limit may be defined as either per action or for an interval of time, such as a weekly limit. 
+
+If a Project uses a petty cash system, then the Team Minor Decision Authorization may be equivalent to the petty cash withdrawal limit.
