@@ -3,7 +3,7 @@
 A *Major Decision* is a decision which has a *gross collective cost* which exceeds the *greater* of the following numbers:  
 
 1. The Standard Decision Threshold defined by a specific [Accountability](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/accountability.md) which you are *validly spending for*
-2. The Standard Decision Threshold for a specific [Project](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/project.md) which you're a [Member](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/member.md) of, and are *validly spending for.
+2. The Standard Decision Threshold for a specific [Project](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/project.md) which you're a [Member](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/member.md) of, and are validly spending for.
 3. The General Standard Decision Threshold as defined by the CEO for unspecified expenditures.
 
 
