@@ -1,6 +1,11 @@
 #### Definition
 
-A *Standard Decision* is a decision which has *gross collective costs* which are not clearly within the limits of a [Minor Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/minor-decision.md) Authorization, but are clearly within the limits of a [Standard Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/standard-decision.md) Authorization.
+A *Standard Decision* is a decision which (1) is *not* clearly within the limits of a Minor Decision, but (2) *clearly does not exceed* the highest of any following values:
+ 
+any applicable Personal Standard Decision Authorizations
+any applicable Team Standard Decision Authorizations
+(if implemented) the UFC Standard Decision Authorization
+
 
 #### Examples
 
