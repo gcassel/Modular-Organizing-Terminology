@@ -4,7 +4,7 @@ Credibility is perceived *[integrity](https://github.com/gcassel/Modular-Organiz
 
 #### Notes
 
-Credibility causes people to assign significant amounts of confidence or value to others’ actions, including their personal claims regarding past experiences.  Depending on our personality, we might assign more or less “default credibility” to the general claims of strangers.  That default credibility will be heavily modified by any biases and preferences regarding “types of reporters” or by personal experience with the reporters.
+Credibility causes people to assign significant [confidence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/confidence.md) or [value](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md) to others’ actions, including their personal claims regarding past experiences.  Depending on our personality, we might assign more or less “default credibility” to the general claims of strangers.  That default credibility will be heavily modified by any biases and preferences regarding “types of reporters” or by personal experience with the reporters.
 
 Credibility is closely related to [trust](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trust.md), although it’s a more specialized term.  When we perceive positive credibility, we begin to trust someone within a specific (and often strictly limited) context.  This often happens with people with whom we’ve had no personal interactions.  By contrast, when we perceive negative credibility, we begin to actively distrust someone, and we disregard or contest their claims and actions.
 
