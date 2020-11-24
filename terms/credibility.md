@@ -1,3 +1,13 @@
+#### Definition
+
+Credibility is perceived *[integrity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/integrate.md) plus [competence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/competence.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
+
+#### Notes
+
+Credibility causes people to assign significant amounts of confidence or value to others’ actions, including their personal claims regarding past experiences.  Depending on our personality, we might assign more or less “default credibility” to the general claims of strangers.  That default credibility will be heavily modified by any biases and preferences regarding “types of reporters” or by personal experience with the reporters.
+
+Credibility is closely related to [trust](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trust.md), although it’s a more specialized term.  When we perceive positive credibility, we begin to trust someone within a specific (and often strictly limited) context.  This often happens with people with whom we’ve had no personal interactions.  By contrast, when we perceive negative credibility, we begin to actively distrust someone, and we disregard or contest their claims and actions.
+
 The concept of credibility is essentially a *heuristic*, or a practical shortcut, by which [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) *extend **credit** to [descriptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) of [experiences](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/experience.md) or [concepts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md)*.  
  
 Assigning credibility is heuristic when we’re just *saving time* by not *inspecting* [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) personally, and it’s *also* heuristic when the supposed information-- a descriptive *indication*, *declaration* or *claim*-- is not directly available. For instance, few people will ever run a particle accelerator, or read its results, but we may extend credibility to scientists who use them.  
