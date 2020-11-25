@@ -1,6 +1,6 @@
 #### Definition
 
-Credibility is perceived *[integrity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/integrate.md) plus [competence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/competence.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
+Credibility is perceived *[integrity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/integrate.md) plus [competence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/competence.md)* to *make [accurate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/accuracy.md) [statements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) on a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [subject](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subject.md)*.
 
 #### Notes
 
