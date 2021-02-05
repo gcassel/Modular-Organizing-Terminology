@@ -1,18 +1,12 @@
 #### Definition
 
-A *Minor Decision* is a decision which has *a gross collective [cost](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/cost.md)* which *clearly does not exceed* the *highest* of any following values:
-
-1. an applicable Personal Minor Decision Authorization
-2. an applicable Team Minor Decision Authorization
-3. (if implemented) the UFC Minor Decision Authorization 
+A *Minor Decision* is a decision which has *a gross collective [cost](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/cost.md)* which *clearly does not exceed* the *Minor Decision Authorization* as defined by UFC.
 
 #### Examples
 
-If your Project's petty cash withdrawal limit is $20, then it would be a Minor Decision to give $18-$19 of sample products to a customer.
+If UFC's Minor Decision Authorization is $20 per decision, then it would be a Minor Decision to give $18 of sample products to a customer.
 
-If your Project's petty cash withdrawal limit is $20 but you have a personal Accountability to distribute up to $50 of free samples per week, then it would be a Minor Decision to distribute any samples until that limit is hit.
-
-If your Project's petty cash withdrawal limit is $20 but you're acting outside of the scope of your Project's Accountabilities *and* your personal Accountabilities, then distributing *any* free samples would be a non-Minor Decision. (Probably a [Standard Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/standard-decision.md), unless you're giving away a huge amount of products.)
+If UFC's Minor Decision Authorization is $40 per week, then it would be a Minor Decision to give $18 of sample products to a customer once and another $18 during that week.  
 
 #### Notes
 
