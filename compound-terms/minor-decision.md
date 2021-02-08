@@ -14,6 +14,8 @@ Document every Minor Decision which changes any resources which we track on spre
 
 **Creating a habit *is a Decision*; therefore, habitually giving $18 of samples every week (to any possible combination of recipients) would be a decision of the cost of $18 *times* the number of weeks that you habitually do this.**  That would *not* be a Minor Decision!  Only you can judge your intentions (and habits) but it's very important for you to do so, to examine and to re-examine your tendencies, and to seek explicit approval of any costly habits.  
 
+### See [Assessing Costs](https://docs.google.com/document/d/1ml-4m_xuaQJ-ndDjfNrHgx6PtdGt2_c2bLq1WMJAtRs/edit?usp=sharing) for more info.
+
 #### See Also
 * *[Standard Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/standard-decision.md)*
 * *[Major Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/major-decision.md)*
