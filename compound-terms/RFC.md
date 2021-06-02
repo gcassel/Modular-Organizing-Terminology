@@ -9,4 +9,4 @@ A specific RFC may [function](https://github.com/gcassel/Modular-Organization-Te
 The [Internet Engineering Task Force](http://ietf.org/) uses the term RFC according to their own [unique](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md).  That specification is highly [useful](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) for IETF's [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md); however, it's *too specific* for [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [MOT](https://github.com/gcassel/Modular-Organization-Terminology/) use of the term "RFC".
 
 #### See Also
-*[FYI](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/FYI.md)*
+*[FYI](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/FYI.md)*
