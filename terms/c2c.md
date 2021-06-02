@@ -8,4 +8,4 @@ C2C relationships can be [defined](https://github.com/gcassel/Modular-Organizati
 
 #### Related Terms
 
-*[p2p](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/p2p.md)*
+*[p2p](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/p2p.md)*
