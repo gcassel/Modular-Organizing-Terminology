@@ -4,6 +4,6 @@
 
 #### Notes
 
-[Parent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/parent.md)-child *[c2c](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/c2c.md) [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* can be [vague](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/vague.md).
+[Parent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/parent.md)-child *[c2c](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/c2c.md) [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* can be [vague](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/vague.md).
 
 Parent [collectives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md) don't [necessarily](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) *[govern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) their child collectives*.  If a child collective *is* governed by a parent, that child [might](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/might.md) be referred to as a committe, task force or [team](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/team.md).
