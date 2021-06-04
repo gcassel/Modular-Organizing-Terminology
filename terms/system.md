@@ -18,4 +18,4 @@ Some systems may be [identified](https://github.com/gcassel/Modular-Organization
 
 #### See Also
 
-*[complex adaptive system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/complex-adaptive-system.md)*
+*[complex adaptive system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex-adaptive-system.md)*
