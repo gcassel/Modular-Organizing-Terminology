@@ -8,4 +8,4 @@ Consent-based activity [requires](https://github.com/gcassel/Modular-Organizing-
 
 #### See Also
 
-*[consent-oriented](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/consent-oriented]*
+*[consent-oriented](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/consent-oriented.md)*
