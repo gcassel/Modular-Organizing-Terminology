@@ -2,4 +2,4 @@
 
 *Version control systems* often enable versions to be [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) *[branched](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/branch.md), [forked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/fork.md) and/or [merged](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/merge.md)*.
 
-**See Also:** [distributed version control](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/distributed-version-control.md)
+**See Also:** [distributed version control](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distributed-version-control.md)
