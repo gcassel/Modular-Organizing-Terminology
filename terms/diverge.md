@@ -8,7 +8,7 @@ In [distributed version control](https://github.com/gcassel/Modular-Organization
 
 #### Notes
 
-This is an important definition and it needs to be improved. (work in progress)
+*This is an important definition and it needs to be improved!*
 
 #### Synonym(s)
 
