@@ -4,4 +4,4 @@
 		
 #### Notes
 
-System software includes [device software](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/device-software.md) and [operating systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/operating-system.md).
+System software includes [device software](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/device-software.md) and [operating systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/operating-system.md).
