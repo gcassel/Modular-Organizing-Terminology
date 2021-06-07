@@ -4,7 +4,7 @@
 
 #### Specialized Definition
 
-*An account* is *a [database](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/database.md) of [personal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) for a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* in a specific [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).
+*A [digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) account* is *a [database](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/database.md) of [personal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) for a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* in a specific [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).
 
 #### Notes
 
