@@ -12,12 +12,12 @@ If your Project's petty cash withdrawal limit is $20, then it would be a Minor D
 
 If your Project's petty cash withdrawal limit is $20 but you have a personal Accountability to distribute up to $50 of free samples per week, then it would be a Minor Decision to distribute any samples until that limit is hit.
 
-If your Project's petty cash withdrawal limit is $20 but you're acting outside of the scope of your Project's Accountabilities *and* your personal Accountabilities, then distributing *any* free samples would be a non-Minor Decision. (Probably a [Standard Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/standard-decision.md), unless you're giving away a huge amount of products.)
+If your Project's petty cash withdrawal limit is $20 but you're acting outside of the scope of your Project's Accountabilities *and* your personal Accountabilities, then distributing *any* free samples would be a non-Minor Decision. (Probably a [Standard Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/standard-decision.md), unless you're giving away a huge amount of products.)
 
 #### Notes
 
 Document every Minor Decision which changes any resources which we track on spreadsheets, including raw ingredients and Inventory items.
 
 #### See Also
-* *[Standard Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/standard-decision.md)*
-* *[Major Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/major-decision.md)*
+* *[Standard Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/standard-decision.md)*
+* *[Major Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/major-decision.md)*
