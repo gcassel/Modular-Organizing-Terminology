@@ -15,6 +15,10 @@ If the General Major Decision Threshold is $200 but your Project has a Major Pro
 
 If the General Major Decision Threshold is $200 but your Project has a Major Project Decision Threshold of $500, then spending $510 would be a Major Decision.
 
-#### Note
+#### Notes
 
 Major Decisions require the permission of the Collective Stewards.
+
+#### See Also
+
+*[standard decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/standard-decision.md), [minor decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/minor-decision.md)*
