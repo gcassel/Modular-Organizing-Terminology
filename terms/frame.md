@@ -8,4 +8,4 @@
 
 #### See Also
 
-*[framework](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/framework.md)*
+*[framework](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/framework.md)*
