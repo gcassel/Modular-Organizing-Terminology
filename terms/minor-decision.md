@@ -1,6 +1,6 @@
 #### Definition
 
-A *Minor Decision* is a decision which has *a gross collective [cost](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/cost.md)* which *clearly does not exceed* the *highest* of any following values:
+A *Minor Decision* is a decision which has *a gross collective [cost](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/cost.md)* which *clearly does not exceed* the *highest* of any following values:
 
 1. an applicable Personal Minor Decision Authorization
 2. an applicable Team Minor Decision Authorization
@@ -19,5 +19,5 @@ If your Project's petty cash withdrawal limit is $20 but you're acting outside o
 Document every Minor Decision which changes any resources which we track on spreadsheets, including raw ingredients and Inventory items.
 
 #### See Also
-* *[Standard Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/standard-decision.md)*
-* *[Major Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/terms/major-decision.md)*
+* *[Standard Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/standard-decision.md)*
+* *[Major Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/major-decision.md)*
