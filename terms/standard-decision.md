@@ -13,7 +13,7 @@ If your Project's petty cash withdrawal limit is $20 and its Standard Decision A
 
 If your Project's petty cash withdrawal limit is $20 and its Standard Decision Authorization is $200, but you have a personal Accountability to distribute up to $50 of free samples per week, then it would be a Standard Decision for you to distribute more than $50, but less than $200, of samples per week.
 
-If your Project's petty cash withdrawal limit is $20 and its Standard Decision Authorization is $200, but you're acting outside of the scope of your Project's Accountabilities *and* your personal Accountabilities, then distributing $50 of samples would be a [Standard Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/JOBranch/compound-terms/standard-decision.md).
+If your Project's petty cash withdrawal limit is $20 and its Standard Decision Authorization is $200, but you're acting outside of the scope of your Project's Accountabilities *and* your personal Accountabilities, then distributing $50 of samples would be a Standard Decision.
 
 #### Notes
 
@@ -21,5 +21,5 @@ Agents should document every Standard Decision which changes any resources which
 
 #### See Also
 
-* *[Minor Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/minor-decision.md)*
-* *[Major Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/major-decision.md)*
+* *[Minor Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/minor-decision.md)*
+* *[Major Decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/major-decision.md)*
