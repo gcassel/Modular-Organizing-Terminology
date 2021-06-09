@@ -1,4 +1,4 @@
-*To index* is *to [list](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/list.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which are [important](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [media-item](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media-item.md).
+*To index* is *to [list](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/list.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which are [important](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [media item](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media-item.md).
 		
 **Notes:** 
 		
