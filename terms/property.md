@@ -6,7 +6,7 @@ A property is an *[required](https://github.com/gcassel/Modular-Organization-Ter
 
 * Product X is a green shirt.  Green is currently a property of the shirt.
 * The *[quantity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/quantity.md) of 3* is a property of *a [group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) of three cats*.
-* *Mass* is a property of [matter-energy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/matter-energy.md).
+* *Mass* is a property of [matter-energy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/matter-energy.md).
 		
 #### Notes
 
