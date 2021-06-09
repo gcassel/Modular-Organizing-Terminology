@@ -10,4 +10,4 @@ Most elements are [forms](https://github.com/gcassel/Modular-Organization-Termin
 
 #### Related Terms
 
-*[simple form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/simple-form.md)*
+*[simple form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/simple-form.md)*
