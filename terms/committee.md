@@ -8,4 +8,4 @@ Many committees [serve](https://github.com/gcassel/Modular-Organizing-Terminolog
 
 #### Related Terms
 
-*[task force](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/task-force.md)*
+*[task force](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/task-force.md)*
