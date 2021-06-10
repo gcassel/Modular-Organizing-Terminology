@@ -10,7 +10,7 @@ A *distribution* is a *[set](https://github.com/gcassel/Modular-Organization-Ter
 	
 #### Notes
 		
-Elements may be *distributed* according to *[qualitative variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/qualitative-variable.md)* or *[dimensional variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimensional-variable.md)*.
+Elements may be *distributed* according to *[qualitative variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/qualitative-variable.md)* or *[dimensional variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimensional-variable.md)*.
 		
 [Dimensionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) distributed elements will *be [assigned](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) diversely* across a specific dimension or [interval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md).
 	
