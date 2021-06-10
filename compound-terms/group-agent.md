@@ -1,6 +1,6 @@
 #### Definition
 
-A *group agent* is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) which *[may](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/may.md) [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) two or more [persons](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/person.md), or [personal agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/personal-agent.md),* in an [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A *group agent* is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) which *[may](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/may.md) [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) two or more [persons](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/person.md), or [personal agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal-agent.md),* in an [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
