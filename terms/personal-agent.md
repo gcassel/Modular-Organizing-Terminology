@@ -1,1 +1,3 @@
+#### Definition
+
 A personal agent is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) which directly [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) a [unique](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) [person](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/person.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
