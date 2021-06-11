@@ -8,4 +8,4 @@ Each group of elements can be more [accurately](https://github.com/gcassel/Modul
 
 **Related Terms**
 
-A *[group agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md)* is a [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of group.
+A *[group agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group-agent.md)* is a [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of group.
