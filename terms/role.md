@@ -4,7 +4,7 @@ A role is a *[functional](https://github.com/gcassel/Modular-Organization-Termin
 
 #### Notes
 
-Agents often [serve](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/serve.md) roles in [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md), [communities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md) and [group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md). 
+Agents often [serve](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/serve.md) roles in [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md), [collectives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md) and [group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md). 
 
 Each role [identifies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) one or more *[rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md), [requirements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) and/or [responsibilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/responsibility.md)*.  
 
