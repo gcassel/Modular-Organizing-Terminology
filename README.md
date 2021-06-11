@@ -12,7 +12,7 @@ I ([Greg Cassel](https://github.com/gcassel/Essays/blob/master/authors-profile_g
 
 I'm using this [repository's](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/repository.md) [hyperlinked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hyperlink.md) [definitions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) to standardize terminology in [my organizing models](https://github.com/gcassel/Models) and [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [documents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/document.md).  **[Inclusive Organizing Systems](https://docs.google.com/drawings/d/1-WFMRYdueSBba1atcohX0G585zj-gBNlBvZQBqnEmEs/edit?usp=sharing)** [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) many relationships between MOT and specific organizing models.
 
-Additionally, I'll work with others to import mutually useful MOT terms into one or more [collectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md) [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) repositories.
+Additionally, I'll work with others to import mutually useful MOT terms into one or more *[collectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md) [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md)* repositories.
 
 #### Philosophical [Context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)
 
