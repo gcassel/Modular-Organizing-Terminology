@@ -8,4 +8,4 @@
 		
 #### Related Terms
 
-*[criterion](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/criterion.md)*, *[standard](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/standard.md)*, *[rating scale](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/rating-scale.md)*
+*[criterion](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/criterion.md)*, *[standard](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/standard.md)*, *[rating scale](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rating-scale.md)*
