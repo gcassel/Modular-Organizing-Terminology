@@ -4,7 +4,7 @@
 
 (1) *[Activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)*, including [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md), which *is [performed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) by [peers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/peer.md)*.
 
-(2) *[Organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md) [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*, including [group agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group-agent.md), which are *[developed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) by p2p activity*.
+(2) *[Organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md) [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*, including [collectives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md), which are *[developed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) by p2p activity*.
 
 #### Notes
 
