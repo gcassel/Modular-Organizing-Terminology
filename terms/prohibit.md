@@ -4,4 +4,4 @@
 
 #### Notes
 
-*Prohibition* is often [associated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/associate.md) with [collectives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/group-agent.md), but also often occurs un[officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) in many [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md).
+*Prohibition* is often [associated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/associate.md) with [collectives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md), but also often occurs un[officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) in many [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md).
