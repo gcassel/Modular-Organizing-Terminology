@@ -13,4 +13,4 @@ Organizing is an extremely [generic](https://github.com/gcassel/Modular-Organiza
 
 #### Related Terms
 
-*[collective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md)*:  The term *organization* is frequently used as a synonym for *collective*, and sometimes for [group agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/group-agent.md). 
+*[collective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md)*:  The term *organization* is frequently used as a synonym for *collective*, and sometimes for [group agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/group-agent.md). 
