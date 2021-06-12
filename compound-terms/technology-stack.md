@@ -1,6 +1,6 @@
 #### Definition
 
-A *technology stack* is *a [toolset](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/toolset.md) which is [based](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) on [hierarchical](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/hierarchy.md) [dependencies](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/require.md).*
+A *technology stack* is *a [toolset](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/toolset.md) which is [based](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) on [hierarchical](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/hierarchy.md) [dependencies](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/require.md).*
 
 #### Notes
 
