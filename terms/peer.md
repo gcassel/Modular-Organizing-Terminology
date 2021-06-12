@@ -8,4 +8,4 @@ Within specific [social](https://github.com/gcassel/Modular-Organizing-Terminolo
 
 #### Related Terms
 
-*[member-agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/member-agent.md)*
+*[member-agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/member-agent.md)*
