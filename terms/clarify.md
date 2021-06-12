@@ -12,4 +12,4 @@
 		
 #### Related Terms
 
-*[view](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/view-right.md)*, *[read](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/read.md)*, *[legible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/legible.md)*
+*[view-right](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/view-right.md)*, *[read](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/read.md)*, *[legible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/legible.md)*
