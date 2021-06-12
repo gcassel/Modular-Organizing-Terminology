@@ -17,4 +17,4 @@ Traditionally, persistent addresses are uniquely identified via *[hierarchically
 
 #### See Also
 
-*[channel](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/channel.md), [storage address](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/storage-address.md), [forum](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/forum.md)*
+*[channel](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/channel.md), [storage address](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/storage-address.md), [forum](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/forum.md)*
