@@ -12,4 +12,4 @@ In [digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/ma
 
 #### See Also
 
-*[storage address](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/storage-address.md)*
+*[storage address](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/storage-address.md)*
