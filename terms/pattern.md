@@ -4,9 +4,9 @@ A pattern is a [form](https://github.com/gcassel/Modular-Organization-Terminolog
 
 #### Notes
 
-Patterns may occur and recur within one [level of organization](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organization.md) within a context, [based](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) upon how [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) and [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) are *[perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md), [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md)* and (sometimes) *[factored](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/factor.md)*. 
+Patterns may occur and recur within one [level of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-organizing.md) within a context, [based](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) upon how [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) and [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) are *[perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md), [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md)* and (sometimes) *[factored](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/factor.md)*. 
 
-Patterns may also recur through multiple [levels of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organizing.md).
+Patterns may also recur through multiple levels of organizing.
 
 #### See Also
 
