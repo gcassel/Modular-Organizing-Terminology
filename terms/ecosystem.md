@@ -4,4 +4,4 @@ An *ecosystem* is a [system](https://github.com/gcassel/Modular-Organization-Ter
 
 #### Notes
 
-Each ecosystem is *a system of systems*, because each organism is a system.  Ecosystems can have many systemic [levels of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/level-of-organizing.md).
+Each ecosystem is *a system of systems*, because each organism is a system.  Ecosystems can have many systemic *[levels of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-organizing.md)*.
