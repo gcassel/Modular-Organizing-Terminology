@@ -4,7 +4,7 @@ A *protocol* is a *[signaling](https://github.com/gcassel/Modular-Organization-T
 
 #### Specialized Definition
 
-*Protocol* often [especially](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specialize.md) means *a standard [procedure](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/compound-terms/sequential-process.md)* for *[performing](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) a [sequential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/sequence.md) signaling [process](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/process.md)*, such a repeated exchange of signals of [predictable](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/predict.md) [types](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/type.md).
+*Protocol* often [especially](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specialize.md) means *a standard [procedure](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/sequential-process.md)* for *[performing](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) a [sequential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/sequence.md) signaling [process](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/process.md)*, such a repeated exchange of signals of [predictable](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/predict.md) [types](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/type.md).
 
 #### Notes
 
