@@ -4,4 +4,4 @@
 		
 #### Related Terms
 
-*[directory](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/directory.md)*, *[version control](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/version-control.md)*
+*[directory](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/directory.md)*, *[version control](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/version-control.md)*
