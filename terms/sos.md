@@ -8,4 +8,4 @@ This definition needs some clarification.
 
 #### See Also
 
-*[h2h](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/h2h.md)*
+*[operating system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/operating-system.md), [h2h](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/h2h.md)*
