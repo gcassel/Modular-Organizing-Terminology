@@ -18,4 +18,4 @@ As increasingly [complex](https://github.com/gcassel/Modular-Organization-Termin
 
 #### Related Terms
 
-*[virtual assistant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/virtual-assistant.md)*
+*[virtual assistant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/virtual-assistant.md)*
