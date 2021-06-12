@@ -8,4 +8,4 @@ Indices are [especially](https://github.com/gcassel/Modular-Organization-Termino
 		
 Indices are usually in *alphabetical [sequence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md)*.   However, they can [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) be written, [sorted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sort.md) or [filtered](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/filter.md) according to any [relevant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md) [variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md).
 		
-**See Also:**  *[table of contents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/table-of-contents.md)*
+**See Also:**  *[table of contents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/table-of-contents.md)*
