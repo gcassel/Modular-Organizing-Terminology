@@ -4,7 +4,7 @@
 
 #### Notes
 
-A substructure *may or may not* be [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) by the [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) which governs the hierarchical form.  (Humans are barely beginning to learn how to [justly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/just.md) [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) ungoverned hierarchical [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)).
+A substructure *may or may not* be [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) by the [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) which governs the hierarchical form.  Both governedd and ungoverned hierarchial [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) are common in the early 21st century.  Humans are barely beginning to learn how to [justly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/just.md) [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) ungoverned hierarchical relationships.
 
 #### Synonym
 
