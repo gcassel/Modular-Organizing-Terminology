@@ -4,4 +4,4 @@ Parallel is a *[relational trait](https://github.com/gcassel/Modular-Organizatio
 
 #### See Also
 
-*[parallel process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/parallel-process.md)*
+*[parallel process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/parallel-process.md)*
