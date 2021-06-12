@@ -1,6 +1,6 @@
 #### Definition
 
-A *predicate* is a *[relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/relational-trait.md)* within a [description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md).
+A *predicate* is a *[relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md)* within a [description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md).
 
 **Notes**
 
