@@ -4,4 +4,4 @@
 		
 #### See Also
 
-*[compound description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/compound-description.md)*
+*[compound description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compound-description.md)*
