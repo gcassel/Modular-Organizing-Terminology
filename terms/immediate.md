@@ -1,6 +1,6 @@
 #### Definition
 
-*Immediate* is a [relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/relational-trait.md) of [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) in which *two or more [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)* occur at *nearly the same [point](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md) in [time](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/time.md)*.
+*Immediate* is a *[relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md)* of [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) in which *two or more [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)* occur at *nearly the same [point](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md) in [time](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/time.md)*.
 
 #### Notes
 		
