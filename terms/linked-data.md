@@ -9,7 +9,7 @@ While the term *linked data* could [refer](https://github.com/gcassel/Modular-Or
 
 #### See Also
 
-*[metadata](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/metadata.md)*
+*[metadata](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/metadata.md)*
 
 
 
