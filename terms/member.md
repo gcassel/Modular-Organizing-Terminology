@@ -4,4 +4,4 @@ A member is an *[instance](https://github.com/gcassel/Modular-Organization-Termi
 
 #### [Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) Definition
 
-*[member agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/member-agent.md)* 
+*[member agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/member-agent.md)* 
