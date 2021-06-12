@@ -25,8 +25,5 @@ A *[peer](https://github.com/gcassel/Modular-Organization-Terminology/blob/maste
 
 #### See Also 
 
-*[module](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/module.md)*
+*[module](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/module.md)*, *[substructure](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/substructure.md)*
 
-#### Related Terms
-
-*substructure, infrastructure subgroup, subtopic, subgoal, supporting form* (and more)
