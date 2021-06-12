@@ -4,4 +4,4 @@
 
 #### Notes
 
-*Decision [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/compound-terms/process.md)* for elections varies widely.
+*Decision [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)* for elections varies widely.
