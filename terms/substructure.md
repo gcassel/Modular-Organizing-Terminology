@@ -4,7 +4,7 @@
 
 #### Notes
 
-A substructure *may or may not* be [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) by the [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) which governs its parent structure.  
+A substructure *may or may not* be [governed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) by the [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) which governs its parent structure.  This is a subject in which mental and social organization is much more akin to ecological organization than biological organization; a cell or organ is always governed by a specific organism, but the organisms in an ecosystem are rarely governed by each other.
 
 #### Synonym
 
