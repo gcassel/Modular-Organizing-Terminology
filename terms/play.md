@@ -4,4 +4,4 @@
 
 #### Notes
 
-Activity is perceived as *play* when it doesn't feel truly and deeply risky, because the playful actions are either minor or easily redirected or abandoned.  (Examples will be very helpful here.)
+Activity is perceived as *play* when it doesn't feel truly and deeply risky, because the playful actions are either minor or easily redirected or abandoned.  (Examples would be very helpful here.)
