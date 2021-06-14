@@ -6,3 +6,6 @@ Specific is a [trait](https://github.com/gcassel/Modular-Organization-Terminolog
 
 [Types](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/type.md), [instances](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/instance.md) and [units](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/unit.md) can all be specific *or* [generic](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/generic.md). 
 
+#### Synonym(s)
+
+*special*
