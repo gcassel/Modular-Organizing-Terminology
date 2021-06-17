@@ -4,7 +4,7 @@
 
 #### Notes
 
-*Obscurement* may or may *not* be [intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md).
+*Obscurement* can be [intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) or unintentional.
 		
 #### Synonyms
 
