@@ -6,7 +6,7 @@ Creativity occurs through both [emergence](https://github.com/gcassel/Modular-Or
 
 #### Synonyms
 
-*make*
+*make*, *generate*
 
 #### Related Terms
 
