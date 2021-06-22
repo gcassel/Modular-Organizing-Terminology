@@ -4,6 +4,8 @@
 
 *An act*, or *action*, is *a specific change in an element* during a specific period.
 
+*Active* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of an element which *can [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) act* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
 #### Notes 
 
 Actions can be [classified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/class.md) by these [primary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md): 
