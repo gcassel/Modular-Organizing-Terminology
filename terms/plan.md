@@ -12,4 +12,4 @@ Plans may (or may not) be [flexibly](https://github.com/gcassel/Modular-Organiza
 
 #### See Also 
 
-*[decide](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decide.md)*, *[commit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/commit.md)*
+*[decide](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decide.md)*, *[commit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/commit.md)*, *[recipe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recipe.md)*
