@@ -1,6 +1,6 @@
 #### Definition
 
-*To program* is to *[customize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) a [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)* to *[automatically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/automate.md) [perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)* according to one or more [rules](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md).
+*To program* is to *[design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) a [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)* to *[automatically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/automate.md) [perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)* according to one or more [rules](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md).
 
 **Specialized Meaning** 
 
