@@ -6,5 +6,7 @@ FYI (or "for your information") is a [trait](https://github.com/gcassel/Modular-
 
 An FYI doesn't necessarily make any [request(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/request.md) of agents who receive the signal.
 
+FYI can be used as a noun as well as an adjective.
+
 #### See Also 
 *[RFC](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/RFC.md)*  
