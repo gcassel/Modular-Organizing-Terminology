@@ -1,3 +1,7 @@
+#### Definition
+
+*To filter* is *to [modify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/modify.md) a [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) or [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md)* by *adding, subtracting, increasing or decreasing any of its [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) or [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)*.
+
 *To filter* is to *[define](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) a [subset](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subset.md)* of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) according to the *presence or absence* of one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md).
 
 *Filters* [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) *semi-permeable [limits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md)*.  
