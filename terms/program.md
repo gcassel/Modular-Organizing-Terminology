@@ -10,5 +10,7 @@
 
 [Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) sometimes use the term *program* to represent a [recipe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recipe.md) which they [intend](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) to automatically perform, regardless of whether or not they [strictly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) [govern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) any [versions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/version.md) of that recipe.
 
+Programs include all [services](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/serve.md).
+
 Some [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md), including [computers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/computer.md), can be [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) to automatically perform specific programs.
  
