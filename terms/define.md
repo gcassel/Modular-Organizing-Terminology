@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
 To define is *to [describe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) [necessary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) and [sufficient](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/suffice.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [limits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md)* for the *[potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)* of an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+*A definition* is *a description of necessary and sufficient functional limits for the potential traits of an element in a specific context*.
 
 #### Notes
 
