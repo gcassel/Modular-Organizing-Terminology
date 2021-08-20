@@ -6,7 +6,7 @@
 
 #### Notes
 
-A collective or [community](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/community.md) steward may be [identified](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/identify.md) and [perceived](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perceive.md) as a *[primary](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) governor of the community*.  This is often a [role](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/role.md) in a *[team](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/team.md) of [peers](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/peer.md)* such as a Board of Trustees.
+A collective's stewards may be [identified](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/identify.md) and [perceived](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perceive.md) as the *[primary](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) [governors](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) of the community*.  This is often a [role](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/role.md) in a *[team](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/team.md) of [peers](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/peer.md)* such as a Board of Trustees.
 
 #### Related Terms
 
