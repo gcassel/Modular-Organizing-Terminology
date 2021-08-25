@@ -7,6 +7,6 @@ Generic (or general) is a [trait](https://github.com/gcassel/Modular-Organizatio
 *Generic* often [implies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) that an element may vary in extremely [flexible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md) ways.
 
 #### See Also
-*[module](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/module.md)*: Modules are generically [specified](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specify.md).
+*[module](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/module.md)*: Modules are generically [specified](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specification.md).
 
 *[Specialize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md)* is a contrasting and complementary term.
