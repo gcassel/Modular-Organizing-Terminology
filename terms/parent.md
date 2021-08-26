@@ -1,6 +1,6 @@
 #### Definition
 
-*Parent* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of any [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *has [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) another [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.  
+*Parent* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of any [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *has [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) or co-created another [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.  
 
 #### Notes
 
