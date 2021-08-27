@@ -6,7 +6,7 @@
 
 #### Notes
 
-*Products* include [goods](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/good.md), [services](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/serve.md), [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) activities, and *[intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [collections](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collect.md) thereof*.
+*Products* include [goods](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/good.md), [services](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/serve.md), [managed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/manage.md) [events](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/event.md), and *[intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [collections](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collect.md) thereof*.
 
 #### Related Terms
 
