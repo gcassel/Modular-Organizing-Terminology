@@ -6,7 +6,7 @@ A *hyperlink* is a *[specialized](https://github.com/gcassel/Modular-Organizatio
 		
 #### Notes
 
-**Hyperlinks create *[contextually](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) [relevant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md)* but *[semantically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/semantic.md) empty* (meaningless) unidirectional links.  
+**Hyperlinks create *[contextually](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) [relevant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md)* but *[semantically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/semantic.md) empty* (meaningless) unidirectional links.**  
 
 A hyperlink is a [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [interface](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interface.md).
 		
