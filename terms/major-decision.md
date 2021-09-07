@@ -2,7 +2,7 @@
 
 A *Major Decision* is a decision which has a *gross collective cost* which exceeds the *greater* of the following numbers:  
 
-1. The Standard Decision Threshold defined by a clearly relevant Accountability.
+1. The Standard Decision Threshold defined by a clearly relevant [post](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/post.md).
 2. The Standard Decision Threshold for a clearly relevant [Project](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md) which you're a [Member](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/member.md) of.
 3. The General Standard Decision Threshold as defined by the collective Stewards for unspecified expenditures.
 
