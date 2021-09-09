@@ -1,9 +1,11 @@
 #### Definition
 
-*A component* is *a [node](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/node.md) which
+*A component* is *an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which
 [performs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) in a [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.
 
 #### Notes
+
+Components are often [nodes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/node.md); however, [paths](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/path.md) can often be [sufficiently](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sufficient.md) [defined](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) to function as (and, therefore, *be*) components.
 
 A component may be the sole [provider](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) of a function in a system, or may be a *[unit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unit.md) in a [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md)* of components which each perform the same function(s).
 
