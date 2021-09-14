@@ -1,6 +1,8 @@
 #### Definitions
 
-*A compound* is a *[group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) of seperately [identifiable](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/identify.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *[creates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) an [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*. 
+*To compound* is to *[group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) separately [identifiable](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/identify.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) an [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*. 
+
+*A compound* is *a group of separately identifiable elements which creates an emergent functional form.*
 
 *A composite* is a compound which consists of relatively large and separately identifiable [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md).
 
