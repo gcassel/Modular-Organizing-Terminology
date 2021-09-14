@@ -1,3 +1,1 @@
-*Competence* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [participants](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participate.md) who *meet all of the [requirements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [role](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md)*.
-
-**See Also:** *[valid](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md)*, *[qualification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/qualification.md)*
+#### *see [fit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/fit.md)*
