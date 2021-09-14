@@ -6,4 +6,4 @@
 
 #### Related Terms
 
-*[modularity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/module.md)* is a [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of composability.
+*[Modularity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/module.md)* is a [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of composability.
