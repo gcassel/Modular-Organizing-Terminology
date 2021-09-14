@@ -4,4 +4,6 @@
 
 #### Notes
 
-Many [types](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/type.md) of corporations have been [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by [regional](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/region.md) [governments](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md). 
+Many [types](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/type.md) of corporations have been [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by [regional](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/region.md) [governments](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md).
+
+Corporations have often been defined to have [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agency.md) as if they were [persons](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/person.md).
