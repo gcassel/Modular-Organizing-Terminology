@@ -1,7 +1,1 @@
-#### Definitions
-
-*Rough consensus* is a *[consent-oriented](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/consent-oriented.md) [decision](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/decide.md) [process](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/process.md)* which *[requires](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/require.md) [consent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/consent.md) among all [active](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/active.md) [participants](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/participate.md)* during a *[specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) decision-making [period](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/period.md)*.
-
-#### Notes
-
-Rough consensus processes can happen quickly without seeking [inputs](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/input.md) from participants who aren't willing or able to participate during specific periods of time.  They often seek to ensure consent simply by providing one or more [channels](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/channel.md) for participants to object to or block proposals or intended actions.
+#### *see [consent-oriented](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/consent-oriented.md)*
