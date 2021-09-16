@@ -1,8 +1,6 @@
 #### Definitions
 
-*To recommend* is *to [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) that a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) is [desired](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)* within a specific [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
-
-*A recommendation* is a specific element which is desired within a specific form.
+*To recommend* is *to [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) that a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* is, or would be, [preferred](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/prefer.md).
 
 #### Notes
 
