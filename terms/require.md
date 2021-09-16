@@ -8,7 +8,7 @@
 
 Requirements are often especially [associated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/associate.md) with [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md).
 
-Requirements for [participant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participant.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) in [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) contexts are often *mutually dependent* with [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md) and/or [responsibilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/responsibility.md).
+Requirements for [participant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participate.md) in [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) contexts are often *mutually dependent* with [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [rights](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md) and/or [responsibilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/responsibility.md).
 
 #### Synonyms
 
