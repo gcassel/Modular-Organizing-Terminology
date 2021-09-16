@@ -4,4 +4,4 @@ Consensus is [official](https://github.com/gcassel/Modular-Organization-Terminol
  
 #### Notes
 
-Consensus does not [indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) or [imply](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) *unanimous [approval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/approve.md)*.
+Consensus does not [indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) or [imply](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) *unanimous [preference](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/prefer.md) or [approval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/approve.md)*.
