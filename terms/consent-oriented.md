@@ -6,9 +6,7 @@
 
 Consent-oriented activities can often occur more rapidly than [consent-based](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/consent-based.md) activities, but with greater [risk](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md) of [coercive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coercive.md) [influences](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/influence.md).
 
-#### Subtype(s)
-
-*rough consensus*
+Consent-oriented processes sometimes happen quickly without seeking inputs from participants who aren't willing or able to participate during specific periods of time. They often seek to ensure consent simply by providing one or more channels for participants to (eventually) object to or block proposals or intended actions.
 
 #### See Also
 
