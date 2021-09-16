@@ -6,4 +6,4 @@
 
 #### Notes
 
-*Permission* doesn't [necessarily](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) [imply](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) *[intention](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md)* or *[recommendation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md)*.
+*Permission* doesn't [indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) or [imply](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) [preference](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/prefer.md).
