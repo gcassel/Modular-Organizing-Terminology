@@ -1,6 +1,6 @@
 #### Definition
 
-*Authority* is the *[right](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/right.md) to [perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* in a specific [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).  
+*Authority* is the *[permission](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/permit.md) to [perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* in a specific [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).  
 
 #### Notes
 
