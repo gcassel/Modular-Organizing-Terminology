@@ -1,10 +1,10 @@
-#### Definition
+#### Definitions
 
 *To recommend* is *to [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) that a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) is [desired](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)* within a specific [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).
 
-#### Notes
+*A recommendation* is a specific element which is desired within a specific form.
 
-Recommendations contrast with [requirements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md).
+#### Notes
 
 Agents may create recommendations to *[support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) [creative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [production](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/produce.md)* or to *[govern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/governance.md) [conceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) [risks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md)*.  
 
