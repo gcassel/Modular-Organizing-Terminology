@@ -1,6 +1,6 @@
 #### Definition
 
-*An option* is a *[potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [decision](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decide.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*An option* is *a [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) which can be [selected](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/select.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [decision](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decide.md)*.
 
 #### Notes
 
