@@ -4,7 +4,7 @@
 
 #### Notes
 
-Consent does not [indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) [preference](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/prefer.md).
+Consent does not [indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) or [imply](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) [preference](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/prefer.md).
 
 Consensual [interaction](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) does not [coerce](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coerce.md) any [participating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participate.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) *to [perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) or not perform any specific actions*, nor to relinquish any [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) [agreements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agreement.md).
  
