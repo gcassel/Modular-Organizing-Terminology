@@ -8,7 +8,7 @@ Consent-oriented activity [requires](https://github.com/gcassel/Modular-Organizi
 
 #### Subtype(s)
 
-*rough consensus 
+*rough consensus*
 
 #### See Also
 
