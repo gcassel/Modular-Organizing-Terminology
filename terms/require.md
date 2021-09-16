@@ -1,8 +1,6 @@
-Definitions
+#### Definitions
 
-*To require* is *to need*.  
-
-More [precisely](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md), *to require* is *to need the presence of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* to *[sustainably](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sustain.md) [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a specific [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
+*To require* is *to need the presence of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* to *[sustainably](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sustain.md) [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a specific [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
 
 *A requirement* is an element which *must be [actively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) present* in a form-- [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) including [roles](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md) or [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)-- in a specific [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).  
 
