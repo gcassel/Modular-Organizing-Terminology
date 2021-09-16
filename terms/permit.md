@@ -1,8 +1,8 @@
 #### Definitions
 
-*To permit* is *to [provide](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) [consent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/consent.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To permit* is *to [provide](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) [consent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/consent.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
-*Permission* is consent in a specific context.
+*Permission* is consent in a specific social context.
 
 #### Notes
 
