@@ -1,7 +1,6 @@
 #### Definition
 
-*To add* is *to [transport](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) into a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
-
+*To add* is *to [transport](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) into a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*, or to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) that element there.
 #### Specialized Meaning
 
 *enter*:  *Enter* often refers to [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) by
