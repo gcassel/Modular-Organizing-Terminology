@@ -6,6 +6,8 @@
 
 The goal which defines a specific project is its [mission](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/mission.md).
 
-**Projects are often [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by the intention to *[create](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/create.md) a specific [product](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/produce.md)***.
+Projects are often [defined](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) by the intention to *[create](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/create.md) a specific [product](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/produce.md)*.
+
+Projects are organized and developed by formally grouping the mission-supporting activities which the Project's [stewards](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/steward.m) support.  
 
 A project is an intentional groupings of activities by at least one agent, but not all supporters of "the project" [necessarily](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/require.md) support the addition of activities to that grouping.  (This is a common source of mis[understanding](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/understand.md), [confusion](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/confuse.md), [stress](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/stress.md) and [conflict](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/conflict.md).)
