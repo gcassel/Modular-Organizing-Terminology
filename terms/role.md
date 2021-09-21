@@ -4,7 +4,7 @@ A role is a *[functional](https://github.com/gcassel/Modular-Organization-Termin
 
 #### Notes
 
-Agents often [serve](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/serve.md) roles in [projects](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md) and [collectives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md). 
+Agents often [serve](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/serve.md) roles in [projects](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md) and [collectives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md).  (Projects and collectives are resources.)
 
 Each role has one or more *[accountabilities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/accountability.md) and [authorizations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authorize.md)*, although they often remain un[defined](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md).  Many roles also are [exclusively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exclude.md) [assigned](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md), and have prerequisite [requirements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md).
 
