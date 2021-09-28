@@ -10,4 +10,4 @@ A status may often describe [qualitative variables](https://github.com/gcassel/M
 
 #### Synonym(s)
 
-*condition*, *conditions*
+*condition*, *conditions*, *situation*
