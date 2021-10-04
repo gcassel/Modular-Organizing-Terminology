@@ -1,6 +1,6 @@
 **Definition:**
 
-*A ledger* is *a [list](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/list.md) of [actions](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/action.md)* which *have been [reported](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/report.md) by one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/agent.md)*.
+*A ledger* is *a [list](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/list.md) of [actions](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/act.md)* which *have been [reported](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/report.md) by one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/agent.md)*.
 
 **Notes:**
 
