@@ -14,7 +14,7 @@ A project is a system, but the relationships of [components](https://github.com/
 
 Projects often require significant research and development.  Each project has a defining mission, but that mission can (with due permission) be changed, and can lead to unexpected results.  
 
-Many projects are [collectives](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md) which are often defined by constitutional [policies](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/policy.md), and support many other policies.  (A policy is a system of guidelines and/or rules which is supported by one or more agents in a specific social context.  A policy can contain principles and protocols.  For example, a project may exist solely to support the use, development or support of one protocol; the possibilities are practically endless.)
+Many projects are [collectives](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md) which are often defined by constitutional [policies](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/policy.md), and support many other policies.
 
 A subproject is a project which is [governed](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) by another project.
 
