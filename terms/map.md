@@ -1,6 +1,8 @@
 #### Definition
 
-*To map* is *to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) the [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) [distribution](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distribute.md) of one or more [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) [variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md)*.
+*To map* is *to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) the [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) [distribution](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distribute.md) of one or more [variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md)*.
+
+*A map* is a model which represents the current perceived distribution of one or more of the model's variables.
 
 #### Notes
 
