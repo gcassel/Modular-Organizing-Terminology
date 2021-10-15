@@ -2,7 +2,7 @@
 
 *To report* is *to [describe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) past [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md), [experiences](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/experience.md) or [research](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/research.md) to another [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.
 
-Reports are descriptions of past actions, experiences or research which agents have [submitted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/submit.md) to other agents.
+Reports are descriptions of past actions, experiences or research which agents [submit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/submit.md) to other agents.
 
 #### Notes
 
