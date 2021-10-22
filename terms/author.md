@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
 *To author* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
+
+*An author* is the creator or a co-creator of a specific information resource.
 		
 #### Notes
 
