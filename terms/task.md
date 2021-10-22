@@ -4,7 +4,7 @@
 
 #### Notes
  
- Plans *[assign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) [responsibility](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/responsibility.md) for tasks to specific agents*.
+ [Official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) *[plans](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md)* often *[assign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) [responsibility](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/responsibility.md) for tasks to specific agents*.
 
 [Depending](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) on context, agents may potentially [complete](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complete.md) an assigned task by [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [performing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) the tasks, by [delegating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/delegate.md) them, or by otherwise satisfactorily [supporting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) the completion of the task.
 
