@@ -4,7 +4,7 @@
 
 *A direction* is *required information for the [performance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) of a specific action.* 
 
-*Direct* is a [relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md) of all [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) which *do not [require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) intermediate action(s)*.
+*Direct* is a [relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md) of all [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) which *are not [mediated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) by any [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md), nor by [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) with un[predictable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)*.
 		
 #### Notes
 
