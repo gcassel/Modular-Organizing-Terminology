@@ -2,7 +2,7 @@
 
 A *level of organizing* is *the [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of all [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which occupy a level in a [hierarchical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.  
 
-Each level of organizing (1) gives one or more [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) to a higher level.
+Each level of organizing gives one or more [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) to a higher level.
 
 #### Notes
 
