@@ -1,8 +1,8 @@
 #### Definition
 
-*Level of organizing* is a *[location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md)* which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) the *[ordinal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/order.md) [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md)* of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) within a *[hierarchical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.  
+A *level of organizing* is *the [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of all [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which occupy a level in a [hierarchical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.  
 
-Each level of organizing (1) gives one or more [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) or [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emerge.md) [trait] to a higher level, and/or (2) receives one or more designed or emergent traits from a lower level.
+Each level of organizing (1) gives one or more [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) to a higher level.
 
 #### Notes
 
