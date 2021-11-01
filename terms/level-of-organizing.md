@@ -5,7 +5,7 @@ A *level of organizing* is *the [set](https://github.com/gcassel/Modular-Organiz
 #### Notes
 Each level of organizing gives one or more [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) to any higher levels which are [based](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) on it.
 
-**At least two levels of organizing are [present](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/presence.md) in all [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).**
+At least two levels of organizing are [present](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/presence.md) in all [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).
 
 Levels of organizing often include, define or describe [sequence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md); however, levels of organizing are about [creative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) origination and (when applicable) governance, not sequence per se.
 		
