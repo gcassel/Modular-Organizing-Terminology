@@ -1,6 +1,6 @@
 #### Definition
 
-*A goal* is *[action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) which is [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) by one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md), [sustain](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sustain.md) or [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.  
+*A goal* is *an [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md)* in which one or more [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) has been *[created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md), [sustained](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sustain.md) or [changed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md)*.  
  
 #### Notes  
 
