@@ -1,6 +1,6 @@
 #### Definition
 
-*A goal* is *an [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md)* in which one or more [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) has been *[created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md), [sustained](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sustain.md) or [modified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/modify.md)*.  
+*A goal* is *an [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md)*.
  
 #### Notes  
 
