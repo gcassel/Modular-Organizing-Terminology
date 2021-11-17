@@ -1,6 +1,6 @@
 #### Definitions
 
-*To practice* is *to [perform](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md)* a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md).
+*To practice* is *to [intentionally](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/intend.md) [perform](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md)* a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md).
 
 *A practice* is *a specific activity which is intentionally and repeatedly performed*.
 
