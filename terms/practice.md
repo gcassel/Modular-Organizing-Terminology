@@ -2,6 +2,8 @@
 
 *To practice* is *to [perform](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md)* a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md).
 
+*A practice* is *a specific activity which is intentionally and repeatedly performed*.
+
 *Practical* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of *activities* which *can be [beneficially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/benefit.md) practiced*.
 
 #### Specialized Definitions
