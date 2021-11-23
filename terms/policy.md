@@ -8,4 +8,4 @@ Individuals can have policies; however, most [official](https://github.com/gcass
 
 #### Related Terms
 
-A policy can contain [principles](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/principle.md) and  [protocols](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/protocol.md). 
+Each guideline or rule in a policy can contain [principles](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/principle.md) and  [practices](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/practice.md). 
