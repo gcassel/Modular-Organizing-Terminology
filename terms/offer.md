@@ -1,6 +1,6 @@
 #### Definitions
 
-*To offer* is *to [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [identify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) an [opportunity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/opportunity.md)* to *[access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
+*To offer* is *to [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [share](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/share.md) an [opportunity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/opportunity.md)* to *[access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
 
 #### Notes
 
