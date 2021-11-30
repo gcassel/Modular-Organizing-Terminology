@@ -1,6 +1,6 @@
 #### Definition
 
-An output is an [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which (1) *is [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) or co-created by a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) or [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*, and (2) *can be [accessed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) independently of that process or system.*
+An output is an [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which (1) *is [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) or co-created by a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*, and (2) *can be [accessed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) independently of that process.*
 
 #### Notes
 
