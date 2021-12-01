@@ -1,8 +1,8 @@
 #### Definition
 
-*To map* is *to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) the [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) [distribution](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distribute.md) of one or more [variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md)*.
+*To map* is *to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) the [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) [distribution](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distribute.md) of one or more [variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md)* during a specific [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md).
 
-*A map* is a model which represents the perceived distribution and/or [status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md) of one or more variable [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md).
+*A map* is a model which represents the perceived distribution and/or [status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md) of one or more variable [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) during a specific period.
 
 #### Notes
 
