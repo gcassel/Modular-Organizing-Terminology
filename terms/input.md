@@ -1,6 +1,6 @@
 #### Definition
 
-An input is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *is [acted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) upon to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) some or all of one or more [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md).  
+An input is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *another element [acts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) upon to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) some or all of one or more [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md).  
 
 #### Notes
 
