@@ -1,7 +1,7 @@
 #### Definition
 
 *A component* is *any [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which
-is an [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) part of a [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.
+is a [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) part of a [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.
 
 #### Notes
 
