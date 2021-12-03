@@ -1,6 +1,6 @@
 #### Definition
 
-An input is a [component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) which *must be added to start or [sustain](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sustain.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.  
+An input is any [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) which *[interacts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md) during a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.  
 #### Notes
 
 Inputs are [fundamentally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [relevant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md) to the [development](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) of all processes and [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).
