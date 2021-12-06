@@ -8,4 +8,4 @@ Opportunity is the [potential](https://github.com/gcassel/Modular-Organization-T
 
 #### See Also
 
-*[ability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/ability.md), [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md), [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agency.md), [autonomy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/autonomy.md), [capacity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/capacity.md)*
+*[ability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/ability.md), [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md), [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md), [autonomy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/autonomy.md), [capacity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/capacity.md)*
