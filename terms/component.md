@@ -1,7 +1,9 @@
 #### Definition
 
-*A component* is *any [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which
-is a [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persistent.md) part of a [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.
+*A component* is *any [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) or [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* which *has both of the following [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)*:
+
+1. is a [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persistent.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) (part) of a [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)
+2. *can be [added](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/add.md) to or [removed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/remove.md) from that system*.
 
 #### Notes
 
