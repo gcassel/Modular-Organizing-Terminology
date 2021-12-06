@@ -1,0 +1,3 @@
+#### Definition
+
+*Sequential elements* are [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md), [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) or [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) which occupy different [steps](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/step.md) within the same [sequential process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequential-process.md).
