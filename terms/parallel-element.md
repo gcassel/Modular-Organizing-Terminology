@@ -1,0 +1,7 @@
+#### Definition
+
+Parallel elements are [components](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/component.md), [traits](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/trait.md) or [processes](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/process.md) which *can [function](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/function.md) in an [arbitrary](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/arbitrary.md) [order](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/order.md)* within a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md).
+
+#### Notes
+
+Parallel elements function either (1) at all times in a [system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md), (2) at all times in one of its [levels of organizing](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/level-of-organizing.md), or (3) during a specific [step](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/step.md) in a [sequential process](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/sequential-process.md), which might occupy the whole system *or* one of its hierarchical levels *or* the whole system.
