@@ -7,7 +7,7 @@
 
 #### Notes
 
-Components are technically [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) in systemic [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md), but unlike *non-persistent* inputs, have one of the two following traits:
+Components are technically [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) in systemic [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md), but unlike *non-persistent* inputs, components have one of the following traits:
 
 1. are apparently unaffected by the process, as with chemical catalysts
 2. experience minor and predictable change, and can be reliably repaired or replaced by a related system  
