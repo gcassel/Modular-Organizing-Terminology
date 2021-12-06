@@ -1,6 +1,6 @@
 #### Definition
 
-An element is a *[component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) or [conceptual](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)* of a *[form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+An element is a *[component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) or [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)* of a *[form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
