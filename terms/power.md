@@ -2,4 +2,4 @@
 		
 **Notes:** In [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) contexts, [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) power is sometimes *[limited](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md)* by *[coercive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coercive.md) [authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md)*.
 		
-**See Also:** *[agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agency.md)*
+**See Also:** *[agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*
