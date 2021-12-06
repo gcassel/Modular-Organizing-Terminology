@@ -1,6 +1,6 @@
 #### Definition
 
-A hierarchy is a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which *contains* one or more levels of [substructure](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/substructure.md).
+A hierarchy is a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which *contains two or more [levels of organizing](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/level-of-organizing.md)*.
 
 #### Notes
 
