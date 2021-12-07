@@ -1,6 +1,6 @@
 #### Definitions
 
-*To process* is *to [transform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transform.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
+*To process* is *to [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) into [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)*.
 
 *A process* is *an [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which (1) [uses](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) one or more [identifiable](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/identify.md) [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md)* and *(2) [produces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/produce.md) one or more specific [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)*.  
 
