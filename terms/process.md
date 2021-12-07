@@ -6,7 +6,7 @@
 
 #### Related Terms
 
-*[system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md)*: All systems [support](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/support.md) processes, but not all processes *[represent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/represent.md) systems* or *[serve](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/serve.md) systems*.
+*[system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md)*: All systems [perform](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) processes, but not all processes *[represent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/represent.md) systems* or *[serve](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/serve.md) systems*.
 
 #### Notes
 
