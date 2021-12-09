@@ -1,8 +1,8 @@
 #### Definition
 
-*To model* is *to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) and/or [predicted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) [forces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) and/or [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
+*To model* is *to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) or [predicted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) [forces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) and [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
 
-*A model* is *a representation of perceived and/or predicted forces and forms.*  
+*A model* is *a representation of perceived or predicted forces and forms.*  
 
 #### Notes
 
