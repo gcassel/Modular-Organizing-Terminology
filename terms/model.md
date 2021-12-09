@@ -2,7 +2,7 @@
 
 *To model* is *to [describe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) and [relate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [representational](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/represent.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
-*A model* is *a representation of [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) or [theorized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/theorize.md) elements and relationships.*  
+*A model* is *a representation of [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) or [predicted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) elements and relationships.*  
 
 #### Notes
 
