@@ -8,7 +8,9 @@
 
 Models often [include](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/include.md) [constant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/constant.md) *and* [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) elements.
 
-Models often [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) *or* [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) forms.
+Models can represent all [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) and [mental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mental.md) relationships.  They can represent past, present and future, and they can represent [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emerge.md) (“natural”) or [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) (artificial) relationships, including [imaginative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imagine.md) fiction.
+
+A model is a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which is [valued](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md) for representing other resources and, sometimes, [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
 
 #### Generic Example
 
