@@ -6,7 +6,7 @@
 
 #### Specialized Definition
 
-In [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md), *a factor* is often a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [member](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/member.md) of a [parallel process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/parallel-process.md)*.
+In [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md), *a factor* is often a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [member](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/member.md) of [parallel](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/parallel.md) [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.
 
 #### Related Terms
 
