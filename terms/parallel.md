@@ -1,7 +1,3 @@
 #### Definition
 
 Parallel is a *[relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md)* indicating that two or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) have a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [constant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/constant.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
-
-#### See Also
-
-*[parallel process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/parallel-process.md)*
