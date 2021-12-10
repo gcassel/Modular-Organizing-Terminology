@@ -8,6 +8,6 @@
 	
 **Notes:**  
 
-***Prioritize* usually implies a context which includes one or more *[sequential processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequential-process.md).***
+***Prioritize* usually implies a context which includes one or more *[sequential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md) [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md).***
 
 *Effective* prioritization often [requires](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) the [identification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) of an *extremely [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) context*.
