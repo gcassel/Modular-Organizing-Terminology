@@ -1,6 +1,6 @@
 #### Definition
 
-*A step* is *a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) which occupies a [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md) within a [sequential process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequential-process.md)*.
+*A step* is *a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) which occupies a [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md) within a [sequential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)*.
 
 #### Related Terms
 
