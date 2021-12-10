@@ -13,5 +13,3 @@ Some [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/m
 #### See Also
 
 * *[list](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/list.md)*: *Lists* often [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) sequences.
-* *[sequential process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequential-process.md)*
-
