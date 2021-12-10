@@ -1,6 +1,6 @@
 #### Definition
 
-*To complicate* is to make a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) *more [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md)*-- and more *[potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) confusing*-- by *[developing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) one or more [sequential processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequential-process.md) within it*.
+*To complicate* is to make a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) *more [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md)*-- and more *[potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) confusing*-- by *[developing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) one or more [sequential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md) [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) within it*.
 
 #### Notes
 
