@@ -1,6 +1,6 @@
 #### Definition
 
-*A good* is *a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which is [offered](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/offer.md) for [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [transfer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transfer.md)*.
+*A good* is *a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which can be [offered](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/offer.md) for [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [transfer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transfer.md)*.
 
 #### Notes
 
