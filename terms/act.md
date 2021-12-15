@@ -2,7 +2,7 @@
 
 *To act* is *to [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* during a specific [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md).
 
-*An act*, or *action*, is *a specific change in an element* during a specific period.
+*An action* is an act or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which causes *a specific change in an element* during a specific period.
 
 *Active* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of an element which *can [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) act* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
