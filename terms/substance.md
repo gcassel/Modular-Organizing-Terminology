@@ -1,6 +1,6 @@
 #### Definition
 
-A substance is a [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) which is *very predictable and stable* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A substance is a [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) which is *very [predictable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) and [stable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/stabilize.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
