@@ -1,6 +1,8 @@
 #### Definitions
 
-*To base* is *to [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* by *[relating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) it to another [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) element*.
+*To base* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) or [define](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* by *[relating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) it to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) element*.
+
+*A base* is *an element which another element has been created from or defined by.*
 		
 *Basic*, or *primary*, is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) which [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) that an element *[provides](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) a [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) [input](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md)* for a *specific [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.
 		
