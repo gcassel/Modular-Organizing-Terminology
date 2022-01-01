@@ -1,6 +1,6 @@
 #### Definition
 
-A *level of design* is *a [hierarchical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) level which [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as a base or extension of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md)*.
+A *level of design* is *a [hierarchical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) level which [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as a [base](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) or [extension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [model](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md)*.
 
 #### Notes
 
