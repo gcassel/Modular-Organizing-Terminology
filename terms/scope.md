@@ -20,4 +20,4 @@ Mathematically precise scope, when possible, is the *ratio* of an interval to it
 
 #### Related Terms
 
-*[level of detail](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-detail.md)*, *[level of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-organizing.md)* 
+*[hierarchy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md)*
