@@ -4,4 +4,4 @@
 
 #### Notes 
 
-See also *[robust](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/robust.md)*.  A specific element may be robust *and* resilient in varied contexts, including different *[levels of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-organization.md)* within a [basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) context.
+See also *[robust](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/robust.md)*.  A specific element may be robust *and* resilient in varied contexts, including different *[hierarchical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) [levels](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level.md)* within a [basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) context.
