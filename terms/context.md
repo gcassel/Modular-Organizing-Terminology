@@ -12,7 +12,7 @@ Contexts can be verbally and/or visually [described](https://github.com/gcassel/
 
 #### See Also
 
-*[scale](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scale.md), [scope](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scope.md), [level of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-organizing.md)*, *[level of detail](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-detail.md)*
+*[scale](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scale.md), [scope](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scope.md), [hierarchy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md)*
 
 #### Synonym
 
