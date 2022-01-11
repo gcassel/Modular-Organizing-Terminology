@@ -8,7 +8,7 @@ Level of detail often [especially](https://github.com/gcassel/Modular-Organizati
 		
 The dimensional variability of level of detail is often described [simply](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/simplicity.md) and [generically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) with a few [relational traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md) such as *lower* and *higher*.
 		
-Models which describe *higher [levels of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-organizing.md)* often describe their lower levels of organization with a lower level of detail.  However, it's possible to use a high level of detail in extremely complex models (at some risk of reduced [clarity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/clarify.md)).
+Models which describe *higher [hierarchical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) [levels](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level.md)* often describe their lower levels of organization with a lower level of detail.  However, it's possible to use a high level of detail in extremely complex models (at some risk of reduced [clarity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/clarify.md)).
 		
 #### See Also
 
