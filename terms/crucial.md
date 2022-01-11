@@ -4,6 +4,6 @@
 
 #### See Also
 
-*[base](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md)*, *[level of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-organizing.md)*
+*[base](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md)*
 
-Crucial elements often (but not always) [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) on lower or basic levels of organizing.
+Crucial elements often (but not always) [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) on lower or basic [hierarchical](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/hierarchy.md) [levels](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/level.md).
