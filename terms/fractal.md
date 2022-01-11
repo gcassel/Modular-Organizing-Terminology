@@ -1,6 +1,6 @@
 #### Definition
 
-*Fractal* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which *contain [patterns](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/pattern.md) which recur at multiple [scales](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scale.md) and/or [levels of organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-organizing.md).* 
+*Fractal* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which *contain [patterns](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/pattern.md) which recur at multiple [scales](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scale.md) and/or [hierarchical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) [levels](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level.md).* 
 
 #### Specialized Definition
 
