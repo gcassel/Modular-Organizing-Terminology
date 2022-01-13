@@ -4,4 +4,4 @@
 
 #### Notes
 
-Each cell in a table corresponds to exactly one row and one column.  (In ledgers and spreadsheets, each row is a *record*, which can be a recording or a report.) 
+Each cell in a table corresponds to exactly one row and one column.  (In ledgers and spreadsheets, each row is a *record*, which can be a [recording](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/record.md) or a [report](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/report.md).) 
