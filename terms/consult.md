@@ -1,6 +1,6 @@
 **Definition**
 
-*To consult* is to *[request](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/request.md) [decision](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/decide.md)-making [advice](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/advise.md) without [delegating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/delegate.md) or [transferring](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transfer.md) [authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md)*.
+*To consult* is to *[request](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/request.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [advice](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/advise.md) without [delegating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/delegate.md) or [transferring](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transfer.md) [authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md)*.
 
 **Notes**  
 
