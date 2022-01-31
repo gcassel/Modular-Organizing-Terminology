@@ -1,0 +1,7 @@
+#### Definition
+
+A *subject resource* is an *externally-[linked](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/link.md) [resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md) which is the [official](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) [subject](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/subject.md) of a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [governance resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/governance-resource.md)*.
+
+#### Notes
+
+Subject resources can be (but needn't be) defined by [strict](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/strict.md) [formatting](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/format.md) [rules](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/rule.md).  They are typically [governed](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) by the same [stewards](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/steward.md) (or a subgroup thereof) as the governance resources which use them as subjects; however, they can also be autonomously developed and stewarded resources, depending on many variables.  
