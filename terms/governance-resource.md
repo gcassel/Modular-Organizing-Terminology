@@ -1,0 +1,7 @@
+#### Definition
+
+A *governance resource* is a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) which *[directly](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/direct.md) [supports](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/support.md) the [governance](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) of one or more [resources](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md)*.
+
+#### Notes  
+
+Governance resources are widely [developed](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md) and used in varied [formats](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/format.md), often by large [bureaucracies](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/bureaucracy.md) which are controlled by small groups of people. They can also be developed [modularly](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/modular.md) by [p2p](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/p2p.md) teams in [distributive](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/distribute.md) [networks](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/network.md).
