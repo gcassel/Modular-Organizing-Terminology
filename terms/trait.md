@@ -1,6 +1,6 @@
 #### Definition
 
-A trait is a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [behavior](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/behavior.md) which an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) will [exhibit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exhibit.md)* in one or more [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A trait is a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [behavior](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/behave.md) which an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) will [exhibit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exhibit.md)* in one or more [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
