@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
-*To average* is *to reduce a [quantitative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/quantity.md) [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md)* to an *[element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) that set*.
+*To average* is *to reduce a [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [quantitative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/quantity.md) [data](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md)* to an *[element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) that set*.
+
+*An average* is *an element which represents a set of quantitative data*.
 		
 #### Notes
 
