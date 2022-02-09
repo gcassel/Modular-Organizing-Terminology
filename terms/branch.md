@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
-*To branch* is *to [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)* which has *been [replicated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replicate.md) from* another [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) form.
+*To branch* is *to [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which has been [replicated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replicate.md) from another [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) form*.
+
+*A branch* is *a form which has been developed from a replica of another specific form.*
 		
 #### [Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) Definition
 
