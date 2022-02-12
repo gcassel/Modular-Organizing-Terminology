@@ -1,8 +1,10 @@
-#### Definition
+#### Definitions
 
 *To form* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *[groups](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) other elements*. 
 
 *A form* is an element which groups other elements.   
+
+*Formal* is a [trait](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/trait.md) of [relationships](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/relate.md) which have been [strictly](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/strict.md) grouped, often according to [official](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) [standards](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/standard.md).
 
 #### Notes
 
