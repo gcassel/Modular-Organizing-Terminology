@@ -6,4 +6,4 @@
 
 **Related Terms**
 
-*independence*
+*independence*, *sovereignty*
