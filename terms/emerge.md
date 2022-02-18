@@ -1,6 +1,6 @@
 #### Definition
 
-*To emerge* is *be [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) by [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) between [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*.
+*To emerge* is *to be [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) by [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) between [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*.
 
 #### Notes
 
