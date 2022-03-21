@@ -12,4 +12,4 @@ Location(s) may be *strictly* [identified](https://github.com/gcassel/Modular-Or
 
 #### See Also 
 
-*[position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md)* is a [stricter](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md)
+*[position]*, *[region](ttps://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/region.md)*
