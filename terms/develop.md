@@ -12,4 +12,4 @@ Development often *increases the [complexity](https://github.com/gcassel/Modular
 
 #### See Also 
 
-*[adapt](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md)*, *[detail](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/detail.md)*
+*[update](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/update.md)*, *[detail](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/detail.md)*
