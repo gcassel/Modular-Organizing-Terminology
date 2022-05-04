@@ -4,7 +4,7 @@ A *Minor Decision* is a decision which has *a gross collective [cost](https://gi
 
 1. an applicable Personal Minor Decision Authorization
 2. an applicable Team Minor Decision Authorization
-3. (if implemented) the UFC Minor Decision Authorization 
+3. (if implemented) the project's general Minor Decision Authorization 
 
 #### Examples
 
