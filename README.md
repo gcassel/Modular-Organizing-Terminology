@@ -31,7 +31,7 @@ Additionally, I'll work with others to import mutually useful MOT terms into one
 
 #### Formal Context
 
-MOT can be seen as a bridge between machine-readable languages and natural languages, including most formal writing such as [policies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/policy.md) and [laws](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/law.md).  MOT is much larger and more [flexible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md), but less [precise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/precise.md), than most machine-readable languages.
+MOT can be seen as a bridge between machine-readable languages and natural languages, including most formal writing such as [policies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/policy.md) and [laws](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/law.md).  MOT is much larger and more [flexible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md), but less grammatically [precise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/precise.md), than most machine-readable languages.
 
 #### Philosophical [Context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)
 
