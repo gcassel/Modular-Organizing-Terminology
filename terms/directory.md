@@ -1,6 +1,6 @@
 #### Definition
 
-A directory is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [directions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md)* for *[accessing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) and/or [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.
+A directory is a [map](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/map.md) which *[provides](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) [directions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md)* for *[accessing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) [project-](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md)[related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) and/or [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.
 
 #### Notes
 
