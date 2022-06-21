@@ -1,6 +1,6 @@
 #### Definition
 
-A directory is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [directions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md)* for *[transporting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)*.
+A directory is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [directions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md)* for *[accessing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*.
 
 #### Notes
 
