@@ -4,7 +4,7 @@ To specialize is to *[adapt](https://github.com/gcassel/Modular-Organization-Ter
 
 *Precise* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of forms and activities which have been highly specialized.
 
-*Especially* is a trait of highly specialized or precise actions.
+*Especially* is a trait of highly specialized or precise [acts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md).
 
 Specialized forms and actions are often more [detailed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/detail.md).
 
