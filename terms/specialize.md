@@ -1,8 +1,10 @@
 #### Definitions
 
-To specialize is to *[adapt](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md)* a *[potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) or [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)* to a *more [strict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) and [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [scope](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scope.md)*.
+To specialize is to *[adapt](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md)* a *[potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) or [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* to a *more [strict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) and [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [scope](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scope.md)*.
 
-*Precise* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of forms and actions which have been highly specialized.
+*Precise* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of forms and activities which have been highly specialized.
+
+*Especially* is a trait of highly specialized or precise actions.
 
 Specialized forms and actions are often more [detailed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/detail.md).
 
