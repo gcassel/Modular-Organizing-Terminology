@@ -1,6 +1,6 @@
 #### Definition
 
-*A recipe* is a [method](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/method.md) for [performing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) which *one or more [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [recommends](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+*A recipe* is *a [method](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/method.md) for [performing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)* which *one or more [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [recommends](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 
 #### Notes
 
