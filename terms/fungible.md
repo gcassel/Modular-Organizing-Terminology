@@ -4,4 +4,4 @@
 
 #### Notes
 
-Fungibility is a trait of all [currencies](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/currency.md) and [commodities](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/commodity.md).
+Fungibility is a trait of all [currencies](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/currency.md) and commodities.
