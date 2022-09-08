@@ -1,6 +1,6 @@
 #### Definitions
 
-*To base* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) or [define](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* by *[relating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) it to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) element*.
+***To base* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) or [define](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* by *[relating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) it to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) element*.**
 
 *A base* is *an element which another element has been created from or defined by.*
 		
