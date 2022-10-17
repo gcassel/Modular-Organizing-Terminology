@@ -1,6 +1,6 @@
 #### Definition
 
-*Social* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *are [based](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) on [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) between [persons](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/person.md)*.  
+*Social* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *are [based](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) on [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) between [organisms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organism.md).*
 
 #### Synonym(s)
 
