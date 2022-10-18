@@ -11,3 +11,7 @@ Attributes are *[relational](https://github.com/gcassel/Modular-Organization-Ter
 * Agent A gives Product X a 5 star *rating*.  That [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) rating is an attribute.
 * Community A gives Product X a total of 183 ratings with an arithmetic mean (average) of 3.8.  That average rating is an attribute.
 * Photographer A submits *Image* X to a photography forum, and [assigns] the descriptive tag of "sunset" to that image.  "Sunset" is an attribute.
+
+#### Related Terms
+
+*[property](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/property.md)*
