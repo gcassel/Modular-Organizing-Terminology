@@ -1,6 +1,6 @@
 #### Definition
 
-A *resource* is *any non-[agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) or [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)* which *[supports](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) one or more [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A *resource* is *any [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) or [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)* which *[supports](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) one or more [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md), and *is not an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).*
 
 #### Notes
 
