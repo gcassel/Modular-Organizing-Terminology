@@ -2,6 +2,4 @@
 
 **Notes**:  *Indicate* is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) and [basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [signaling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).
 
-*Indications* often [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) [assumptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assume.md).
-
-**[Social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [Subtypes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/subtype.md):** *[state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md)*, *[ask](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/ask.md)*, *[instruct](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instruct.md)*
+*Indications* often [develop](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) [assumptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assume.md) and [premises](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/premise.md).
