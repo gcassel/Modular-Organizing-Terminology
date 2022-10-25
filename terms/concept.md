@@ -4,7 +4,9 @@ A concept is an *[idea](https://github.com/gcassel/Modular-Organization-Terminol
 
 #### Notes
 
-*Concept* is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) which includes all [statements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md), [descriptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md), [models](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md), [questions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/ask.md) and [instructions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instruct.md).
+*Concept* is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md).  Concepts are frequently [represented](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) by [statements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) or [models](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md).
+
+*Concept* very frequently implicitly means "a representation of a concept" in one or more statements and/or models.
 		
 #### Related Terms
 
