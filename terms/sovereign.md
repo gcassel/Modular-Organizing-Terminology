@@ -4,7 +4,7 @@
 
 #### Notes
 
-Sovereignty does not imply non-interference under any imaginable circumstances; e.g. recognition of sovereignty may be suspended or terminated under extremely egregious circumstances.  
+Sovereignty does not imply non-interference under any imaginable circumstances; e.g. recognition of sovereignty may be suspended or terminated in extreme [conditions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md) such as severe [violence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/violate.md).
 
 #### Related Terms
 *[autonomy](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/autonomy.md)*
