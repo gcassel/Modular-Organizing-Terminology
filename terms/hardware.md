@@ -1,6 +1,6 @@
 #### Definition
 
-*Hardware* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of all *[physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md)* which *have [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persistent.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*Hardware* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of all *[physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md)* which *have [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 		
 #### Notes
 
