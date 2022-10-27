@@ -1,6 +1,6 @@
 #### Definition
 
-*A file* is *a [digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) [media item](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media-item.md)* which has been [stored](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/store.md) in at least one *[persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persistent.md) (usually nonvolatile) and [accessible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md)* [storage address](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/storage-address.md).  
+*A file* is *a [digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) [media item](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media-item.md)* which has been [stored](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/store.md) in at least one *[persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) (usually nonvolatile) and [accessible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md)* [storage address](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/storage-address.md).  
 
 #### Notes
 
