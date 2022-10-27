@@ -6,7 +6,7 @@
 
 Agents may officially [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) themselves at all times, in addition to representing [collectives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md) in collectively governed contexts.
 
-Agents may [want](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) to govern any *[contentious](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/contend.md) [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md)* of official elements which [creates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persistent.md) [conflict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/conflict.md).
+Agents may [want](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) to govern any *[contentious](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/contend.md) [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md)* of official elements which [creates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) [conflict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/conflict.md).
 
 #### See Also
 
