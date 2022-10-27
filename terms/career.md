@@ -1,6 +1,6 @@
 #### Definition
 
-A *career* is a *[specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md) which a [person](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/person.md) [plans](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/plan.md) to [perform](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md)* to [persistently](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/persistent.md) [support](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/support.md) their living and lifestyle.
+A *career* is a *[specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md) which a [person](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/person.md) [plans](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/plan.md) to [perform](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md)* to [persistently](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/persist.md) [support](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/support.md) their living and lifestyle.
 
 #### Notes
 
