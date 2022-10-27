@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
-*Persistent* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of any [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *is [predicted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) to remain indefinitely [present](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/presence.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To persist* is *to remain [present](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/presence.md) throughout a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md)*.
+
+*Persistent* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of any [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *is [predicted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) to remain indefinitely present* in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
