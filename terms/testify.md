@@ -1,6 +1,6 @@
 #### Definition
 
-*To testify* is *to [report](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/report.md) in a [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persistent.md) [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+*To testify* is *to [report](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/report.md) in a [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 	
 #### Notes
 
