@@ -18,7 +18,7 @@ Additionally, I'll work with others to import [mutually](https://github.com/gcas
 
 #### Formal Context
 
-MOT can be seen as a bridge between machine-[readable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/read.md) languages and natural languages, including most [formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) [writing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/write.md) such as [policies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/policy.md) and [laws](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/law.md).  Compared to most machine-readable languages, MOT is much larger and more [flexible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md), but less syntactically and [grammatically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/grammar.md) [precise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/precise.md).  (Precision can be increased through adaptation.)
+MOT can be seen as a bridge between machine-[readable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/read.md) languages and natural languages, including most [formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) [writing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/write.md) such as [policies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/policy.md) and [laws](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/law.md).  Compared to most machine-readable languages, MOT is much larger and more [flexible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md), but less syntactically and [grammatically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/grammar.md) [precise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/precise.md).  (Precision can be increased by adapting MOT for specific social contexts.)
 
 #### Philosophical [Context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)
 
@@ -35,7 +35,7 @@ So far, MOT has been mostly my "solo" work, although in dialogue at times with v
 
 #### Acknowledgements
 
-The development of MOT has been deeply based on my participation in the https://valueflo.ws community and related discussions regarding [REA](https://en.wikipedia.org/wiki/Resources,_Events,_Agents) accounting.  Special thanks to Lynn Foster and Bob Haugen of Value Flows for their tireless, and often thankless, contributions to a wide variety of digital sensemaking efforts and projects.
+The development of MOT has been deeply based on my participation in the https://valueflo.ws community and related discussions regarding [REA](https://en.wikipedia.org/wiki/Resources,_Events,_Agents) accounting.  Special thanks to Lynn Foster and Bob Haugen of Value Flows for their tireless, and often thankless, contributions to a wide variety of digital sensemaking efforts and projects.  Special thanks also to my brilliant partner Lane, who has been a key force in everything I've done since MOT's genesis.
 
 #### Additional Notes
 
