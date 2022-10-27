@@ -1,4 +1,6 @@
-#### Definition
+#### Definitions
+
+*To open* is *to [remove](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/remove.md) one or more [restrictions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/restrict.md) which [exclude](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/exclude.md) [access](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/access.md) to a [resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md) or [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md)*.
 
 *Open* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *[enable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/enable.md) the [addition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/add.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
