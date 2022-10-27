@@ -4,4 +4,4 @@ Language includes all *[networks](https://github.com/gcassel/Modular-Organizatio
 
 #### Notes
 
-*Language* is [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) and flexible in [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology/).
+The [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) *language* is [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) and flexible in [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology/).
