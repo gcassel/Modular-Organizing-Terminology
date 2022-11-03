@@ -1,4 +1,4 @@
-DISPLAY EXAMPLE ### Definition
+#### Definition
 
 Specific is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of all [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *could be [specified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md)* within a (specific) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
