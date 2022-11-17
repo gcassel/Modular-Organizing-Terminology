@@ -1,0 +1,9 @@
+# analog
+
+**Definition**
+
+Analog is a [_trait_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) _of_ [_information_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) which [_directly_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) __ [_represents_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) _other information_.
+
+[**Specialized**](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) **Meaning**
+
+In [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [processing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md), _analog_ especially [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) that [_data_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md) _represents continuous_ [_dimensional variables_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimensional-variable.md). Such analog data does not represent with _perfect_ [_accuracy_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/accuracy.md). Its limited accuracy [degrades](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/degrade.md) through increased _distortion_ and [noise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/noise.md) when it is repeatedly [transmitted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) or [replicated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replicate.md).

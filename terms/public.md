@@ -1,3 +1,0 @@
-#### Definition
-
-*Public* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of all [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which are *[openly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/open.md) [accessible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) with no [intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [restrictions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md)*.

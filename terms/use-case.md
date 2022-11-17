@@ -1,7 +1,0 @@
-#### Definition
-
-A *use-case* is *a [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [usage](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md)* (by a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) or [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of agent) which is, or *will be*, [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) by the [governers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) or [designers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).
-
-#### Notes
-
-The [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) *use-case* is used mainly for [discussing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dialogue.md) *[design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)*. 

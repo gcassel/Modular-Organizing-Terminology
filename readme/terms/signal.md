@@ -1,0 +1,5 @@
+# Definition
+
+A signal is a [_field_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/field.md) _of_ [_elements_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) _which_ [_transmits_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) __ [_data_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md).
+
+Signals often [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) [signs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sign.md), but may also consist of [direct](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) (_non-sign_, _non-_[_symbol_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/symbol.md)) information including [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [force(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md).

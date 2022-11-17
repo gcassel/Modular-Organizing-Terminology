@@ -1,0 +1,3 @@
+# Definition
+
+_Public_ is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of all [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which are [_openly_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/open.md) __ [_accessible_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) _with no_ [_intentional_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) __ [_restrictions_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md).

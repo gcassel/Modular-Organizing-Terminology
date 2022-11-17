@@ -1,0 +1,3 @@
+# item
+
+An item is a [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_instance_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) of a [_uniquely_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) __ [_identified_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) _and_ [_potentially_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) __ [_replicable_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replicate.md) __ [_resource_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).

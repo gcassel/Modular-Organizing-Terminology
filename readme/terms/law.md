@@ -1,0 +1,5 @@
+# Definitions
+
+_A law_ is a [_potentially_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) __ [_coercive_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coerce.md) __ [_form_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which is [_governed_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/governance.md) _by a_ [_political_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/politics.md) __ [_agent_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
+
+_Legal_ is a [_trait_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) _of_ [_relationships_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) _which are_ [_based_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) _on law(s)_.

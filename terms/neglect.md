@@ -1,3 +1,0 @@
-#### Definition
-
-*To neglect* is *to fail to [perceive](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perceive.md) [accessible](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/access.md) [information](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/information.md)* which is [significant](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/significance.md) in a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md).

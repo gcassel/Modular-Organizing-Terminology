@@ -1,0 +1,11 @@
+# resource-description-framework
+
+**Definition**
+
+A _resource description framework_ ( or _RDF_) is a [_data_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md) __ [_framework_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/framework.md) which [_formally_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) __ [_links_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) _a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_resource_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) _to_ [_descriptive_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) __ [_linked data_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/linked-data.md) (often [metadata](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/metadata.md)).
+
+**Notes**
+
+An RDF can [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as a [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md), and [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) as a [community](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md) [standard](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/standard.md).
+
+RDFs can [facilitate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/facilitate.md) the [development](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) of _more_ [_portable_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/portable.md) _and broadly_ [_compatible_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compatible.md) resources, including [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [items](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md).

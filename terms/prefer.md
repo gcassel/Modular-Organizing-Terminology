@@ -1,3 +1,0 @@
-#### Definition
-
-*To prefer* is *to [desire](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) the [presence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/presence.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [optional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/option.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* in a specific [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) or [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).

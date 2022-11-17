@@ -1,7 +1,0 @@
-#### Definition
-
-*Distributive networking* is *[networking](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/network.md) which [intentionally](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/intend.md) [develops](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/develops) increasingly [accessible](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/access.md), [inclusive](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/include.md) and [distributed](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/distribute.md) [authority](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/authority.md) and [resources](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/resource.md)*, including [modifications](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/modify.md) of [associated](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/associate.md) [governance](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/govern.md) [systems](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/system.md).
-
-#### Notes
-
-This is an extremely generic term, but potentially useful for strictly defining organizational development philosophy.

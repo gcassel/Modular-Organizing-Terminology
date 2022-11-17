@@ -1,0 +1,3 @@
+# Definition
+
+Violence is [_damaging_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/damage.md) __ [_action_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) which is either (1) [_intentionally_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) _damaging_ or (2) results from _gross_ [_neglect_](neglect.md) _of_ [_relevant_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md) __ [_risks_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md).

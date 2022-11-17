@@ -1,7 +1,0 @@
-#### Definition
-
-A *minimum viable process* (MVP) is *an [intentionally](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/intend.md) [simple](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/simplicity.md) [recipe](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/recipe.md), [plan](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/plan.md), [policy](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/policy.md) or [system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md)* for *[practicing](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/practice.md) a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md) to [beneficially](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/benefit.md) [develop](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md) that activity.*
-
-#### Specialized Definition
-
-A *minimum viable product* is *an intentionally simple [product](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/produce.md)* for *practicing a specific activity to beneficially develop that product.*

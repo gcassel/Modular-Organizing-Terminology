@@ -1,3 +1,0 @@
-#### Definition
-
-*A lot* is *a [set](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/set.md) of [resources](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md) which have uniform [traits](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/trait.md) within [specified](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specification.md) [limits](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/limit.md)* within a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md).

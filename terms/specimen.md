@@ -1,1 +1,0 @@
-A *specimen* is a *[unique](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) [instance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) of a [species](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/species.md)*.

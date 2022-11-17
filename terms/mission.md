@@ -1,3 +1,0 @@
-#### Definition
-
-A *mission* is *the [primary](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) [goal](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/goal.md) which [defines](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [project](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md) or [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md)*. 

@@ -1,0 +1,15 @@
+# complicate
+
+**Definition**
+
+_To complicate_ is to make a [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) _more_ [_complex_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md)-- and more [_potentially_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) _confusing_-- by [_developing_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) _one or more_ [_sequential_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md) __ [_processes_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) _within it_.
+
+**Notes**
+
+_Complicated forms_ contain one or more complicated [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md), regardless of whether those processes are [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) or [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md).
+
+_Complication_ is [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) associated with _sequential processes_ which may include [_significant_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) _and unpredictable delays_.
+
+_Complication_ is also especially associated with [_hierarchically_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) __ [_organized_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organization.md) __ [_groups_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) _of_ [_agents_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md), because hierarchical groups often [_create_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) __ [_rules_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md) which [require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) sequential processes.
+
+[Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often _conflate_ the meaning of the [terms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) [_complex_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) and _complicated_. [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology/) [recommends](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md) a clear and [flexibly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md) [useful](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) distinction between them.

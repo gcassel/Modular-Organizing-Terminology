@@ -1,5 +1,0 @@
-Constant is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *do not [vary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
-
-Constant is a [basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) in *[design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [technology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technology.md)*. 
-
-**See Also:** *[variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)*

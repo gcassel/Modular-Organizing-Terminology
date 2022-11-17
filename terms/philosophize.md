@@ -1,7 +1,0 @@
-#### Definition
-
-*To philosophize* is *to [theorize](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/theorize.md) about [forces](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/force.md) and [relationships](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/relate.md) which [experience](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/experience.md) is [based](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) on*.
-
-#### Related Terms
-
-[Science](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/science.md) is a [type](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/type.md) of philosophizing.  Science has a [strictly](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/strict.md) [limited](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/limit.md) [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md); i.e., many experiences have not been suitable for scientific [research](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/research.md) during any [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [period](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/period.md), although this could change in the future.

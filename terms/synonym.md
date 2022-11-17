@@ -1,3 +1,0 @@
-#### Definition
-
-A *synonym* is a [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) which *is a [valid](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md) [replacement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replacement.md)* for another [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) term in a specific [language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/language.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).

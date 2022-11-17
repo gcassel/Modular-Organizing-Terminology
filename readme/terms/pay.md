@@ -1,0 +1,3 @@
+# Definition
+
+_To pay_ is _to_ [_give_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/give.md) __ [_access_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) _or_ [_ownership_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/own.md) _of a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_resource_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) in [exchange](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exchange.md) for access or ownership of another specific resource.

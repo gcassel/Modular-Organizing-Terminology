@@ -1,0 +1,9 @@
+# value
+
+**Definition**
+
+A value is an [_instance_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) _of a_ [_variable_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) __ [_element_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
+
+**Notes**
+
+The [scope](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scope.md) of "value" is often [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [limited](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md) to _subjectively_ [_conceived_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) _value_ within the [_dimension_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) _of desirability_ of [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) to specific [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agents.md). For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), this seems to be be approximately the use of the term "value" in the [Value Flows](https://www.valueflo.ws/) [vocabulary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/vocabulary.md), which some [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology) elements are [based](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) on.

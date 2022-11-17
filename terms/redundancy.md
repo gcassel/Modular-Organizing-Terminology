@@ -1,7 +1,0 @@
-#### Definition
-
-*Redundancy* is a *[relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md)* of a *[set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *each [perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) the same non-accumulative [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
-
-#### Notes
-
-Redundancy can be in[efficient](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/efficiency.md), but it can also *increase the [security](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/secure.md) of [systemic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)*.  Depending on context, some redundancy is usually [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) for system security.

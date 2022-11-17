@@ -1,9 +1,0 @@
-#### Definitions
-
-*To bias* is *to [filter](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/filter.md) the [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [perceptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) of an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
-
-*A bias* is a [belief](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/belief.md) which *[filters](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/filter.md) the [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [perceptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) of an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
-
-#### Notes
-		
-A bias is not [necessarily](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) [useful](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) *nor* [harmful](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/harm.md) in a specific context.   However, agents are often expected to perform specific [roles](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md) without significant influence from any bias(es).

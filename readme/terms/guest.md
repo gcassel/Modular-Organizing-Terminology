@@ -1,0 +1,11 @@
+# guest
+
+**Definition**
+
+A _guest_ is an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) who (1) [_uses_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) _a_ [_resource_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) but (2) _does not_ [_participate_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participate.md) _in_ [_governing_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) that [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) resource.
+
+**Notes**
+
+_Guest_ is a [fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) for [_developing_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) __ [_communities_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/community.md) which govern specific resources and [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) reach out to share those resources with non-governing agents. It's also a fundamental concept for [event](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/event.md) [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) and [event management](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/event-manager.md), and tends to refer to all non-governing event participants.
+
+Guest _roles_ are often [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to the governance of specific [locations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md), [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) and [events](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/event.md).

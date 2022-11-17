@@ -1,0 +1,19 @@
+# collective
+
+**Definition**
+
+_A collective_ is _a_ [_project_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md) _which_ [_collects_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collect.md) __ [_resources_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) _to be_ [_used_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) _by one or more_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_agents_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)_, or_ [_types_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) _of agent_.
+
+**Notes**
+
+**Collectives include all** [**formal**](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) ** **_**and**_** informal organizations which collect resources of any** [**type**](type.md)**.**  Collectives govern all [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [commons](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/common.md), and [govern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) many [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).   &#x20;
+
+Many [teams](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/team.md) are technically collectives, but they're often _sub-collectives_, and can be [accurately](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/accuracy.md) [referred](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/refer.md) to as subprojects.
+
+**Each** [_**group agent**_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group-agent.md) **is either a collective or (more frequently) a** [**component**](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) **of a collective.**  However, many collectives rarely if ever use group agents in any officially [recognized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recognize.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+Collectives often [serve](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/serve.md) many agents in many ways, although they often [include](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/include.md) [bureaucracies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/bureaucracy.md) of [personal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal.md) [coercive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coerce.md) [authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md), and can even include [_inherently_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/inhere.md) __ [_violent_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/violent.md) __ [_relationships_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md).  For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), an army which roams and pillages territories is a collective.  In contrast, a nonprofit volunteer organization which creates charitable commons is also a collective.
+
+**Synonym(s)**
+
+_organization_ &#x20;

@@ -1,9 +1,0 @@
-#### Definition
-
-*To claim* is *to [state](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md) the presence of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* in a specific [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 
-		
-#### Notes
-
-Claims often declare that *specific [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) have happened*.  For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often claim *to have [performed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) specific actions*, or *to have [experienced](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/experience.md) specific [events](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/event.md)*.
-
-The [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) *claim* often [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) a [signal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) which is [sent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/send.md) to an *[official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) accounting agent*.

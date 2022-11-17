@@ -1,0 +1,13 @@
+# map
+
+**Definition**
+
+_To map_ is _to_ [_represent_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) _the_ [_perceived_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) __ [_distribution_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distribute.md) _of one or more_ [_variables_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) in a [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_model_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md) at a specific time, or during a specific [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md).
+
+_A map_ is a model which represents the perceived distribution and/or [status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md) of one or more variable [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) at a specific time, or during a specific period.
+
+**Notes**
+
+This is a [strict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) [technical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technical.md) [definition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/definition.md) which [fundamentally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) distinguishes _a map_ as a [_specialized_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) __ [_type_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) _of_ [_model_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md). That distinction will especially [benefit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/benefit.md) from the [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) of [examples](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md).
+
+_Mapping_ is especially associated with maps which represent [_physical_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) _distribution of_ [_resources_](resource.md)_,_ [_agents_](agent.md) _and_ [_communities_](community.md). However, it can be used to represent distribution of any variables any defined [dimensions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/).

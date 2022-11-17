@@ -1,0 +1,17 @@
+# coordinate
+
+**Definition**
+
+_To coordinate_ is _to_ [_intentionally_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) __ [_relate_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) two or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)-- often, [agents'](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) or [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)-- to [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [goal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md).
+
+**Notes**
+
+The goal of _coordination_ may be to [govern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) specific [risks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md). For instance, the activities of two or more [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) may be intentionally [transformed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transform.md) to reduce [conflict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/conflict.md) or risky [competition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compete.md).
+
+Coordination often occurs un[officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md). However, [collectives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collective.md) may [assign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) coordination [roles](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/role.md) to [subgroups](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/substructure.md) or to [personal agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal-agent.md).
+
+A coordination [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) (or any _other_ function) which is assigned to a subgroup agent often becomes [collaborative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaborate.md) work _within_ that subgroup.
+
+**Related Terms**
+
+[_integrate_](https://github.com/gcassel/Modular-Organizing-Terminology/tree/master/terms/integrate.md)

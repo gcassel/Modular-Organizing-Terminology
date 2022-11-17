@@ -1,0 +1,9 @@
+# level-of-design
+
+**Definition**
+
+A _level of design_ is _a_ [_hierarchical_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) _level which_ [_functions_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) _as a_ [_base_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) _or_ [_extension_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) _of a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_model_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md).
+
+**Notes**
+
+_(placeholder notes)_ Levels of design are hierarchical levels which are created (implicitly or explicitly) whenever a component of any model develops a sufficiently strict and stable definition to enable semi-autonomous development of that component as an extension. Such semi-autonomous design work is often performed separately from, but in dialogue with, any further modification of the extension’s base model. The semi-autonomous design can occur directly within the resource description-- and thus, with the same stewards-- or via linked extension documents. Extension resources can potentially be governed by different stewards than their base, but in clearly-governed models, extensions must be governed in formal relationship to the base’s governance. Often, they will be governed by either the exact same stewards as the base, or by people whom those stewards have officially (but provisionally) delegated authority to. By contrast, extensions can be governed more autonomously in systems which provide clear and practically useful specifications for components; this facilitates effective modular design and, when desired, open-source development of (and access to) resources.

@@ -1,0 +1,15 @@
+# current
+
+**Definitions**
+
+**n.** _A current_ is a [_measurable_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/measure.md) __ [_process_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) during a [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_period_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md).
+
+Currents are often [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) with [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) processes, such as flows of _electrical_ [_potential_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md). However, all [forces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) (including [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) forces) _can_ [_create_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a current.
+
+* [**Important**](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md) **Synonym:** _flow_
+
+**adj.** _Current_ is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [descriptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/description.md) which [_represent_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) __ [_active_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) __ [_variables_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) at the [_point_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/point.md) _in_ [_time_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/time.md) of the descriptions' [creation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/creation.md) or _generation_.
+
+**Notes**
+
+_Current descriptions_ at least indirectly [_indicate_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) _active currents_ within a [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).

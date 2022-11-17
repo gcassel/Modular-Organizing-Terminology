@@ -1,3 +1,0 @@
-#### Definition
-
-*Consistent* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *are [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) [compatibly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compatible.md) with a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [standard](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/standard.md)* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). 

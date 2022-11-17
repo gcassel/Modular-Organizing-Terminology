@@ -1,8 +1,0 @@
-#### Definition
-
-*Merit* is the *[dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) of [desirability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)* of a *[functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* (or [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
-		
-#### Related Terms
-		
-* [Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) *[value](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md)* as a synonym of *merit*, but it [provides](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/provide.md) a *different [basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) function* in [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology/).  
-* *[Benefit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/benefit.md)* is [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) by *meritorious elements*.

@@ -1,3 +1,0 @@
-#### Definition
-
-*To publish* is *to [share](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/common.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [edition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/edition.md) of a [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [item](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md)* in a specific [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).

@@ -1,0 +1,26 @@
+# true
+
+**Definition**
+
+_True_ is a [_relational trait_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md) of a [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) which _is_ [_valid_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md) _within a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_context_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+**Notes**
+
+The [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of _truth_ may be [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) as a [_qualitative variable_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/qualitative-variable.md) or a [_dimensional variable_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimensional-variable.md) in varying contexts. For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), an indication may be identified as simply _true or_ [_false_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/false.md) depending on whether or not _all elements in the indication have valid_ [_relationships_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) within a specific context. [Alternatively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/option.md), the _presence/absence_ of truth may be identified as a [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) from 1-0 / 100%-0%.
+
+Truth can [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) be well-[defined](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) in contexts of pure [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md). In [_modelling_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md) __ [_physical_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) __ [_systems_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md), however, the concept of truth is [_fundamentally_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) __ [_complicated_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complicate.md)_:_
+
+1. The [relevance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md) of _truth_ [_claims_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/claim.md) to physical systems [depends](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) on _falsifiability_, per Karl Popper and other 20th century philosophers of science.
+2. Even with apparently falsifiable claims, the concept of truth ignores the uncertainty (and [probabilistic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/probability.md) nature) of future [experience](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/experience.md). That simplification can be _extremely_ [useful](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) in [practice](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/practice.md), but it can also [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) major mis[understandings](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/understand.md).
+
+Additionally, whether or not an indication or [description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) _is true_ does _not_ indicate how much [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) it contains. Nor does truth indicate that a description is _strongly_ [_relevant_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md) to a specific context in which it's true, _or_ that it's _at all_ relevant to the context(s) in which [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) _share_ it.
+
+Truth is an extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) concept. This entry could especially benefit from further [development](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) and examples.
+
+**Antonym**
+
+[_false_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/false.md)
+
+**Related Terms**
+
+_certain_

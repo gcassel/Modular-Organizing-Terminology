@@ -1,5 +1,0 @@
-#### Definitions
-
-*To integrate* is *to [include](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/include.md), [link](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) and/or [modify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/modify.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* so that it *[functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
-
-*Integrity* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) which *have complete (or, nearly complete) self-[compatibility](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compatible.md)*.

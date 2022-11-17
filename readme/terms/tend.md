@@ -1,0 +1,7 @@
+# tend
+
+_To tend_ is _to be highly_ [_probable_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/probability.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+**Notes:** A _tendency_ will be _increasingly_ [_displayed_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/display.md) by the [_distribution_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/distribute.md) _of_ [_active_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) __ [_instances_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) _of a_ [_type_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) over an _extended_ [_period_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md).
+
+Tendencies are [fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) to the [development](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) of [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).

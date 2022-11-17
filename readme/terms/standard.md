@@ -1,0 +1,13 @@
+# standard
+
+**Definition**
+
+_A standard_ is _any_ [_system_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) _of one or more_ [_programs_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/program.md)_,_ [_protocols_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/protocol.md) _and/or_ [_policies_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/policy.md) _which_ [_agents_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) _use to_ [_coordinate_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coordinate.md) __ [_activities_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+**Notes**
+
+Standards are often [based](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) on one or more specific [criteria](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/criterion.md).
+
+Standards often [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) to coordinate [_digitally_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) __ [_networked_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) __ [_communications_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communicate.md) between [autonomous](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/autonomy.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).
+
+Standards may be [developed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) and [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) through [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) _or_ unofficial coordination, as well as [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [coercive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coerce.md) [governance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/governance.md).
