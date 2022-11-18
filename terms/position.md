@@ -4,7 +4,7 @@ Position is a [trait](https://github.com/gcassel/Modular-Organization-Terminolog
 
 1. one or more *[unique](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) [values](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md) within [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [dimensions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md)*
 
-2. *[inclusion](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/include.md) within the [limits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md) of a specific [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*
+2. *[inclusion](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/include.md) within the [limits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md) of a [component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) within a specific [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*
 
 #### Notes
 
