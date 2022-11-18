@@ -1,9 +1,0 @@
-# language
-
-**Definition**
-
-Language includes all [_networks_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) _of_ [_related_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) __ [_signs_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sign.md) which _can be_ [_used_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) to [communicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/communicate.md) within any [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
-
-**Notes**
-
-The [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md) _language_ is [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) extremely [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) and flexible in [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology/).

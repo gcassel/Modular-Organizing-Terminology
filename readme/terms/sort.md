@@ -1,3 +1,0 @@
-# sort
-
-_To sort_ is to [_group_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) __ [_elements_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) _in a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_order_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/order.md) which is [defined](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) by the _presence or absence_ of one or more [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) in each element.

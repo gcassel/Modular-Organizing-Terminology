@@ -1,0 +1,7 @@
+#### Definition
+
+To prescribe is to *[restrict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md) the [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+#### Notes
+
+*Prescription* is *less [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md)* than *[rule](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md)*.  Both terms *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [relationships](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) between [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) and resources* in [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) contexts; however, prescriptions don't necessarily restrict the social context, and aren't [necessarily](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) [coercive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coerce.md).

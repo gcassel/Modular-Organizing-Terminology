@@ -1,0 +1,3 @@
+#### Definition
+
+*A terminology* is *a [vocabulary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/vocabulary.md) which [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) [organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organize.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.

@@ -1,9 +1,0 @@
-# include
-
-**Definition**
-
-_To include_ is _to_ [_add_](https://github.com/gcassel/Modular-Organization-Terminology/new/master/terms/add.md) _a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) _(_[_potential_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) _ **or** _ [_active_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md)_)_ [_element_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) to a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
-
-**Specialized Meaning**
-
-_Inclusive_ is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) contexts which [_intentionally_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) _include and_ [_support_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) and/or [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which are at [significant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) [risk](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md) of being [_neglected_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/neglect.md) _or_ [_excluded_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exclude.md).

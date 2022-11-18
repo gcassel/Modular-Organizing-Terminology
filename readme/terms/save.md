@@ -1,5 +1,0 @@
-# save
-
-_To save_ is [generally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) as a synonym of _to_ [_store_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/store.md).
-
-[**Specialized**](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) **Meaning:** In [digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) [networking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md), _save_ often especially means _to store_ [_changes_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) _to_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_media_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) __ [_items_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md)_._

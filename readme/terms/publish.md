@@ -1,3 +1,0 @@
-# Definition
-
-_To publish_ is _to_ [_share_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/common.md) _a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_edition_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/edition.md) _of a_ [_media_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) __ [_item_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md) in a specific [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).

@@ -1,0 +1,7 @@
+#### Definition
+
+*A tutorial* is *a [media](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/media.md) [resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md)* which *[provides](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/provide.md) [instructions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/instruct.md) for [performing](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [sequential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/sequence.md) [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md)*.
+
+#### Notes
+
+In addition to providing informative instructions in an open [network](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/network.md), a tutorial may include *[guidelines](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/guideline.md)* and *[rules](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/rule.md)* for specific [social](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/social.md) [contexts](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md), such as [collectives](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md).

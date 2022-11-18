@@ -1,3 +1,0 @@
-# Definition
-
-_To prefer_ is _to_ [_desire_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) _the_ [_presence_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/presence.md) _of a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_optional_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/option.md) __ [_element_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in a specific [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) or [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).

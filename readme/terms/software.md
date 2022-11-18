@@ -1,9 +1,0 @@
-# software
-
-**Definition**
-
-Software is _the_ [_set_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) _of all_ [_digital_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) __ [_media_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) __ [_resources_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) to [_program_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/program.md) __ [_signal_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) __ [_processing_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) __ [_tools_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md), including [computers](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/computer.md).
-
-**Notes**
-
-Software [enables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/enable.md) agents to [_develop_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) _and_ [_modify_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/modify.md) __ [_computing_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compute.md) __ [_functions_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) without modifying computer [hardware](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hardware.md).

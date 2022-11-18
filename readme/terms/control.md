@@ -1,3 +1,0 @@
-# Definition
-
-To control is to [_govern_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) _the_ [_potential_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) __ [_action_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) _or inaction of a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_element_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).

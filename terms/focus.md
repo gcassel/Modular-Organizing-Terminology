@@ -1,0 +1,3 @@
+#### Definition
+
+*To focus* is *to [regulate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/regulate.md) [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) according to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [priority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/prioritize.md)* during a specific [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md).

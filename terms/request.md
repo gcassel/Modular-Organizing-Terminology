@@ -1,0 +1,11 @@
+#### Definition
+
+*To request* is *to [propose](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/propose.md) to [receive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/receive.md) [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
+
+#### Notes
+
+For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), agents often request *other agents' [time](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/time.md), attention and/or the [performance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) of [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)*.  Those are all resources.  Agents also often request *the [development](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) of [agreements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agree.md)*, and agreements *create rights*.
+
+Requests often [relate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to either [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) *or* [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) resources.
+
+Requests often occur within *[mandatory](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)* such as [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [exchanges](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exchange.md).

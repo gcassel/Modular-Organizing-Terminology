@@ -1,0 +1,7 @@
+#### Definition
+
+*Parallel components* are [components](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/component.md) which *can [function](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/function.md) in an [arbitrary](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/arbitrary.md) [order](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/order.md)* within a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md).
+
+#### Notes
+
+Parallel components function either (1) at all times in a [system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md), (2) at all times in one of its [hierarchical](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/hierarchy.md) [levels](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/level.md), or (3) during a specific [step](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/step.md) in a [sequential](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/sequence.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md), which might occupy the whole system *or* one of its hierarchical levels *or* the whole system.

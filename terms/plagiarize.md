@@ -1,0 +1,3 @@
+#### Definition
+
+*To plagiarize* is *to [falsely](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/false.md) [claim](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/claim.md) [authorship](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/author.md)* of a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [information](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/information.md) [resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md).

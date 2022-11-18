@@ -1,0 +1,3 @@
+#### Definition
+
+*To establish* is *to [officially](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) [assign](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/assign.md) a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/element.md) as a [component](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/component.md) in a [system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md)*.

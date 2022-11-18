@@ -1,9 +1,0 @@
-# trust
-
-**Definition**
-
-_Trust_ is the [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) of [_confidence_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/confidence.md) _in an_ [_agent's_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) __ [_probability_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/probability.md) _of_ [_performing_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) _a_ [_desired_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) __ [_action_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) _or_ [_activity_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
-
-**Notes**
-
-The term _trust_ is often used [vaguely](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/vague.md) to [represent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) [general](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) confidence in specific agents, although that general confidence would probably increase or decrease for specific actions and activities. (For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), I might generally trust Person A, but not trust them to remember their keys when they leave the house; or I might not trust them to keep a specific secret, etcetera.)

@@ -1,0 +1,7 @@
+#### Definition
+
+*To comment* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a [statement](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/state.md)* which is *[intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [related](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+#### Specialized Meaning
+
+*[Persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) comments* are often *[linked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) to [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [items](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md)*, especially in *[digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) media [networking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md)*.

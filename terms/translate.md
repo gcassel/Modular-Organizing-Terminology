@@ -1,0 +1,5 @@
+To translate is to (attempt to) *[transform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transform.md) and [transmit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md)* from a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) into another specific context.
+
+Translation often [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) means translating from a specific [language](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/language.md) into another language.
+
+Translation usually requires *re-[factor](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/factor.md)ing of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)*.

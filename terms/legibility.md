@@ -1,0 +1,11 @@
+#### Definition
+
+*Legibility* is a [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) how *[clear](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/clarify.md)* and *[effectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) [prioritized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/prioritize.md)* one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [signals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) is for a *[type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [participant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participate.md)* in a specific [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md).
+
+#### Notes
+
+*Legible* signals tend to have low *signal-to-[noise](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/noise.md)* ratios. More [importantly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md), it's easy for [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [users](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) to distinguish the signal from the noise by using one or more *[pattern](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/pattern.md) [recognition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recognize.md) [techniques](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technique.md)*.
+		
+#### Related Terms
+
+*[view-right](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/view-right.md)*, *[read](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/read.md)*, *[clarify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/clarify.md)*

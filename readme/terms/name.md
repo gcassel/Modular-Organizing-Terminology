@@ -1,3 +1,0 @@
-# Definition
-
-A name is a [_sign_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sign.md) _which_ [_uniquely_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) __ [_represents_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) a [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identifiable.md) __ [_element_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) within a [_formal_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) __ [_context_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).

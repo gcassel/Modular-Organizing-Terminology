@@ -1,5 +1,0 @@
-# judge
-
-_To judge_ is _to_ [_approve_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/approve.md) _or_ [_deny_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/deny.md) _the_ [_use_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) _of a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_element_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
-
-**Notes:** In [official](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) contexts, _judiciary_ [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) may be [authoritatively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md) [assigned](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md).

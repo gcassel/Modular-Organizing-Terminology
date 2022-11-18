@@ -1,0 +1,3 @@
+#### Definition
+
+*To nest* is *to [transport](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/transport.md) an [element](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/element.md) into a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [form](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/form.md)*, or to otherwise *[develop](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md) a [hiearchical](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/hierarchy.md) form*.

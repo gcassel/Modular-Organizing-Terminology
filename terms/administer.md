@@ -1,0 +1,5 @@
+#### Definitions
+
+*To administer* is *to [authoritatively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md) [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) [regulations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/regulate.md) and/or [restrictions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/restrict.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+*An administrator*, or admin, is *an [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) who [performs](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) an administrative [role](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/role.md)* in a specific [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md).

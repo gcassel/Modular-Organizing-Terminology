@@ -1,3 +1,0 @@
-# measure
-
-_To measure_ is to [_identify_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) _an_ [_active_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) __ [_value_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md) for a [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md) within a [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md).

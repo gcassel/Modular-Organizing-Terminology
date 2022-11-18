@@ -1,0 +1,3 @@
+#### Definition
+
+*To pay* is *to [give](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/give.md) [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) or [ownership](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/own.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* in [exchange](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/exchange.md) for access or ownership of another specific resource.

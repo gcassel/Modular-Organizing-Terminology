@@ -1,3 +1,0 @@
-# Definition
-
-_To influence_ is _to_ [_act_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) _upon a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_functional_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) __ [_element_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) in a way which [changes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more traits of that element.

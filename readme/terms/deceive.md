@@ -1,3 +1,0 @@
-# Definition
-
-_To deceive_ is _to_ [_intentionally_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) __ [_misinform_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/misinform.md) _another_ [_agent_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) with the [intent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) to disempower them and reduce their agency within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).

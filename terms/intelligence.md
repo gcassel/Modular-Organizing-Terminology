@@ -1,0 +1,7 @@
+#### Definition
+
+*Intelligence* is the *[dimension](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/dimension.md) of [ability](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/ability.md)* to *[develop](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md) [adaptive](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/adapt.md) [perceptivity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perceive.md)* within a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md).
+
+#### Notes
+
+Intelligence can happen unconsciously, but it is often [limited](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/limit.md) by and [based](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) on [beliefs](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/believe.md).  Intelligence can develop in contexts of greatly varying [scale](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/scale.md) depending on the [accessible](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/access.md) [data](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/data.md).

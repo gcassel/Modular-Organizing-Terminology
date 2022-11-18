@@ -1,3 +1,0 @@
-# Definition
-
-Parallel is a [_relational trait_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md) indicating that two or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) have a [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_constant_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/constant.md) __ [_relationship_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).

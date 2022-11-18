@@ -1,0 +1,11 @@
+#### Definition
+
+Force is the *[element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which [produces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/produce.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [interactive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interactive.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+
+#### Notes
+
+This is an [intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [definition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) which can be broadly [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) to [describe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md), [mental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mental.md) and [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [experiences](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/experience.md).  
+
+Per the use of *interactive* in the definition, *force is always [relational](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)*.  
+
+This definition intentionally disregards the [details](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/detail.md) of [probability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/probability.md) and of *quantum uncertainty*, which go far beyond the intended [scope](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scope.md) of [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology/).

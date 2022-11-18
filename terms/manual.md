@@ -1,0 +1,7 @@
+#### Definition
+
+Manual is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) which *[require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) action(s) by [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)*.
+		
+#### Notes
+
+Manual is also sometimes used as a *noun* which [indicates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) an *[instructive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.  [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology/) does not [recommend](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md) that [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) of the [term](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/term.md), but such use should rarely be [harmful](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/damage.md).  

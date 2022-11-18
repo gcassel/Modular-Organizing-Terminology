@@ -1,9 +1,0 @@
-# hierarchy
-
-**Definition**
-
-A hierarchy is any [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which _contains two or more_ [_levels of access_](level-of-access.md) _and/or_ [_levels of design_](level-of-design.md).
-
-**Notes**
-
-Hierarchy can [emerge](emerge.md) naturally or be [designed](design.md). _Hierarchical_ [_organizing_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organize.md) _and_ [_governance_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) is so widespread as to seem ubiquitous, or even inevitable, in many [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md). The predominance of hierarchical organizing can obscure [alternatives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/alternative.md) such as [p2p](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/p2p.md), [federation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/federate.md), [compound description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/compound-description.md), etcetera. While hierarchical [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) and [description](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) can be [effective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md), division into _mutually exclusive sub_[_classes_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/class.md) is often excessive and misleading.

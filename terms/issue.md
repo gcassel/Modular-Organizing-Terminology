@@ -1,0 +1,7 @@
+#### Definition
+
+*An issue* is *a [topic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/topic.md) which one or more [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [relate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [goal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)*.
+		
+#### Notes
+
+Issues often *[identify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) [problems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/problem.md)*, although they can identify any [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [costs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/cost.md), [benefits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/benefit.md), [opportunities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/opportunity.md) and [risks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md) within the [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) of a specific goal.

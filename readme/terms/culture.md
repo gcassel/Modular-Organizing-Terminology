@@ -1,9 +1,0 @@
-# culture
-
-**Definition**
-
-_Culture_ is _the_ [_set_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) _of_ [_principles_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/principle.md) _and_ [_practices_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/practice.md) _which are, to highly_ [_variable_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) __ [_intensities_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intensity.md)_,_ [_supported_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) _in a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_social_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) __ [_context_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) such as a [community](community.md) or [network](network.md).
-
-**Notes**
-
-While purely [personal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/personal.md) [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) such as attitudes and behaviors _aren't_ cultural per se, it _is_ cultural to (socially) [recommend](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md) personal traits to others. For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), to [claim](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/claim.md) that all individuals should be self-sufficient would be a cultural [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md).

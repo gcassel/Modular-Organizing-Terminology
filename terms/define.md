@@ -1,0 +1,15 @@
+#### Definitions
+
+To define is *to [describe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) [necessary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) and [sufficient](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/suffice.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [limits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md)* for the *[potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)* of an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+*A definition* is *a description of necessary and sufficient functional limits for the potential traits of an element in a specific context*.
+
+#### Notes
+
+Definitions often attempt to [identify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) the *[fundamental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) traits* of an element, thus making [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) of that element distinct and clear.
+
+#### See Also
+
+*[specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md)*  
+
+The act of definition can *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) elements*, and is [generally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) quite useful for designed elements.  However, *specification* is more [formally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) [strict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) *and* more [flexible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md) than *definition*, especially for [emergent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/emergence.md) elements which [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [desire](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md) to describe.  Thus, **specification is the [recommended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recommend.md) term for describing emergent elements** in [Modular Organization Terminology](https://github.com/gcassel/Modular-Organization-Terminology/).

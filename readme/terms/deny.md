@@ -1,5 +1,0 @@
-# deny
-
-_To deny_ is to [_prevent_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/prevent.md) _the_ [_use_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) _of a_ [_specific_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) __ [_element_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
-
-[**Specialized**](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) **** [**Meaning**](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mean.md)**:** _Deny_ sometimes especially means _to prevent a specific_ [_assignment_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) in an [authoritative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md) context.
