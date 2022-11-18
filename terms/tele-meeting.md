@@ -1,6 +1,6 @@
 #### Definition
 
-*A tele-meeting* is a *[meeting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/meet.md) via [telecommunications](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/telecommunicate.md)* between *[agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) in separate [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [locations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md)*.
+*A tele-meeting* is a *[meeting](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/meet.md) via [telecommunications](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/telecommunicate.md)* between *[agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) in separate [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md) [locations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/locate.md)*.
 
 #### Synonyms and Related Terms
 
