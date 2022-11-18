@@ -1,6 +1,10 @@
 #### Definition
 
-Position is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) which *[represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) an [element's](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) [value(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md) within one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [dimensions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md)*.
+Position is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) which *[represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md)* either: 
+
+1. a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [value(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md) within one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [dimensions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md)
+
+2. enclosure within the [limits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md) of a specific [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) within a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)
 
 #### Notes
 
