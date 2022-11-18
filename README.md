@@ -27,7 +27,7 @@ This terminology supports an *[action](https://github.com/gcassel/Modular-Organi
 
 #### Disclaimers
 
-Many MOT definitions are provisional (either incomplete or insufficiently precise), and some are merely placeholders. The completeness of each definition cannot be determined by its latest revision date, because some updates are simply bug fixes (often, broken hyperlinks) or incomplete updates of aged definitions.
+Many MOT definitions are provisional (either incomplete or insufficiently precise), and some are merely placeholders. The completeness of each definition cannot be determined by its latest revision date, because some updates are simply bug fixes (often, broken hyperlinks) or incomplete updates of aged definitions.  (Please inquire about any terms which you're especially interested in updating or adapting.)
 
 Even with MOT's most up-to-date definitions, the use of MOT terms (or derivations thereof) are suggested for use only on an as-needed basis.  (I'd never suggest for anyone to adopt the entire repository, some of which is half-baked at best!)  The importance of [formal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) definitions varies widely depending on social context.  In some contexts it's crucial; this is why (for example) legal documents often include introductory lists of special definitions.  
 
