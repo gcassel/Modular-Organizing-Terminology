@@ -10,4 +10,4 @@ To determine either implicitly or explicitly *identifies [termina](https://githu
 
 **Related Terms**
 
-*[recognize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recognize.md)*
+*[recognize](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/recognize.md)*:  Determination is recognition *except* in [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md), where determination is [creative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md).
