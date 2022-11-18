@@ -1,6 +1,6 @@
 #### Definition
 
-A *stage* is *the [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md) of a [status](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/status.md)* in a *[sequence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md) of [processes](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/process.md)*.
+A *stage* is *the [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/locate.md) of a [status](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/status.md)* in a *[sequence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md) of [processes](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/process.md)*.
 
 #### Notes
 
