@@ -1,6 +1,6 @@
 #### Definition
 
-*A point* is *a [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md) with no size*.  
+*A point* is *a [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/locate.md) with no size*.  
 
 #### Notes
 
