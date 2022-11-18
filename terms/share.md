@@ -1,6 +1,6 @@
 #### Definition
 
-*To share* is *to [contribute](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/contribute.md) a [resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md) to a [common](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/common.md) [location](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/location.md)*.
+*To share* is *to [contribute](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/contribute.md) a [resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md) to a [common](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/common.md) [location](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/locate.md)*.
 
 #### Notes
 
