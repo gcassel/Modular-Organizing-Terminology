@@ -1,6 +1,6 @@
 #### Definition
 
-*To store* is to *[add](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/add.md) a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) to a [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) [addressable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/address.md) [locate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md)*.
+*To store* is to *[add](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/add.md) a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) to a [persistent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md) [addressable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/address.md) [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/locate.md)*.
 
 #### [Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) Definition
 
