@@ -14,6 +14,8 @@ Position is a [trait](https://github.com/gcassel/Modular-Organization-Terminolog
 1. "The nose is on the face"
 2. "Cats live on Earth".
 
+"Inclusional positions" can be very extensive. For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), the location of *Earth* is a very large (but [meaningful](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mean.md)) *position*; it indicates that an element (perhaps an [organism](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organism.md)) occupies a biosphere which extends for 196.9 million miles above and below the surface of the planet Earth.  (In most cases, organisms are located at or very nearly at the surface of Earth, or within bodies of water; however, Earth's biosphere extends vertically for several miles.)
+
 #### See Also
 
 *[post](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/post.md)*: Posts are often called positions in specific [collectives](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md).  This is fine as long as [meanings](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/mean.md) are [mutually](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/mutual.md) [understood](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/understand.md); however, MOT must reserve the term *position* for its much more [generic](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/generic.md) and [flexible](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/flexible.md) usage here.
