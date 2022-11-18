@@ -1,6 +1,6 @@
 #### Definitions
 
-*To receive* is to *acquire [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) to a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md).
+*To receive* is to *acquire [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md) to a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/locate.md).
 
 *Receiver* or *recipient* is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) (often an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) which acquires access to a resource in a specific location.
 
