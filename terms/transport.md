@@ -1,6 +1,6 @@
 #### Definition
 
-*To transport* is *to [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) the [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md) of an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To transport* is *to [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) the [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/locate.md) of an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
