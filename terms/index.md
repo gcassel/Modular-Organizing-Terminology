@@ -4,7 +4,7 @@
 		
 Indices are [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) associated with [texts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/text.md), but may be [developed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/develop.md) for all [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of media item.
 		
-*Indices* usually *[indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) the [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md)* of each item which they list.
+*Indices* usually *[indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) the [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/locate.md)* of each item which they list.
 		
 Indices are usually in *alphabetical [sequence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md)*.   However, they can [potentially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) be written, [sorted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sort.md) or [filtered](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/filter.md) according to any [relevant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md) [variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md).
 		
