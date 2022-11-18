@@ -1,15 +1,9 @@
 #### Definitions
 
-*To locate* is *to [determine](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/determine.md) an [element's](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md), or the interval(s) it occupies within one or more [dimensions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md)*.
+*To locate* is *to [determine](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/determine.md) an [element's](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) [position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md) or [region](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/region.md)*.
 
-*A location* is either *an element's position or the interval(s) it occupies within one or more [dimensions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md)*.
+*A location* is *an element's position or region*.
 
 #### Notes
 
 Location is predominantly associated with [physical](https://github.com/gcassel/Modular-Organization-Terminology/new/master/terms/physical.md) dimensions, and with [representations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) of physical dimensions (as in 2D or 3D [modeling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/model.md)); however, location may be either [formal](https://github.com/gcassel/Modular-Organization-Terminology/new/master/terms/form.md) *or* [conceptual](https://github.com/gcassel/Modular-Organization-Terminology/new/master/terms/concept.md).
-
-Location(s) may be *strictly* [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) or [specified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) in some [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md).  However, **locations can [indicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/indicate.md) large positions, or contain [interval(s)](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md) of any size**, within any number of [relevant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md) dimensions.  For [example](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/example.md), if the location of an [organism](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organism.md) is *Earth*, that indicates very generally (but [meaningfully](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mean.md) that the organism occupies a biosphere which extends for 196.9 million miles above and below the surface of the planet Earth.  (In most cases, organisms are located at or very nearly at the surface of Earth, or within bodies of water; however, the biosphere extends vertically for several miles.)
-
-#### See Also 
-
-*[position](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/position.md)*, *[region](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/region.md)*
