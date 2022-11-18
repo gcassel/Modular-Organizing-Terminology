@@ -4,6 +4,8 @@
 
 *An extension* is *a component or trait which has been based on an existing component or trait* of an existing form.
 
+*Extensive* is a trait of a component or trait which occupies a relatively large [scope](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/scope.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
 #### Notes
 
 This is a placeholder definition; needs work.
