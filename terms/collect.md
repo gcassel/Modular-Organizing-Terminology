@@ -1,6 +1,6 @@
 #### Definition
 
-*To collect* is *to [add](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/add.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)* to a *specific [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/location.md)*.
+*To collect* is *to [add](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/add.md) [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)* to a *specific [location](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/locate.md)*.
 
 #### Notes
 
