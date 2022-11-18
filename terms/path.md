@@ -1,6 +1,6 @@
 #### Definition
 
-A *path* is a *[set](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/set.md) of [locations](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/location.md)* which an [element](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/element.md) occupies (or passes through) during a [transporting](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/transport.md) [act](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/act.md).
+A *path* is a *[region](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/region.md)* which an [element](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/element.md) occupies (or passes through) during a [transporting](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/transport.md) [act](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/act.md).
 
 #### Notes 
 
