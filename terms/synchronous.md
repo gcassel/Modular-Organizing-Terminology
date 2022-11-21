@@ -1,6 +1,6 @@
 #### Definition
 
-*Synchronous* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) which *[require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [sequence](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/sequence.md) of [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) and [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)*.
+*Synchronous* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) which *[require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) a shared clock and/or a steady stream of signals*. [WIP replacement definition]
 		
 #### Notes
 
