@@ -1,6 +1,6 @@
 #### Definition
 
-A hierarchy is any [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which *contains two or more [levels of access](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/level-of-access.md) and/or [levels of design](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/level-of-design.md)*.
+*Hierarchy* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of any [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which *contains two or more [levels of access](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/level-of-access.md) and/or [levels of design](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/level-of-design.md)*.
 
 #### Notes
 
