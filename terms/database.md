@@ -1,6 +1,6 @@
 #### Definition
 
-*A database* is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [data](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [format](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/format.md)*.  
+*A database* is a *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) of [digital](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/digital.md) [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [items](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/item.md) which have been [semantically linked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/semantic-link.md) to each other according to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [format](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/format.md)*.  
 		
 #### Notes
 
