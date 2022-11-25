@@ -4,4 +4,4 @@
 
 #### Note
 
-The qualifiers above regarding disempowerment within a context have been applied to distinguish socially aggressive deception from playful inconsequential untruths.  (Distinguishing that at this ontological level is certainly debatable; WIP.)
+The qualifiers above regarding disempowerment within a context have been applied to distinguish socially aggressive deception from untruths within intentionally playful contexts.  (Distinguishing that at this ontological level is certainly debatable; WIP.)
