@@ -4,7 +4,7 @@ Technology is the [set](https://github.com/gcassel/Modular-Organization-Terminol
 
 #### Notes
 
-Technology is 
+Technology *[functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) within culture*.
 
 *Technology [enables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/enable.md) agents* to *[perform](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perform.md) [intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)*, including [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) which *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) or enhance [fitness](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/fitness.md)* within the [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) of [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md).
 
