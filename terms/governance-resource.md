@@ -1,6 +1,6 @@
 #### Definition
 
-A *governance resource* is a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) which *[functions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/function.md) [directly](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/direct.md) in the [governance](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) [system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md) of one or more [resources](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md)*.
+A *governance resource* is a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) which *[functions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/function.md) [officially](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) in the [governance](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) [system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md) of one or more [resources](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md)*.
 
 #### Notes  
 
