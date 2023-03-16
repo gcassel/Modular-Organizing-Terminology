@@ -1,6 +1,6 @@
 #### Definition
 
-*A dimension* is the *[set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [values](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md) for a [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*A dimension* is the *[range](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/range.md) of [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [values](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md) for a [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
 
