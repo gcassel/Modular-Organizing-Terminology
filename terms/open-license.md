@@ -4,6 +4,8 @@
 
 #### Notes
 
+Currently, this definition is intentionally flexibly and generic, perhaps to the point of being unuseful; by contrast, see [Open Definition 2.1](https://opendefinition.org/od/2.1/en/) for a technically strict and practical conception.
+
 Open licenses mitigate intellectual property law by *[directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [authorizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md)* one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which might otherwise  be subject to legal restrictions.
 
 #### Related Terms
