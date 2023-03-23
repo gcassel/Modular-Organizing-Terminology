@@ -16,4 +16,4 @@ In [strict](https://github.com/gcassel/Modular-Organization-Terminology/blob/mas
 
 #### See Also
 
-*[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md)*, *[system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*
+*[path](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/path.md)*, *[network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md)*, *[system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*
