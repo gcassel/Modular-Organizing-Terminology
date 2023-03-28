@@ -10,4 +10,4 @@ Paths *[link](https://github.com/gcassel/Modular-Organization-Terminology/blob/m
 
 #### Synonym(s) 
 
-*route*
+*pathway*, *route*
