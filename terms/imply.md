@@ -5,3 +5,7 @@ To imply is to *[include](https://github.com/gcassel/Modular-Organization-Termin
 #### Notes
 
 *Implication* can be [intentional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) *or* unintentional.
+
+#### Related Terms
+
+*[explicate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/explicate.md)*
