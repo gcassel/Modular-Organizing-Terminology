@@ -8,4 +8,4 @@
 
 #### Notes
 
-This is a placeholder definition; needs work.
+This is a skeletal definition; needs work.
