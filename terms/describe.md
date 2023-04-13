@@ -10,4 +10,4 @@
 
 #### See Also
 
-*[definition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/definition.md), [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md)*
+*[define](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md), [specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md)*
