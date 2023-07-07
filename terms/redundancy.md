@@ -4,4 +4,6 @@
 
 #### Notes
 
+Redundancy is a [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [replaceability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replace.md).  Redundancy implies that replaceable elements are intentionally held in reserve, purely as a safeguard against disruptions.  
+
 Redundancy can be in[efficient](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/efficiency.md), but it can also *increase the [security](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/secure.md) of [systemic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) [functions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md)*.  Depending on context, some redundancy is usually [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) for system security.
