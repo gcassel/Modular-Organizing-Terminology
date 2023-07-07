@@ -4,7 +4,7 @@
 
 #### Notes
 
-Resilience emerges from [adaptability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md), [replaceability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replace.md), [reservation](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/reserve.md) and [reversibility](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/revert.md).  (Note that this is a placeholder addition, to be expanded later.)
+Resilience emerges from [availability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/availability.md), [adaptability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md), [replaceability](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replace.md) and [reversibility](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/revert.md).  (Note that this is a placeholder addition, to be expanded later.)
 
 #### Related Terms
 
