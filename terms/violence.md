@@ -1,3 +1,7 @@
 #### Definition
 
 Violence is *[damaging](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/damage.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)* which is either (1) *[intentionally](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) damaging* or (2) results from *gross [neglect](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/neglect.md) of [relevant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relevance.md) [risks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/risk.md)*.
+
+#### Notes
+
+In [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md), it's subtly important to distinguish *violence* from intentional avoidance or enervation, such as boycotts and (some) sanctions.  For example, there's a profoundly important difference between refusing to engage in transactions (boycotting) or refusing to [collaborate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaborate.md) with a person or [project](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md) and, in contrast, actively seeking to harm them.
