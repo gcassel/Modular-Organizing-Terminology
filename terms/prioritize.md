@@ -1,6 +1,8 @@
-**Definition:**
+**Definitions:**
 
-*To prioritize* is *to [rank](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rank.md) [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)* according to their *[perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) [importance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To prioritize* is *to [rank](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rank.md) [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)* according to their *[perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) [importance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/importance.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) time-sensitive [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+
+*Priority* is *perceived importance within a time-sensitive context*.
 		
 **Other [Forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md):**  
 
