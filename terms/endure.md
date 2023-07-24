@@ -6,6 +6,8 @@
 
 *Durability* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) which [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) the *[relative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) [predicted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) duration* of a specific element as compared to [alternatives](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/alternative.md).
 
+*During* is a preposition which limits the [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) of a [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) to a specific [interval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md) of time.
+
 #### Notes
 
 *Endure* and *[persist](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/persist.md)* are practically equivalent (and, don't need separate formal definitions), but *durable* and *persistent* are not equivalent.  (*Persistent* is a [strictly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) [specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of *durable*.)
