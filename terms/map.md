@@ -6,7 +6,7 @@
 
 #### Notes
 
-Maps often try to represent the status of most or all of their (variable) components at the point or within the stage which they represent, but they may focus on one or a few variables.  
+Maps often try to represent the status of most or all of their (variable) components [during](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/endure.md) their temporal context, but they may focus on one or a few variables.  
 
 Maps are helpful for acting, discussing, designing and deciding at a high level of detail.  We often model and map detailed structures in major long-term projects, such as organizational departments, roles and current role-holders.  Maps can be used as reports within sufficiently-defined contexts, and are often described or linked within large reports.  Maps sometimes use recordings either as primary data sources or supplementary overlays; for example, maps of Earth sometimes include satellite photographs.  The photographs per se aren’t maps, but they’re packaged and presented (by agents) as a map, or as part of one. 
 
