@@ -1,7 +1,6 @@
 #### Definition
 
-A *subject* is *a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) element which an [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) has been [based](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) on.*
-
+A *subject* is *the element which is [described](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md) by a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)*.
 #### Notes 
 
 Subjects often [perform](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) actions or activities [directly](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/direct.md).  This [use-case](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use-case.md) includes all [uses](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/use.md) of the term *subject* within the [context](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/context.md) of grammatical sentence [construction](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/form.md).
