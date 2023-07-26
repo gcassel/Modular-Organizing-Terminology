@@ -1,6 +1,6 @@
 #### Definition
 
-A *semantic link* is a *[link](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md)* which *[identifies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) one or more [relational traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md)* for the linked elements.
+A *semantic link* is a *[link](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md)* which *[identifies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) one or more [relational traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md)* for two or more linked [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md).
 		
 #### Notes
 
