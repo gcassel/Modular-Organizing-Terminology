@@ -1,4 +1,4 @@
-A *semantic link* is a *[directional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [link](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md)* which *[creates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) one or more [relational traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md)* for the linked elements.
+A *semantic link* is a *[link](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md)* which *[identifies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) one or more [relational traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md)* for the linked elements.
 		
 **Notes:**  
 
