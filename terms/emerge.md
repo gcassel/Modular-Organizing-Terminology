@@ -6,7 +6,7 @@
 
 #### Notes
 
-*Emerge* is a [basic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organize.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) along with *[design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md)*.
+*Emergence* is deeply distinguished from *[design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md)* in Modular Organizing Terminology. (Designed relationships are *[mediated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) by designed elements*, instead of emerging directly from relationships.)
  
 #### See Also
 
