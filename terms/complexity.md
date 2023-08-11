@@ -12,7 +12,7 @@ Complexity can be [described](https://github.com/gcassel/Modular-Organization-Te
 
 Complexity via variety can arise through a relatively small number of complex relationships; i.e., only two elements [interact](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interaction.md), but they interact quite differently depending on each element's current [status](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md) and/or the [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) in which the interaction occurs.
 
-Complexity can rarely be [measured](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/measure.md) effectively except in relatively *less-complex* (and artificial) *[design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+Complexity can't be [measured](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/measure.md) effectively except in relatively *less-complex* (and artificial) *[design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 
 #### See Also
 
