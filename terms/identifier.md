@@ -4,9 +4,11 @@ An identifier (or ID) is a *[sign](https://github.com/gcassel/Modular-Organizati
 
 #### Specialized Definition
 
-A *[user](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/use.md) ID* or *[participant](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/participate.md) ID* is *an identifier which represents an [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) in a [social](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/social.md) context.*
+A *[user](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/use.md) ID* or *[participant](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/participate.md) ID* is *an identifier which represents an [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) in a [social](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/social.md) system.*
 
 #### Notes
+
+Identifiers are (or are part of) [identities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md), but identity is a much broader and more [flexible](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md) [concept](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md).
 
 Identifiers often represent *agents or [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* in social contexts, including [signaling](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/signal.md) [networks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md).
 
@@ -16,4 +18,4 @@ Identifiers are often [names](https://github.com/gcassel/Modular-Organization-Te
 
 #### See Also
 
-*[key](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/key.md)*:  IDs and keys are often [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [linked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md), and **an ID can [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [effectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) as a key** within a [sufficiently](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/suffice.md) [strict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) context.
+*[key](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/key.md)*:  IDs and keys are often [directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [linked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md), and **an ID can [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [effectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) as a key** within a [sufficiently](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/suffice.md) [strict](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) and [secure](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/secure.md) system.
