@@ -1,0 +1,3 @@
+#### Definition
+
+*Interchangeable* is a [relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md) of two or more [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which *are [mutually](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mutual.md) [replaceable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replace.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
