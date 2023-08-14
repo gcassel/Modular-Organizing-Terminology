@@ -6,10 +6,13 @@
 
 #### Notes
 
+*Identifying* is a broad context which [includes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/include.md) all [mental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mental.md) [relating](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) of [concepts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md).
+
 Identification is especially associated with assigning traits such as *[constant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/constant.md)* [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) or *[variable-](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md)type: [value](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md)/name* to [perceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) or [conceived](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md) [instances](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) of those type. 
 
 *[Naming](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/name.md)* is a [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of identifying.
 
-#### See Also
+#### Related Terms
 
-*[determine](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/determine.md)*
+* *[identifier](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identifier.md)*
+* *[determine](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/determine.md)*
