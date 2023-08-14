@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
-Analog is a *[trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md)* which *[directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) other information*.  
+*Analog* is a *[trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md)* which *[directly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/direct.md) [represents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/represent.md) other information*.
+
+*Analogous* is a [relational trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relational-trait.md) of two or more [patterns](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/pattern.md) which *are [similar](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/similar.md)* at a *[sufficiently](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/suffice.md) low [level of detail](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-detail.md)*.
 
 #### [Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) Meaning 
 
