@@ -1,6 +1,8 @@
-#### Definition
+#### Definitions
 
-*To identify* is to *[assign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) to an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *[enable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/enable.md) [effective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) [discussion](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dialogue.md) of that element* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+*To identify* is to *[assign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)* which *[sufficiently](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/suffice.md) distinguish a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) from similar elements* in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+
+*Identity* is *one or more traits* which *sufficiently distinguish a specific element from similar elements* in a specific context.
 
 #### Notes
 
