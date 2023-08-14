@@ -8,4 +8,4 @@
 
 #### Synonym(s)
 
-*self-similarity*
+*self-[similarity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/similar.md*
