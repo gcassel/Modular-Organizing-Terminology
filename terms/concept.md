@@ -10,4 +10,6 @@ A concept is an *[idea](https://github.com/gcassel/Modular-Organization-Terminol
 		
 #### Related Terms
 
-*conception*:  a [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) and [detailed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/detail.md) concept
+* *conception*:  a [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) and [detailed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/detail.md) concept
+
+* *[semantic triple](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/semantic-triple.md)*: all concepts contain one or more semantic triples
