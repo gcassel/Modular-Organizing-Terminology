@@ -8,6 +8,8 @@
 
 A collective's stewards may be [identified](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/identify.md) and [perceived](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perceive.md) as the *[official](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) [primary](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) [governors](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) of the community*.  This is often a [role](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/role.md) in a *[team](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/team.md) of [peers](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/peer.md)*, such as a board of trustees or directors.
 
+See also **[About Stewardship](https://docs.google.com/document/d/18ynvj5E2D3ic1717oWMAUMd6TmhJxAzKtZ-A0BSaXBM/edit?usp=sharing)** for more information.
+
 #### Related Terms
 
 *[own](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/own.md)*:  Owners often delegate much or most of their responsibility to stewards.
