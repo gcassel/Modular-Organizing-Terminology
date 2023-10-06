@@ -1,8 +1,8 @@
 #### Definitions
 
-*To produce* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)*.
+*To produce* is *to [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)*.
 
-*A product* is *the [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which has been developed by a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)*.
+*A product* is *the [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which has been, or will be, developed by a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)*.
 
 #### Notes
 
