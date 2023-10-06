@@ -1,6 +1,6 @@
 #### Definition
 
-*A policy* is a *[plan](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md) to [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md)* one or more *[guidelines](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/guideline.md), [rules](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/rule.md) or [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.
+*A policy* is a *[plan](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md) to [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md)* one or more *[guidelines](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/guideline.md) or [rules](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/rule.md)*.
 
 #### Notes
 
