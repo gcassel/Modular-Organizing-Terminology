@@ -1,0 +1,3 @@
+#### Definition
+
+*A media resource* is *a [signal](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/signal.md) which has been [intentionally](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/intend.md) [created](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/create.md) or [recorded](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/record.md)* in one or more *[physical](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/physical.md) [mediums](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/media.md)*.
