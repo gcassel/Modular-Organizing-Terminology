@@ -1,6 +1,6 @@
 #### Definition
 
-A role is a *[functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* which an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) has with an *agent or [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
+A role is a *[functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* which an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) has with one or more *agents or [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)*.
 
 #### Notes
 
