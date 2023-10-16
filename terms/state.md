@@ -13,3 +13,7 @@
 [Agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often *state* [physical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/physical.md), [mental](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mental.md) *and/or* [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [perceptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/perceive.md) and [concepts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/concept.md).
 		
 [Useful](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) statements [require](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/requirement.md) shared context.  Such context may often be [implied](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/imply.md) in specific statements.   However, statements often do include [details](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/detail.md) about their [intended](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/intend.md) context.
+
+#### See Also / Disambiguation
+
+See *[status](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/status.md)* regarding *state* as a condition or phase.
