@@ -5,3 +5,7 @@
 #### Notes
 
 Levels of authority include levels of [governance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) and [control](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/control.md), which are probably what most people think of as hierarchy.  A level of authority is created whenever a [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) or [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) [defines](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) [limitations](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/limit.md) upon the [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) of one or more [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) which they govern, using various means such as passive and active [security](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/secure.md) [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md). 
+
+#### See Also
+
+*[level-of-design](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/level-of-design.md)*: Levels of design often exist with or without levels of authority.
