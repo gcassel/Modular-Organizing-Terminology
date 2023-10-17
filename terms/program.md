@@ -1,8 +1,6 @@
-#### Definition
+#### Definitions
 
 *To program* is to *[automate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/automate.md) or [facilitate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/facilitate.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)* in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
-
-**Specialized Meaning** 
 
 *A program* is a *[media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md)* which automates or facilitates a specific process in a specific context.
 
