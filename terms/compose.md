@@ -6,6 +6,9 @@
 
 *Composability* is the noun for composable.
 
+#### Notes
+
+Composition and composability are [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [associated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/associate.md) with [media items](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media-item.md).
 #### Related Terms
 
 *[Modularity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/module.md)* is a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of composability.
