@@ -4,7 +4,7 @@
 
 *A medium is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which (1) [includes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/include.md) [data](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/data.md)* or (2) *[transports](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transport.md) [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md)*.
 
-*Media* is the *[type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of all [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which include data*.
+*Media* is the *[type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md)* of *all [forms](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) which include data*.
 
 #### See Also
 
