@@ -1,6 +1,6 @@
 #### Definition
 
-*A subproject* is *a [project](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md) which is [governed](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) by another project.*
+*A subproject* is *a [project](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md) which is [governed](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) through another project.*
 
 #### Notes
 
