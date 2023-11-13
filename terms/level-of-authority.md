@@ -1,6 +1,6 @@
 #### Definition
 
-*Levels of authority* are [hierarchies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) determined by the [authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md) to see or use [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md); they include technical primitives such as _read-write [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md)_ to [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) resources.  
+*Levels of authority* are [hierarchies](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) determined by *the [authority](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/authority.md) to see or use a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md) or [channel](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/channel.md)*.  They include technical primitives such as _read-write [access](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/access.md)_ to [media](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/media.md) resources.  
 
 #### Notes
 
