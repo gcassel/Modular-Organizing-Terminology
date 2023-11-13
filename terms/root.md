@@ -7,4 +7,5 @@ A *root* is *the lowest [hierarchical](https://github.com/gcassel/Modular-Organi
 [Complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complexity.md) systems often contain many [systemic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) which each [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) as the root of one or more additional hierarchical levels.
 
 **** Synonym(s)
+
 *primitive*
