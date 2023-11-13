@@ -1,6 +1,6 @@
 #### Definition
 
-*An interface* is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) or [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) which *[enables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/enable.md) a [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) between two [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) elements*.
+*An interface* is an [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) or [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) which *[links](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/link.md) two or more [elements](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/element.md)* by *[creating](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/create.md) a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [functional](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [relationship](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md)* between them.
 
 #### Specialized Definitions
 
