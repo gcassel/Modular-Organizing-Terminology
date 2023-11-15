@@ -1,6 +1,6 @@
 #### Definition
 
-*A project* is *a [goal](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/goal.md) which an [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) or [team](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/team.md) [intentionally](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/intend.md) [supports](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/support.md) during a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [period](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/period.md)*.
+*A project* is *a [goal](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/goal.md), or [set](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/set.md) of goals, which an [agent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/agent.md) or [team](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/team.md) [intentionally](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/intend.md) [supports](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/support.md) during a [specific](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specific.md) [period](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/period.md)*.
 
 #### Notes
 
