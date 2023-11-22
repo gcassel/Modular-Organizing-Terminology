@@ -1,6 +1,6 @@
 #### Definition
 
-*Activity* is *a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)*.  
+*An activity* is *a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [event](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/event.md)*.  
 
 #### Specialized Definition
 
@@ -8,6 +8,7 @@
 
 #### Notes
 
+*Activity* is a [key
 
 Because an activity is a *type of action*, it may include many [variable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) [instances](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/instance.md) which meet the [definition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) of that type.  (For example, *getting exercise* is an activity which might include instances of walking, swimming, yoga or weight training, etcetera, and *weight training* is an activity (at a different [hierarchical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hierarchy.md) [level](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level.md)) which might include instances of squats or bench presses, etcetera.)
 
