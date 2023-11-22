@@ -1,12 +1,12 @@
 #### Definitions
 
-*To process* is *to [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) into [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)*.
+*To process* is *to [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) into one or more [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)*.
 
-*A process* is *an [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which (1) [uses](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) one or more [identifiable](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/identify.md) [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md)* and *(2) [produces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/produce.md) one or more specific [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)*.  
+*A process* is *an [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which changes one or more [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) into one or more [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)*.  
 
 #### Related Terms
 
-*[system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md)*: All systems [perform](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) processes, but not all processes *[represent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/represent.md) systems* or *[serve](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/serve.md) systems*.
+*[system](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md)*: All systems [perform](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perform.md) processes, but not all processes [serve](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/serve.md) [persistent](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/persist.md) systems.
 
 #### Notes
 
