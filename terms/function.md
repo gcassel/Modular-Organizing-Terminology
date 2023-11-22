@@ -2,7 +2,7 @@
 
 *To function* is *to [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*. 
 
-*A function* is *an [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which supports a specific system*.
+*A function* is *a [process](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md) which supports a specific system*.
 
 #### Notes 
 
