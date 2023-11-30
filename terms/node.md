@@ -1,6 +1,6 @@
 #### Definition
 
-A *node* is *an [agent](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/agent.md), [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) or [event](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/event.md)* which *is [linked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/specific.md) [network](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/network.md)* by one or more [paths](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/path.md). 
+A *node* is *an [agent](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/agent.md), [resource](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) or [event](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/event.md)* which *is [linked](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) to a [specific](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/specific.md) [network](https://github.com/gcassel/Modular-Organization-Terminology/tree/master/terms/network.md)*.
 
 #### Notes
 
