@@ -4,7 +4,7 @@
 
 #### Notes
 
-Individuals can have policies; however, most [official](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) policies are [developed](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md) by [collectives](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md).
+Individuals can have policies regarding their general interactions, but most [official](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) policies are [developed](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md) by [projects](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md).
 
 #### Related Terms
 
