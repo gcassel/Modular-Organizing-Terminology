@@ -8,3 +8,6 @@ The term interface is [generally](https://github.com/gcassel/Modular-Organizatio
 
 [Designed](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) interfaces, like those in the aforementioned software development, often [enable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/enable.md) [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) to [control](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/control.md) (and [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md)) [complex](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) [tools](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/tool.md).
 
+#### Notes
+
+Interfaces *use [channels](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/channel.md)* and often [filter](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/filter.md) [signals](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/filter.md).
