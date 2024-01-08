@@ -9,7 +9,7 @@ Levels of design are often at least [potentially](https://github.com/gcassel/Mod
 
 When components are autonomously developed, they become [extensions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/extend.md) of the [base](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) [level](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level.md).
 
-Due to the [contextuality](hierarchical](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) of levels of design, they may develop in diverse relationships and in any direction.  (*will add examples*)
+Due to the [contextuality](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) of levels of design, they may develop in diverse relationships and in any direction.  (*will add examples*)
 
 While levels of design are most basically and generally associated with *[intentional](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/intend.md) [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [processes](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/process.md)*, they exist in many or most [perceptions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/perceive.md) and [descriptions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/describe.md), including [reports](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/report.md) and [recordings](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/record.md).
 
