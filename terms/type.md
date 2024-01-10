@@ -1,5 +1,8 @@
 #### Definition
 
+A type is a class or category of [phenomena](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/phenomenon.md) which *share one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md).*
+
+#### Technical Definition 
 A type is a *[specification](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) of a [valid](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md) [potential](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/potential.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Notes
