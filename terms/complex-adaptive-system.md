@@ -13,3 +13,5 @@ Some complex adaptive systems [display](https://github.com/gcassel/Modular-Organ
 *(Placeholder extended note/commentary, from https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/):*
 
 A complex system exhibits emergence, according to the new framework, by organizing itself into a hierarchy of levels that each operate independently of the details of the lower levels. The researchers suggest we think about emergence as a kind of “software in the natural world.” Just as the software of your laptop runs without having to keep track of all the microscale information about the electrons in the computer circuitry, so emergent phenomena are governed by macroscale rules that seem self-contained, without heed to what the component parts are doing.
+
+(^ "Higher" levels aren't independent of the lower levels, but they develop adaptability to temporary inconsistencies; they can exploit increasingly diffuse or generalized patterns.)
