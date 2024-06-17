@@ -4,3 +4,10 @@
 
 *Scalable* is a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [components](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) (including [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)) which *can [function](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/function.md) [effectively](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) at different scales* within a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [type](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)*.
 
+#### Notes
+Scalability means the ability to increase or decrease to more or less usage and [complexity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/complex.md) of usage.  For example, increased scale may include a greater number of [participants](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/participate.md) and/or more frequent or more complex activities (and interactions) which occur in a greater variety of [conditions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md).
+
+Reversibility: The ability to contract may best be thought of as reversibility, although it also applies to uses which started out at their maximum complexity.
+
+Scalable [technology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/technology.md) enables teams, communities and systems to endure systemic disruptions and collapses, and to opt out of harmful or toxic relationships, by reverting to simpler and/or smaller systems.
+
