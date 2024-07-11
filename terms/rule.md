@@ -4,5 +4,8 @@
 
 *A rule* is a *[principle](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/principle.md), [practice](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/practice.md) or [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)* which either (1) *happens [automatically](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/automate.md)* or (2) is *[strictly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/strict.md) [supported](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) (often coercively) by a [governing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* in a specific context.
 
+#### Notes
+Rules are distinguished from [guidelines](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/guideline.md) by the fact that *[agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) mutually agree to enforce rules*.  (If rules aren't enforced or enforceable, they're actually "just" guidelines-- and faux rules can unfairly inhibit the most cooperative and considerate people in a project or community.)
+
 #### See Also 
 *[guideline](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/guideline.md)*, *[prescribe](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/prescribe.md)*
