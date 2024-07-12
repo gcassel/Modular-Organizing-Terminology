@@ -1,6 +1,6 @@
 #### Definition
 
-*A stakeholder* is *an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) with [significant](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) [interest](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interest.md) in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) or [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)*.
+*A stakeholder* is *an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) who is [significantly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/significance.md) active in or otherwise affected by a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md), [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) or [project](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md)*.
 
 #### Notes
 
