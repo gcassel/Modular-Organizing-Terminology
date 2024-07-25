@@ -1,3 +1,6 @@
 #### Definition
 
 *Fraud* is [activity](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/activity.md) which *[bases](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) a [request](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/request.md) for [significant](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/significance.md) [investment](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/invest.md) on [misinformation](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/misinform.md)*, either [intentionally](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/intend.md) or through gross [neglect](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/neglect.md) of [accessible](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/access.md) [information](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/information.md).
+
+#### Notes
+Fraud is a key subtype of [violence](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/violence.md).
