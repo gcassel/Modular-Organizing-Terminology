@@ -1,6 +1,6 @@
 #### Definition
 
-*A team* is a *[group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) of [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* who *[collaborate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaborate.md) on a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [goal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)*.
+*A team* is a *[group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) of [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* who *[collaborate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/collaborate.md) on a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [project](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md)*.
 
 #### Specialized Definition
 
