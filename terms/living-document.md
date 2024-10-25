@@ -4,4 +4,4 @@ A *living document* is *a [digital](https://github.com/gcassel/Modular-Organizin
 
 #### Notes
 
-Living items are often useful, especially during [product](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/produce.md) [development](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md), but they may occasionally need to be published in static [editions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/edition.md).
+Living items are often useful, especially during [product](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/produce.md) [development](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/develop.md), but they may occasionally need to be forked into different [versions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/version.md) and/or published in static [editions](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/edition.md).
