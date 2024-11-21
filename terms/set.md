@@ -1,6 +1,6 @@
 #### Definition
 
-A set is a *[group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *[share](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/common.md) at least one [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A *set* is *any number or grouping of [elements](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* which *[mutually](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mutual.md) possess at least one [identified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)* which defines that set.
 
 #### Notes
 
