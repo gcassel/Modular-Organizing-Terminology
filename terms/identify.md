@@ -2,7 +2,7 @@
 
 *To identify* is to *[assign](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/assign.md) [traits](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md)* which *[sufficiently](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/suffice.md) distinguish a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) from [similar](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/similar.md) elements* in a specific [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
-*Identity* is *one or more traits* which *sufficiently distinguish a specific [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md), or [group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) of agents,* in a specific [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) context.
+*Identity* is *a trait or [set](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/set.md) of traits* which *sufficiently distinguish a specific [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md), or [group](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/group.md) of agents,* in a specific [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) context.
 
 #### Notes
 
