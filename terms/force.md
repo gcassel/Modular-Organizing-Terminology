@@ -1,6 +1,10 @@
-#### Definition
+#### Definitions
 
-Force is the *[element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which [produces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/produce.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [interactive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interactive.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+*Force* is the *[element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md) which [produces](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/produce.md) [action](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md)* in a *[specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [interactive](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interactive.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
+
+*To force* is *to [predictably](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/predict.md) [create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) action* despite [variables](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/variable.md) which might often prevent such action.
+
+*To enforce* is *to forcibly [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) the continued [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) of a [rule](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md)*.
 
 #### Notes
 
