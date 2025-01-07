@@ -1,6 +1,6 @@
 **Definition:**
 
-A person is a *[unique](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) individual organism which has [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agency.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A person is a *[unique](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/unique.md) individual organism which has [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 **Plurals:** 
 
