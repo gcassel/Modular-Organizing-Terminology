@@ -1,6 +1,6 @@
 #### Definition
 
-A *resource* is *any [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) or [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)* which *can [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)*, and *is not an [agent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md).*
+A *resource* is *any [force](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/force.md) or [form](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md)* which *can [support](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/support.md) one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [goals](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)*, and *is not a [person](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/person.md).*
 
 #### Notes
 
