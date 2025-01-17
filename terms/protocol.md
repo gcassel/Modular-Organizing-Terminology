@@ -1,6 +1,6 @@
 #### Definition
 
-A *protocol* is a *[plan](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md) to [coordinate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coordinate.md) one or more [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
+A *protocol* is a *[plan](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/plan.md) to [coordinate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/coordinate.md) one or more [activities](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md)* within a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md).
 
 #### Specialized Definition
 
