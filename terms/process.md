@@ -2,7 +2,7 @@
 
 *To process* is *to [change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) one or more [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) into one or more [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)*.
 
-*A process* is *an [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) which changes one or more [inputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/input.md) into one or more [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)*.  
+*A process* is *an [activity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/activity.md) with one or more [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [outputs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/output.md)*.  
 
 #### Related Terms
 
