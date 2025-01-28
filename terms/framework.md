@@ -4,6 +4,8 @@
 
 #### Notes
 
+Frameworks inevitably create at least two levels of hierarchy, but they can be levels of [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-design.md) instead of [governance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/level-of-governance.md).
+
 A *framework* functions by *[linking](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/link.md) frames* which each hold a formal [component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md) which can develop in various ways, depending on the framework's [specification](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/specification.md).  A framework is, technically, a component itself; it’s a component which provides “[connective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/connect.md) tissue” (and, often, creates connective [issues](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/issue.md).)
 
 Frameworks can be used to develop many [types](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/type.md) of [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) and [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).
