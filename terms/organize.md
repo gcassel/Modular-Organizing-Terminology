@@ -4,7 +4,7 @@
 
 #### Specialized Definition
 
-*organization*: *An organization* is *a [collective](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/collective.md) which either [officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) or unofficially [governs](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md) one or more organizing activities*.
+*An organization* is *a [project](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/project.md) which holds [agency](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) in one or more [social](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/social.md) [contexts](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md)*.
 
 
 #### Notes
