@@ -1,6 +1,6 @@
 #### Definition
 
-*To govern* is to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md), [modify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/modify.md), [administer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/administer.md) and/or [officially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/official.md) [judge](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/judge.md) [rules](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md) and/or [guidelines](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/guideline.md)* for the [use](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) of one or more [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md).
+*To govern* is to *[create](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md), [modify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/modify.md) and [administer](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/administer.md) [rules](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/rule.md), and to [judge](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/judge.md) rules as well as their usage*.
 
 #### Notes  
 
