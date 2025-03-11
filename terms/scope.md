@@ -10,9 +10,9 @@ Scope may be [perceived](https://github.com/gcassel/Modular-Organization-Termino
 
 Importantly, scope often indicates the relative size of an *[active](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/active.md) context* to a *[potential](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/potential.md) context*.
 
-Perceptions of scope often depend upon [ordinal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/order.md) rather than [interval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md) comparison, and can be neither mathematical nor precise.  Therefore, [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often [describe](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/describe.md) scope vaguely and un[official](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/official.md)ly as small, medium, large or massive.
+Perceptions of scope often depend upon [ordinal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/order.md) rather than [interval](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/interval.md) comparison, and therefore can't be highly specific or accurate.  Therefore, [agents](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/agent.md) often [describe](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/describe.md) scope vaguely and un[official](https://github.com/gcassel/Modular-Organization-Terminology/edit/master/terms/official.md)ly as small, medium, large or massive.
 
-Mathematically precise scope, when possible, is the *ratio* of an interval to its [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md), or to *another* specific interval *within* that dimension.
+Mathematically pure scope, when possible, is the *ratio* of an interval to its [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md), or to *another* specific interval *within* that dimension.
 
 #### Example(s)
 
