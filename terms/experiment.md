@@ -6,7 +6,7 @@
 		
 Experiments often attempt to *[evaluate](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/value.md) the usefulness of specific concepts* within specific contexts.  However, they may also attempt to *[identify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) useful new concepts*.
 
-[Effective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) experimentation *[creates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [conditions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md)* which *could [falsify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/contradict.md) a [false](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/false.md) concept*.
+[Effective](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/effective.md) experimentation *[creates](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) [conditions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/condition.md)* which *could [falsify](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/contradict.md) a [false](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/false.md) concept*.
 
 #### Related Terms
 
