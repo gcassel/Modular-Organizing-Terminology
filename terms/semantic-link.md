@@ -4,7 +4,7 @@ A *semantic link* is a *[link](https://github.com/gcassel/Modular-Organization-T
 		
 #### Notes
 
-Semantic links create [semantic triples](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/semantic-triple.md), although triples are also generated in many other ways.
+Semantic links create [semantic triples](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/semantic-triple.md), although triples are also [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) in many other ways.
 
 Semantic links may [include](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/include.md) [hyperlinks](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/hyperlink.md), although the meaning (/semantics) of most hyperlinks is merely implied.
 
