@@ -4,6 +4,9 @@
 
 *Fitness* is the [dimension](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/dimension.md) of "effectiveness in role" ranging from completely unfit to ideal.
 
+#### Synonym(s)
+*competent*
+
 #### Related Terms
 
 *[viable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/viable.md)*
