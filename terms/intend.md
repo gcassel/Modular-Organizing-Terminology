@@ -7,6 +7,6 @@
  
 #### Notes
  
-Note: conscious motivations aren’t necessarily the only, nor [primary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md), motivations for specific actions.
+Conscious motivations aren’t necessarily the only, nor the primary or [root](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/root.md) motivations for specific actions.
 
 **See Also:** *[goal](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/goal.md)*
