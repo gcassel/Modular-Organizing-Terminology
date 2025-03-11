@@ -2,7 +2,7 @@
 
 A *module* is a *[component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/component.md)* which *can be [replaced](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replace.md)* by any *[valid](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md) [alternative](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/alternative.md)* in a [specified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specification.md) [framework](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/framework.md) or [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md).  
 
-*Modular* is *a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) which use modules as [primary](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/base.md) components*.
+*Modular* is *a [trait](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/trait.md) of [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md) which use modules as their [root](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/root.md) components*.
  
 #### Notes
 
