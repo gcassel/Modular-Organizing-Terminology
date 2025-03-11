@@ -1,6 +1,6 @@
 #### Definition
 
-To update is to *[change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) a [component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* to be *more [fit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/fit.md) in one or more [identifiable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.
+To update is to *[change](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) an [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) [component](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* to be *more [fit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/fit.md) in one or more [identifiable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identify.md) [systems](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)*.
 
 #### Notes
 
