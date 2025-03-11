@@ -8,6 +8,6 @@ Outputs often *exit* from [subsystems](https://github.com/gcassel/Modular-Organi
 
 [Information](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/information.md) [resources](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/resource.md) can be easily [replicated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/replicate.md) and [transmitted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/transmit.md) outside of a system without ever *exiting* that system.
 
-#### Synonyms
+#### Related Terms
 
-*outcome*
+*[outcome](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/outcome.md)*
