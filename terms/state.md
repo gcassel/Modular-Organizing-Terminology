@@ -16,4 +16,4 @@
 
 #### See Also / Disambiguation
 
-See *[status](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/status.md)* regarding *state* as a condition or phase.
+See *[status](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/status.md)* and *[condition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/condition.md)* regarding *state* as a condition, phase or [stage](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/stage.md).
