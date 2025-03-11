@@ -1,3 +1,5 @@
+#### Definition
+
 *To alternate* is *to repeatedly replace an [active](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/active.md) [element](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/element.md)* in a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [context](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/context.md) with *other [valid](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/valid.md) elements*.
 		
 **[Specialized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [Meanings](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/mean.md):**  
