@@ -1,6 +1,6 @@
 #### Definition
 
-*A status* is *the condition of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) (or [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)) at a specific point in time, or during a specific [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md)*. 
+*A status* is *the [formalized](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) or [classified](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/class.md) [condition](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/condition.md) of a [specific](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specific.md) [network](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/network.md) (or [system](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/system.md)) at a specific point in time, or during a specific [period](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/period.md)*. 
 
 #### Notes 
 
@@ -12,4 +12,4 @@ A status may often describe [qualitative variables](https://github.com/gcassel/M
 
 #### Synonym(s)
 
-*condition*, *conditions*, *situation*
+*situation*
