@@ -8,7 +8,7 @@
 
 Plans are often [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) by, and [especially](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/specialize.md) [associated](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/associate.md) with, *[governing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/governance.md) agents*.
 
-Plans may (or may not) be [flexibly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md) [adaptable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md) to [changing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) [conditions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/status.md).
+Plans may (or may not) be [flexibly](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/flexible.md) [adaptable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md) to [changing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/change.md) [conditions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/condition.md).
 
 #### See Also 
 
