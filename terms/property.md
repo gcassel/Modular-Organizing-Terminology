@@ -5,9 +5,9 @@ A property is an *[inherent](https://github.com/gcassel/Modular-Organizing-Termi
 #### Notes
 Properties include the following:
 
-1. traits which are innately created by design processes
-2. traits which are technically required and/or explicitly defined in a specific relationship
-3. traits which are clearly and consistently inherent to the essential nature of a concept or phenomenon
+1. traits which are innately [created](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/create.md) by [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) [processes](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/process.md)
+2. traits which are technically [required](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/require.md) and/or explicitly [defined](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/define.md) in a specific relationship
+3. traits which are clearly and consistently innate to the [identity](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/identity.md) of a concept or phenomenon
 
 Properties cause specific [actions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/act.md) in specific [conditions](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/condition.md).
 
