@@ -8,7 +8,6 @@
 
 #### Related Terms
 
-* *[competent](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/competence.md)*
 * *[fit](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/fit.md)*
 * *[viable](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/viable.md)*
 
