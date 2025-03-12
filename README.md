@@ -4,14 +4,16 @@
 
 **Inclusive Organizing Texts (IOT)** is a repository of git Markdown files for [Inclusive Organizing](https://inclusiveorg.net).
 
-_** Until 12 March 2025, Inclusive Organizing Texts was known as Modular Organizing Terminology, and its sole purpose was to host the MOT ontology and definitions, which are now in IOT's [terms](https://github.com/inclusiveorg/iot/tree/master/terms) folder. **_
+# Overview
 
-### Topics
+** Until 12 March 2025, Inclusive Organizing Texts was known as Modular Organizing Terminology, and its sole purpose was to host the MOT ontology and definitions, which are now in iot's [terms](https://github.com/inclusiveorg/iot/tree/master/terms) folder. **
 
-The new _topics_ folder will be used to compose modular hypertexts on many interrelated subjects. These git files could replace much of Inclusive Organizing's use of Google Workspace.
+The new _topics_ folder will include modular hypertexts on many interrelated subjects. These git files could replace much of Inclusive Organizing's use of Google Workspace.
+
+You can (roughly) think of _iot/terms_ as a dictionary and _iot/topics_ as an encyclopedia, bearing in mind that they're both deeply hypertextual and _topics_ may include branching commentaries.
 
 ### Terms (Terminology)
-_(The following description now applies to IOT/terms)_
+_The following description now applies purely to IOT/terms:_
 
 **Modular Organizing Terminology (MOT)** is a [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [open source](https://www.gnu.org/licenses/gpl-3.0.en.html) English [language](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/language.md) *[ontology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/ontology.md) and [terminology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/terminology.md)* which can be [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) or [adapted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md) for many *[organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organize.md), [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) and [governance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md)* [principles](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/principle.md) and [practices](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/practice.md).
 
