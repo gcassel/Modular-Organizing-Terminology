@@ -2,7 +2,7 @@
 
 #### Description
 
-**Inclusive Organizing Texts (IOT)** is a repository for distributed versioning Markdown text files for [Inclusive Organizing](https://inclusiveorg.net).
+**Inclusive Organizing Texts (IOT)** is a repository of git Markdown files for [Inclusive Organizing](https://inclusiveorg.net).
 
 _** Until 12 March 2025, Inclusive Organizing Texts was known as Modular Organizing Terminology, and its sole purpose was to host the MOT ontology and definitions, which are now in IOT's [terms](https://github.com/inclusiveorg/iot/tree/master/terms) folder. **_
 
