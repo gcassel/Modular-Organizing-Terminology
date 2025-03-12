@@ -6,6 +6,10 @@
 
 _** Until 12 March 2025, Inclusive Organizing Texts was known as Modular Organizing Terminology, and its sole purpose was to host the MOT ontology and definitions, which are now in IOT's [terms](https://github.com/inclusiveorg/iot/tree/master/terms) folder. **_
 
+### Topics
+
+The new _topics_ folder will be used to compose modular hypertexts on many interrelated subjects. These git files could replace much of Inclusive Organizing's use of Google Workspace.
+
 ### Terms (Terminology)
 _(The following description now applies to IOT/terms)_
 
