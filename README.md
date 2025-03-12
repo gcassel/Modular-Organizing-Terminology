@@ -1,8 +1,8 @@
-# Inclusive Organizing Terminology & Texts
+# Inclusive Organizing Terms & Texts
 
 #### Description
 
-**Inclusive Organizing Terminology & Texts (iott)** is a repository of git Markdown files for [Inclusive Organizing](https://inclusiveorg.net).
+**Inclusive Organizing Terms & Texts (iott)** is a repository of git Markdown files for [Inclusive Organizing](https://inclusiveorg.net).
 
 # Overview
 
