@@ -1,7 +1,13 @@
 # Inclusive Organizing Texts
 
 #### Description
-_(WIP: updating to enlarge the purpose of this repo)_
+
+**Inclusive Organizing Texts (IOT)** is a repository for distributed versioning Markdown text files for [Inclusive Organizing](https://inclusiveorg.net).
+
+_** Until 12 March 2025, Inclusive Organizing Texts was known as Modular Organizing Terminology, and its sole purpose was to host the MOT ontology and definitions, which are now in IOT's [terms](https://github.com/inclusiveorg/iot/tree/master/terms) folder. **_
+
+### Terms (Terminology)
+_(The following description now applies to IOT/terms)_
 
 **Modular Organizing Terminology (MOT)** is a [generic](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/generic.md) [open source](https://www.gnu.org/licenses/gpl-3.0.en.html) English [language](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/language.md) *[ontology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/ontology.md) and [terminology](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/terminology.md)* which can be [used](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/use.md) or [adapted](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/adapt.md) for many *[organizing](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/organize.md), [design](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/design.md) and [governance](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/govern.md)* [principles](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/principle.md) and [practices](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/practice.md).
 
